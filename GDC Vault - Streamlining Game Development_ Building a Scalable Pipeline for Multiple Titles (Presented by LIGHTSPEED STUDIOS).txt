@@ -1,0 +1,15 @@
+以下是音频内容的中文摘要：
+
+LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑战，传统的为每个项目构建独立“交钥匙”方案的方式不可持续。他们发现尽管项目差异很大，但存在可复用的通用流程和工具集，因此目标是构建可扩展、适用于多个项目的美术管线，核心是*将解决方案分解为中间件*。
+
+受Project Pegasus和Houdini Public API的启发，他们意识到可以通过Unreal Engine的蓝图和反射系统，将Houdini等DCC工具的功能封装，使其在Unreal中可动态编程和广泛使用，而非依赖非脚本化的Houdini Engine。LightSpeed Studio放弃了早期独立的“交钥匙”方案尝试，转而将工具重制为一套*蓝图函数*，并在演示中展示了通过蓝图驱动脚本工具、蓝图Actor和编辑器工具Widget调用Houdini功能，实现交互式和批量生成。
+
+为了支持更多DCC工具而非局限于Houdini，他们选择了*OpenUSD*作为核心数据格式，因为它通用、能描述3D世界且生态系统良好。通过与Nvidia合作，他们利用Omniverse的*增量数据交换*技术，仅传输USD文件的变化部分，实现了美术资产的*实时交互和多人同步*。
+
+他们开发了一套基于OpenUSD的管线，使用内部的Cache Tree结构管理USD数据状态，处理USD导入（构建并标记待转换的树）、更新（基于Resync Notify更新部分树）和导出流程，并由专用线程处理。与将USD Stage绑定到Actor的常见方案不同，LightSpeed Studio开发了独立的*USD Bridge*对象，将USD Stage与Actor生命周期解耦，使其能在Unreal中的任何地方使用，并简化管理。
+
+为确保USD数据与Unreal对象准确映射，他们建立了“对象对等”（Object Equivalence），在导入导出时能正确识别并转换Actor、组件等。他们扩展了OpenUSD模式以支持游戏特性（如草地、地形、简易碰撞体）以及Unreal特有结构（如数据层、蓝图）。利用Unreal的反射系统，他们能识别并映射对象及其复杂属性到USD自定义数据中。
+
+通过蓝图、Python脚本和USD/JSON的结合，他们构建了工具，能直接在Unreal中驱动Houdini、Gaea等外部软件进行内容生成（甚至在云端计算），并将结果通过USD传回。HDA可以被转换成Unreal可加载的Python脚本，自动生成UI面板，整个过程无需C++代码。艺术家可以通过蓝图组合不同的工具和流程，创建自定义的程序化内容生成管线。
+
+最终目标是让艺术家感觉像在元宇宙中创作，利用OpenUSD和Omniverse连接不同软件作为服务，提供高性能的增量更新和实时同步，让艺术家自由选择工具，并能通过蓝图自定义并控制整个程序化工作流程。通过Project Letscraft等项目，他们验证了蓝图与OpenUSD结合构建多DCC程序化管线的潜力。

@@ -1,0 +1,11 @@
+*.mp4
+*.mp3
+*.ts
+
+# Credentials
+*.env
+*.json
+secrets.yml
+*.pem
+*.key
+*.pickle 
