@@ -77,7 +77,7 @@ def main():
         for idx, e in enumerate(entries, 1):
             slug = slugify(e['title'])
             f.write('---\n\n')
-            f.write(f"### {e['title']} {{#{slug}}}\n\n")
+            f.write(f'<h3 id="{slug}">{e["title"]}</h3>\n\n')
             f.write(f"- 视频链接: [{e['video_link']}]({e['video_link']})\n\n")
             f.write('**摘要**:\n\n')
             f.write(e['summary'] + '\n\n')

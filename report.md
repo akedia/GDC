@@ -91,7 +91,7 @@
 
 ---
 
-### GDC Vault - 'Balatro'_ Turning Low Resolution into High Praise {#gdc-vault---balatro_-turning-low-resolution-into-high-praise}
+<h3 id="gdc-vault---balatro_-turning-low-resolution-into-high-praise">GDC Vault - 'Balatro'_ Turning Low Resolution into High Praise</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1yABcnub-37iF_HdZVSuYSGhUyT4XTtB3/view?usp=sharing](https://drive.google.com/file/d/1yABcnub-37iF_HdZVSuYSGhUyT4XTtB3/view?usp=sharing)
 
@@ -113,7 +113,7 @@
 
 ---
 
-### GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play {#gdc-vault---diablo-immortal-pioneering-8-player-boss-raids-with-commonsense-cooperative-play}
+<h3 id="gdc-vault---diablo-immortal-pioneering-8-player-boss-raids-with-commonsense-cooperative-play">GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1hpHJWxSYOSWCabYlpNFvDUIrjLF3Weu_/view?usp=sharing](https://drive.google.com/file/d/1hpHJWxSYOSWCabYlpNFvDUIrjLF3Weu_/view?usp=sharing)
 
@@ -137,7 +137,7 @@
 
 ---
 
-### GDC Vault - 'Frostpunk 2'_ Speaking in Systems {#gdc-vault---frostpunk-2_-speaking-in-systems}
+<h3 id="gdc-vault---frostpunk-2_-speaking-in-systems">GDC Vault - 'Frostpunk 2'_ Speaking in Systems</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1RAm2xF5IyRJCtPx5zA3y5ax4HKEgKCzr/view?usp=sharing](https://drive.google.com/file/d/1RAm2xF5IyRJCtPx5zA3y5ax4HKEgKCzr/view?usp=sharing)
 
@@ -165,7 +165,7 @@
 
 ---
 
-### GDC Vault - 'Honkai_ Star Rail'_ Reimagining RPGs for Mass Audiences and Broad Appeal {#gdc-vault---honkai_-star-rail_-reimagining-rpgs-for-mass-audiences-and-broad-appeal}
+<h3 id="gdc-vault---honkai_-star-rail_-reimagining-rpgs-for-mass-audiences-and-broad-appeal">GDC Vault - 'Honkai_ Star Rail'_ Reimagining RPGs for Mass Audiences and Broad Appeal</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1ikwRbbjSAYAGf5XmoN3B9tIDokptEhSt/view?usp=sharing](https://drive.google.com/file/d/1ikwRbbjSAYAGf5XmoN3B9tIDokptEhSt/view?usp=sharing)
 
@@ -193,7 +193,7 @@
 
 ---
 
-### GDC Vault - 'Prince of Persia_ The Lost Crown'_ Making a Modern Metroidvania Both Challenging and Accessible {#gdc-vault---prince-of-persia_-the-lost-crown_-making-a-modern-metroidvania-both-challenging-and-accessible}
+<h3 id="gdc-vault---prince-of-persia_-the-lost-crown_-making-a-modern-metroidvania-both-challenging-and-accessible">GDC Vault - 'Prince of Persia_ The Lost Crown'_ Making a Modern Metroidvania Both Challenging and Accessible</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1wnBTR7S03XSm_soRTCVEpmSX721sCU7L/view?usp=sharing](https://drive.google.com/file/d/1wnBTR7S03XSm_soRTCVEpmSX721sCU7L/view?usp=sharing)
 
@@ -223,7 +223,7 @@
 
 ---
 
-### GDC Vault - AI Executive Panel_ Exploring What's Next in AI for Gaming(Presented by EPAM) {#gdc-vault---ai-executive-panel_-exploring-whats-next-in-ai-for-gamingpresented-by-epam}
+<h3 id="gdc-vault---ai-executive-panel_-exploring-whats-next-in-ai-for-gamingpresented-by-epam">GDC Vault - AI Executive Panel_ Exploring What's Next in AI for Gaming(Presented by EPAM)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1ZaLAJoSdgF9VG1ZkOb541A9TWHuKB24z/view?usp=sharing](https://drive.google.com/file/d/1ZaLAJoSdgF9VG1ZkOb541A9TWHuKB24z/view?usp=sharing)
 
@@ -251,7 +251,7 @@
 
 ---
 
-### GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI) {#gdc-vault---ai-in-games-wont-work-like-you-expect-presented-by-inworld-ai}
+<h3 id="gdc-vault---ai-in-games-wont-work-like-you-expect-presented-by-inworld-ai">GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1_NrvG6WHlEAFZdaN0qQRY4bgJk1Q8ftv/view?usp=sharing](https://drive.google.com/file/d/1_NrvG6WHlEAFZdaN0qQRY4bgJk1Q8ftv/view?usp=sharing)
 
@@ -267,7 +267,7 @@
 
 ---
 
-### GDC Vault - AI-Generated 3D Assets_ No Joke, They're (Getting) Production-Ready (Presented by Meshy) {#gdc-vault---ai-generated-3d-assets_-no-joke-theyre-getting-production-ready-presented-by-meshy}
+<h3 id="gdc-vault---ai-generated-3d-assets_-no-joke-theyre-getting-production-ready-presented-by-meshy">GDC Vault - AI-Generated 3D Assets_ No Joke, They're (Getting) Production-Ready (Presented by Meshy)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1IENfMs5UHgkCwyopdusrRltTg4B3cB5l/view?usp=sharing](https://drive.google.com/file/d/1IENfMs5UHgkCwyopdusrRltTg4B3cB5l/view?usp=sharing)
 
@@ -289,7 +289,7 @@
 
 ---
 
-### GDC Vault - Amplifying Player Voices with LLMs in Game Development {#gdc-vault---amplifying-player-voices-with-llms-in-game-development}
+<h3 id="gdc-vault---amplifying-player-voices-with-llms-in-game-development">GDC Vault - Amplifying Player Voices with LLMs in Game Development</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1cxaGOwCdyQHv89mrZU9vzOPU2UxIuF9F/view?usp=sharing](https://drive.google.com/file/d/1cxaGOwCdyQHv89mrZU9vzOPU2UxIuF9F/view?usp=sharing)
 
@@ -315,7 +315,7 @@
 
 ---
 
-### GDC Vault - Art Direction Summit_ 'Angry Birds' and AI in Practice_ Finding Our Own Way {#gdc-vault---art-direction-summit_-angry-birds-and-ai-in-practice_-finding-our-own-way}
+<h3 id="gdc-vault---art-direction-summit_-angry-birds-and-ai-in-practice_-finding-our-own-way">GDC Vault - Art Direction Summit_ 'Angry Birds' and AI in Practice_ Finding Our Own Way</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1ajQlgrLBa3tDy2emDrWKTqf5dl93bZhj/view?usp=sharing](https://drive.google.com/file/d/1ajQlgrLBa3tDy2emDrWKTqf5dl93bZhj/view?usp=sharing)
 
@@ -333,7 +333,7 @@ AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越
 
 ---
 
-### GDC Vault - Art Direction Summit_ AAA Art at Scale_ Getting Quality Results from External Partners {#gdc-vault---art-direction-summit_-aaa-art-at-scale_-getting-quality-results-from-external-partners}
+<h3 id="gdc-vault---art-direction-summit_-aaa-art-at-scale_-getting-quality-results-from-external-partners">GDC Vault - Art Direction Summit_ AAA Art at Scale_ Getting Quality Results from External Partners</h3>
 
 - 视频链接: [https://drive.google.com/file/d/10v_tGZ0eJQhVyQOhrDtmHjbxfTD-JpM3/view?usp=sharing](https://drive.google.com/file/d/10v_tGZ0eJQhVyQOhrDtmHjbxfTD-JpM3/view?usp=sharing)
 
@@ -363,7 +363,7 @@ AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越
 
 ---
 
-### GDC Vault - Autodesk Developer Summit_ The Magic Behind Baldur's Gate 3_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk) {#gdc-vault---autodesk-developer-summit_-the-magic-behind-baldurs-gate-3_-pipeline-efficiency-enabled-by-production-management-tools-presented-by-autodesk}
+<h3 id="gdc-vault---autodesk-developer-summit_-the-magic-behind-baldurs-gate-3_-pipeline-efficiency-enabled-by-production-management-tools-presented-by-autodesk">GDC Vault - Autodesk Developer Summit_ The Magic Behind Baldur's Gate 3_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1XM8k5t9elsbDH5lhGlncQEZTbGlTv3ch/view?usp=sharing](https://drive.google.com/file/d/1XM8k5t9elsbDH5lhGlncQEZTbGlTv3ch/view?usp=sharing)
 
@@ -375,7 +375,7 @@ AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越
 
 ---
 
-### GDC Vault - Building the Perfect Vertical Slice_ Essential Strategies for Developers {#gdc-vault---building-the-perfect-vertical-slice_-essential-strategies-for-developers}
+<h3 id="gdc-vault---building-the-perfect-vertical-slice_-essential-strategies-for-developers">GDC Vault - Building the Perfect Vertical Slice_ Essential Strategies for Developers</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1BdlyQeWrsgNsTdCLILtd5oaOR5xvX65f/view?usp=sharing](https://drive.google.com/file/d/1BdlyQeWrsgNsTdCLILtd5oaOR5xvX65f/view?usp=sharing)
 
@@ -413,7 +413,7 @@ AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越
 
 ---
 
-### GDC Vault - Collaboration and Creativity_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS ) {#gdc-vault---collaboration-and-creativity_-building-original-game-ip-at-lightspeed-studios-presented-by-lightspeed-studios-}
+<h3 id="gdc-vault---collaboration-and-creativity_-building-original-game-ip-at-lightspeed-studios-presented-by-lightspeed-studios-">GDC Vault - Collaboration and Creativity_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS )</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1dRdcTLjj_5dMKwnmoM_FDwjhlwizQru3/view?usp=sharing](https://drive.google.com/file/d/1dRdcTLjj_5dMKwnmoM_FDwjhlwizQru3/view?usp=sharing)
 
@@ -425,7 +425,7 @@ Lightspeed Studios致力于开发原创游戏IP，而非仅制作续作，以满
 
 ---
 
-### GDC Vault - Comedy and Games_ The Why's, How's and Huhs_ {#gdc-vault---comedy-and-games_-the-whys-hows-and-huhs_}
+<h3 id="gdc-vault---comedy-and-games_-the-whys-hows-and-huhs_">GDC Vault - Comedy and Games_ The Why's, How's and Huhs_</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1RC0y5Vn2jPQDe3WeqkGA9FzvsiHxqRHT/view?usp=sharing](https://drive.google.com/file/d/1RC0y5Vn2jPQDe3WeqkGA9FzvsiHxqRHT/view?usp=sharing)
 
@@ -437,7 +437,7 @@ Lightspeed Studios致力于开发原创游戏IP，而非仅制作续作，以满
 
 ---
 
-### GDC Vault - Community Management Summit_ Rise of a Cult_ Impact of Community on Unreleased Games {#gdc-vault---community-management-summit_-rise-of-a-cult_-impact-of-community-on-unreleased-games}
+<h3 id="gdc-vault---community-management-summit_-rise-of-a-cult_-impact-of-community-on-unreleased-games">GDC Vault - Community Management Summit_ Rise of a Cult_ Impact of Community on Unreleased Games</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1jezqO4v6q5eSKrx6cMviOcmz4Knu8n9O/view?usp=sharing](https://drive.google.com/file/d/1jezqO4v6q5eSKrx6cMviOcmz4Knu8n9O/view?usp=sharing)
 
@@ -461,7 +461,7 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 ---
 
-### GDC Vault - Creative Sobriety_ On Originality in Game Development {#gdc-vault---creative-sobriety_-on-originality-in-game-development}
+<h3 id="gdc-vault---creative-sobriety_-on-originality-in-game-development">GDC Vault - Creative Sobriety_ On Originality in Game Development</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1z40l6lEBonO0ADuRjNrZ3K8mOl1qeNJL/view?usp=sharing](https://drive.google.com/file/d/1z40l6lEBonO0ADuRjNrZ3K8mOl1qeNJL/view?usp=sharing)
 
@@ -483,7 +483,7 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 ---
 
-### GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight' {#gdc-vault---designing-10000-handcrafted-puzzles-for-islands-of-insight}
+<h3 id="gdc-vault---designing-10000-handcrafted-puzzles-for-islands-of-insight">GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1RL_RE4MyfSKg4N19kt9_4OpuYSA-iTRD/view?usp=sharing](https://drive.google.com/file/d/1RL_RE4MyfSKg4N19kt9_4OpuYSA-iTRD/view?usp=sharing)
 
@@ -507,7 +507,7 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 ---
 
-### GDC Vault - Designing Endings and Balancing Player Expectations_ Illustrated by the Epilogue of 'Cyberpunk 2077_ Phantom Liberty' {#gdc-vault---designing-endings-and-balancing-player-expectations_-illustrated-by-the-epilogue-of-cyberpunk-2077_-phantom-liberty}
+<h3 id="gdc-vault---designing-endings-and-balancing-player-expectations_-illustrated-by-the-epilogue-of-cyberpunk-2077_-phantom-liberty">GDC Vault - Designing Endings and Balancing Player Expectations_ Illustrated by the Epilogue of 'Cyberpunk 2077_ Phantom Liberty'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1qcJEPrCX97iaoy45pgtHeTIP5yD3ZIxd/view?usp=sharing](https://drive.google.com/file/d/1qcJEPrCX97iaoy45pgtHeTIP5yD3ZIxd/view?usp=sharing)
 
@@ -532,7 +532,7 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 ---
 
-### GDC Vault - Developing 'Metaphor_ ReFantazio' and the Potential of RPG Command Battle Systems {#gdc-vault---developing-metaphor_-refantazio-and-the-potential-of-rpg-command-battle-systems}
+<h3 id="gdc-vault---developing-metaphor_-refantazio-and-the-potential-of-rpg-command-battle-systems">GDC Vault - Developing 'Metaphor_ ReFantazio' and the Potential of RPG Command Battle Systems</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1yBkyUxQwIXIxHYQJEe1yFS616TjuaSku/view?usp=sharing](https://drive.google.com/file/d/1yBkyUxQwIXIxHYQJEe1yFS616TjuaSku/view?usp=sharing)
 
@@ -544,7 +544,7 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 ---
 
-### GDC Vault - Doing It Live_ Prototyping in 'MARVEL SNAP' {#gdc-vault---doing-it-live_-prototyping-in-marvel-snap}
+<h3 id="gdc-vault---doing-it-live_-prototyping-in-marvel-snap">GDC Vault - Doing It Live_ Prototyping in 'MARVEL SNAP'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1XQPl6eMgnuxy1-OnYGqGF9UU3TqHozyY/view?usp=sharing](https://drive.google.com/file/d/1XQPl6eMgnuxy1-OnYGqGF9UU3TqHozyY/view?usp=sharing)
 
@@ -562,7 +562,7 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 ---
 
-### GDC Vault - F.A.C.U.L._ The First FPS AI Companion Who Understands Human Language {#gdc-vault---facul_-the-first-fps-ai-companion-who-understands-human-language}
+<h3 id="gdc-vault---facul_-the-first-fps-ai-companion-who-understands-human-language">GDC Vault - F.A.C.U.L._ The First FPS AI Companion Who Understands Human Language</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1P0y_Moc9peXSTXDOQ9WaD4LFASiBXF10/view?usp=sharing](https://drive.google.com/file/d/1P0y_Moc9peXSTXDOQ9WaD4LFASiBXF10/view?usp=sharing)
 
@@ -592,7 +592,7 @@ Faco项目目标是提供自然语言的AI伴侣互动、实现战术协作和�
 
 ---
 
-### GDC Vault - Farm Merge Valley_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord) {#gdc-vault---farm-merge-valley_-how-coolgames-maximized-game-platform-fit-on-discord-presented-by-discord}
+<h3 id="gdc-vault---farm-merge-valley_-how-coolgames-maximized-game-platform-fit-on-discord-presented-by-discord">GDC Vault - Farm Merge Valley_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1aoBteu5SQ7Zi9btt_w5TtL8MgDAentkG/view?usp=sharing](https://drive.google.com/file/d/1aoBteu5SQ7Zi9btt_w5TtL8MgDAentkG/view?usp=sharing)
 
@@ -608,7 +608,7 @@ Farm Merge Valley 是一款具有强社交元素的合并类农场游戏（如�
 
 ---
 
-### GDC Vault - From 'Persona' to 'Metaphor_ ReFantazio'_ Creating a Visual Identity for a New Series {#gdc-vault---from-persona-to-metaphor_-refantazio_-creating-a-visual-identity-for-a-new-series}
+<h3 id="gdc-vault---from-persona-to-metaphor_-refantazio_-creating-a-visual-identity-for-a-new-series">GDC Vault - From 'Persona' to 'Metaphor_ ReFantazio'_ Creating a Visual Identity for a New Series</h3>
 
 - 视频链接: [https://drive.google.com/file/d/19G4V_aV4WedW66N-AYofH5J41aNw54Ha/view?usp=sharing](https://drive.google.com/file/d/19G4V_aV4WedW66N-AYofH5J41aNw54Ha/view?usp=sharing)
 
@@ -632,7 +632,7 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 ---
 
-### GDC Vault - From Players to Creators_ A Guide to User-Generated Content Success in 'Arma Reforger' {#gdc-vault---from-players-to-creators_-a-guide-to-user-generated-content-success-in-arma-reforger}
+<h3 id="gdc-vault---from-players-to-creators_-a-guide-to-user-generated-content-success-in-arma-reforger">GDC Vault - From Players to Creators_ A Guide to User-Generated Content Success in 'Arma Reforger'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1lFMGbDR-lbEcKYoFtSE0KB5FkWdOnQRu/view?usp=sharing](https://drive.google.com/file/d/1lFMGbDR-lbEcKYoFtSE0KB5FkWdOnQRu/view?usp=sharing)
 
@@ -696,7 +696,7 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 ---
 
-### GDC Vault - Game AI Summit_ Growing an AI Director into a Full Adventure Director {#gdc-vault---game-ai-summit_-growing-an-ai-director-into-a-full-adventure-director}
+<h3 id="gdc-vault---game-ai-summit_-growing-an-ai-director-into-a-full-adventure-director">GDC Vault - Game AI Summit_ Growing an AI Director into a Full Adventure Director</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1NIIgWBY7U7ShikJVDQd28y1U-DF9ZF7Z/view?usp=sharing](https://drive.google.com/file/d/1NIIgWBY7U7ShikJVDQd28y1U-DF9ZF7Z/view?usp=sharing)
 
@@ -729,7 +729,7 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 ---
 
-### GDC Vault - Game AI Summit_ LLM as Core Gameplay_ Co-Creative Storytelling in '1001 Nights' {#gdc-vault---game-ai-summit_-llm-as-core-gameplay_-co-creative-storytelling-in-1001-nights}
+<h3 id="gdc-vault---game-ai-summit_-llm-as-core-gameplay_-co-creative-storytelling-in-1001-nights">GDC Vault - Game AI Summit_ LLM as Core Gameplay_ Co-Creative Storytelling in '1001 Nights'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1dqhTpGeIKT9cu7Hn8dG1IB65mOb0tVbZ/view?usp=sharing](https://drive.google.com/file/d/1dqhTpGeIKT9cu7Hn8dG1IB65mOb0tVbZ/view?usp=sharing)
 
@@ -749,7 +749,7 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 ---
 
-### GDC Vault - Game AI Summit_ Simulating the Perfect Organism in 'Alien_ Rogue Incursion' {#gdc-vault---game-ai-summit_-simulating-the-perfect-organism-in-alien_-rogue-incursion}
+<h3 id="gdc-vault---game-ai-summit_-simulating-the-perfect-organism-in-alien_-rogue-incursion">GDC Vault - Game AI Summit_ Simulating the Perfect Organism in 'Alien_ Rogue Incursion'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1rIJLWbcncl3PcCy1eKUOm9_6sFdnQyMt/view?usp=sharing](https://drive.google.com/file/d/1rIJLWbcncl3PcCy1eKUOm9_6sFdnQyMt/view?usp=sharing)
 
@@ -773,7 +773,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Game AI Summit_ The Human Cost of Generative AI {#gdc-vault---game-ai-summit_-the-human-cost-of-generative-ai}
+<h3 id="gdc-vault---game-ai-summit_-the-human-cost-of-generative-ai">GDC Vault - Game AI Summit_ The Human Cost of Generative AI</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1JTTaZzIjehM1-ijYmqKF3Qwc3r7HusqM/view?usp=sharing](https://drive.google.com/file/d/1JTTaZzIjehM1-ijYmqKF3Qwc3r7HusqM/view?usp=sharing)
 
@@ -798,7 +798,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Game Narrative Summit_ Built in Layers_ (Re)Creating History with the Narrative System in 'Civilization VII' {#gdc-vault---game-narrative-summit_-built-in-layers_-recreating-history-with-the-narrative-system-in-civilization-vii}
+<h3 id="gdc-vault---game-narrative-summit_-built-in-layers_-recreating-history-with-the-narrative-system-in-civilization-vii">GDC Vault - Game Narrative Summit_ Built in Layers_ (Re)Creating History with the Narrative System in 'Civilization VII'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/17UMvMwC1mHf9LSPoKPatbBWCXAQu_S0K/view?usp=sharing](https://drive.google.com/file/d/17UMvMwC1mHf9LSPoKPatbBWCXAQu_S0K/view?usp=sharing)
 
@@ -818,7 +818,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Game Narrative Summit_ Creating Playable Stories_ Approaches for Integrating Mechanics and Narrative {#gdc-vault---game-narrative-summit_-creating-playable-stories_-approaches-for-integrating-mechanics-and-narrative}
+<h3 id="gdc-vault---game-narrative-summit_-creating-playable-stories_-approaches-for-integrating-mechanics-and-narrative">GDC Vault - Game Narrative Summit_ Creating Playable Stories_ Approaches for Integrating Mechanics and Narrative</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1YvOmyjPHuinsfefGYrsAVSL9ey5eHUnz/view?usp=sharing](https://drive.google.com/file/d/1YvOmyjPHuinsfefGYrsAVSL9ey5eHUnz/view?usp=sharing)
 
@@ -843,7 +843,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Game Narrative Summit_ Storytelling Through Systems_ A Narrative Designer's Approach {#gdc-vault---game-narrative-summit_-storytelling-through-systems_-a-narrative-designers-approach}
+<h3 id="gdc-vault---game-narrative-summit_-storytelling-through-systems_-a-narrative-designers-approach">GDC Vault - Game Narrative Summit_ Storytelling Through Systems_ A Narrative Designer's Approach</h3>
 
 - 视频链接: [https://drive.google.com/file/d/19Ix99dEtLpKvA7uYf1v_EasLYncl0BX1/view?usp=sharing](https://drive.google.com/file/d/19Ix99dEtLpKvA7uYf1v_EasLYncl0BX1/view?usp=sharing)
 
@@ -870,7 +870,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Game Narrative Summit_ World Building from Weird to Mainstream {#gdc-vault---game-narrative-summit_-world-building-from-weird-to-mainstream}
+<h3 id="gdc-vault---game-narrative-summit_-world-building-from-weird-to-mainstream">GDC Vault - Game Narrative Summit_ World Building from Weird to Mainstream</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1OHlrvwa50OgBaJWnX2jF79xmuWdnMrWe/view?usp=sharing](https://drive.google.com/file/d/1OHlrvwa50OgBaJWnX2jF79xmuWdnMrWe/view?usp=sharing)
 
@@ -892,7 +892,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Game Revenue Growth_ Insights from Top Monetization Events {#gdc-vault---game-revenue-growth_-insights-from-top-monetization-events}
+<h3 id="gdc-vault---game-revenue-growth_-insights-from-top-monetization-events">GDC Vault - Game Revenue Growth_ Insights from Top Monetization Events</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1Umhli2XW9kvk-vljVT6wPY-ntHcJs6hB/view?usp=sharing](https://drive.google.com/file/d/1Umhli2XW9kvk-vljVT6wPY-ntHcJs6hB/view?usp=sharing)
 
@@ -923,7 +923,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Gaming Reimagined_ Mobile's Impact on Play Today (Presented by King) {#gdc-vault---gaming-reimagined_-mobiles-impact-on-play-today-presented-by-king}
+<h3 id="gdc-vault---gaming-reimagined_-mobiles-impact-on-play-today-presented-by-king">GDC Vault - Gaming Reimagined_ Mobile's Impact on Play Today (Presented by King)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/14Mf1MV9Njay2IsKDxGr674JMjY_SG3Be/view?usp=sharing](https://drive.google.com/file/d/14Mf1MV9Njay2IsKDxGr674JMjY_SG3Be/view?usp=sharing)
 
@@ -953,7 +953,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Grid Topology vs Game Mechanics_ Which Grid for You_ {#gdc-vault---grid-topology-vs-game-mechanics_-which-grid-for-you_}
+<h3 id="gdc-vault---grid-topology-vs-game-mechanics_-which-grid-for-you_">GDC Vault - Grid Topology vs Game Mechanics_ Which Grid for You_</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1Qde3PwEDwcaH4Rn2Xl8LA5z1dMpPJdJ-/view?usp=sharing](https://drive.google.com/file/d/1Qde3PwEDwcaH4Rn2Xl8LA5z1dMpPJdJ-/view?usp=sharing)
 
@@ -971,7 +971,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer' {#gdc-vault---harnessing-the-power-of-innovation-to-achieve-dau-growth-in-ace-racer}
+<h3 id="gdc-vault---harnessing-the-power-of-innovation-to-achieve-dau-growth-in-ace-racer">GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1W0V6OdboeCwkpTBn4NjsSzI_C1VWFd-M/view?usp=sharing](https://drive.google.com/file/d/1W0V6OdboeCwkpTBn4NjsSzI_C1VWFd-M/view?usp=sharing)
 
@@ -994,7 +994,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - How to Build a Game World with Systems and Story {#gdc-vault---how-to-build-a-game-world-with-systems-and-story}
+<h3 id="gdc-vault---how-to-build-a-game-world-with-systems-and-story">GDC Vault - How to Build a Game World with Systems and Story</h3>
 
 - 视频链接: [https://drive.google.com/file/d/12wrxtRkpMm1pMk9hSr1JYV7sH0a7siUO/view?usp=sharing](https://drive.google.com/file/d/12wrxtRkpMm1pMk9hSr1JYV7sH0a7siUO/view?usp=sharing)
 
@@ -1006,7 +1006,7 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 ---
 
-### GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive) {#gdc-vault---how-to-design-and-build-production-ready-game-ui-presented-by-rive}
+<h3 id="gdc-vault---how-to-design-and-build-production-ready-game-ui-presented-by-rive">GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1FAh2SK-hSjO3M93UYCpgennNB5sFzkmS/view?usp=sharing](https://drive.google.com/file/d/1FAh2SK-hSjO3M93UYCpgennNB5sFzkmS/view?usp=sharing)
 
@@ -1034,7 +1034,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing {#gdc-vault---improving-live-service-monetization-through-player-telemetry-enabled-marketing}
+<h3 id="gdc-vault---improving-live-service-monetization-through-player-telemetry-enabled-marketing">GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing</h3>
 
 - 视频链接: [https://drive.google.com/file/d/17Q5dRnAphxlGyW8IsS0r2WkV5bZaxmb2/view?usp=sharing](https://drive.google.com/file/d/17Q5dRnAphxlGyW8IsS0r2WkV5bZaxmb2/view?usp=sharing)
 
@@ -1056,7 +1056,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Independent Games Summit_ Developing at 5mb per Year_ The Making of 'Animal Well' {#gdc-vault---independent-games-summit_-developing-at-5mb-per-year_-the-making-of-animal-well}
+<h3 id="gdc-vault---independent-games-summit_-developing-at-5mb-per-year_-the-making-of-animal-well">GDC Vault - Independent Games Summit_ Developing at 5mb per Year_ The Making of 'Animal Well'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1YKegl4rerGULwPLdtz5rF82pEdsO6FLs/view?usp=sharing](https://drive.google.com/file/d/1YKegl4rerGULwPLdtz5rF82pEdsO6FLs/view?usp=sharing)
 
@@ -1080,7 +1080,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Independent Games Summit_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion {#gdc-vault---independent-games-summit_-meetings-make-games-fostering-empathy-and-focus-in-collaborative-discussion}
+<h3 id="gdc-vault---independent-games-summit_-meetings-make-games-fostering-empathy-and-focus-in-collaborative-discussion">GDC Vault - Independent Games Summit_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1P9HQvku8bHHskBdRHgMRU0e0AHrGplgw/view?usp=sharing](https://drive.google.com/file/d/1P9HQvku8bHHskBdRHgMRU0e0AHrGplgw/view?usp=sharing)
 
@@ -1102,7 +1102,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Insider Secrets_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu) {#gdc-vault---insider-secrets_-how-game-studios-quietly-out-test-the-competition-presented-by-pickfu}
+<h3 id="gdc-vault---insider-secrets_-how-game-studios-quietly-out-test-the-competition-presented-by-pickfu">GDC Vault - Insider Secrets_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1SwbhMgzZ9a1NrBYbtrwqpRY1DvXrYo4i/view?usp=sharing](https://drive.google.com/file/d/1SwbhMgzZ9a1NrBYbtrwqpRY1DvXrYo4i/view?usp=sharing)
 
@@ -1114,7 +1114,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - It's Gonna Hurt_ Metagame Management in 'War Robots' {#gdc-vault---its-gonna-hurt_-metagame-management-in-war-robots}
+<h3 id="gdc-vault---its-gonna-hurt_-metagame-management-in-war-robots">GDC Vault - It's Gonna Hurt_ Metagame Management in 'War Robots'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/10Z5-4fTP_zNCkTwoafGqEbeAuCNXpQTN/view?usp=sharing](https://drive.google.com/file/d/10Z5-4fTP_zNCkTwoafGqEbeAuCNXpQTN/view?usp=sharing)
 
@@ -1138,7 +1138,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Level Design Summit_ From 'Skyrim' and 'Fallout' to Solo Dev_ Creating 'The Axis Unseen' {#gdc-vault---level-design-summit_-from-skyrim-and-fallout-to-solo-dev_-creating-the-axis-unseen}
+<h3 id="gdc-vault---level-design-summit_-from-skyrim-and-fallout-to-solo-dev_-creating-the-axis-unseen">GDC Vault - Level Design Summit_ From 'Skyrim' and 'Fallout' to Solo Dev_ Creating 'The Axis Unseen'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1XFBXWkzTOXIdmhP3qKFXZjpc-eMjKHjl/view?usp=sharing](https://drive.google.com/file/d/1XFBXWkzTOXIdmhP3qKFXZjpc-eMjKHjl/view?usp=sharing)
 
@@ -1186,7 +1186,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Level Design Summit_ How Narrative Design Can Align Level Design and Art Around Themes & Tone {#gdc-vault---level-design-summit_-how-narrative-design-can-align-level-design-and-art-around-themes--tone}
+<h3 id="gdc-vault---level-design-summit_-how-narrative-design-can-align-level-design-and-art-around-themes--tone">GDC Vault - Level Design Summit_ How Narrative Design Can Align Level Design and Art Around Themes & Tone</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1KNvBOIbCCI_6_oweBKnJ7h4b0KVgfQEc/view?usp=sharing](https://drive.google.com/file/d/1KNvBOIbCCI_6_oweBKnJ7h4b0KVgfQEc/view?usp=sharing)
 
@@ -1208,7 +1208,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - Level Design Summit_ The Unusual Level Design of 'Tactical Breach Wizards' {#gdc-vault---level-design-summit_-the-unusual-level-design-of-tactical-breach-wizards}
+<h3 id="gdc-vault---level-design-summit_-the-unusual-level-design-of-tactical-breach-wizards">GDC Vault - Level Design Summit_ The Unusual Level Design of 'Tactical Breach Wizards'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1dMdNOjwJ1cPCQU0cbpKu6mwFiLhPT-Bx/view?usp=sharing](https://drive.google.com/file/d/1dMdNOjwJ1cPCQU0cbpKu6mwFiLhPT-Bx/view?usp=sharing)
 
@@ -1220,7 +1220,7 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 ---
 
-### GDC Vault - LoG's Leadership Shortcut_ A Decade of Hard-Won Lessons in Creative Leadership {#gdc-vault---logs-leadership-shortcut_-a-decade-of-hard-won-lessons-in-creative-leadership}
+<h3 id="gdc-vault---logs-leadership-shortcut_-a-decade-of-hard-won-lessons-in-creative-leadership">GDC Vault - LoG's Leadership Shortcut_ A Decade of Hard-Won Lessons in Creative Leadership</h3>
 
 - 视频链接: [https://drive.google.com/file/d/169AZKfkZdRHOJqvM5gET8sJak6iWVZwL/view?usp=sharing](https://drive.google.com/file/d/169AZKfkZdRHOJqvM5gET8sJak6iWVZwL/view?usp=sharing)
 
@@ -1243,7 +1243,7 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 ---
 
-### GDC Vault - Making Collectibles Count {#gdc-vault---making-collectibles-count}
+<h3 id="gdc-vault---making-collectibles-count">GDC Vault - Making Collectibles Count</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1CVhlCkMPga-FiQSWGTlVyt7CKvP5eeyy/view?usp=sharing](https://drive.google.com/file/d/1CVhlCkMPga-FiQSWGTlVyt7CKvP5eeyy/view?usp=sharing)
 
@@ -1271,7 +1271,7 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 ---
 
-### GDC Vault - Making of a Brawler_ Character Creation for 'Brawl Stars' {#gdc-vault---making-of-a-brawler_-character-creation-for-brawl-stars}
+<h3 id="gdc-vault---making-of-a-brawler_-character-creation-for-brawl-stars">GDC Vault - Making of a Brawler_ Character Creation for 'Brawl Stars'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1e6ssXJTjxH6IyuMdhN5mRd-86-nMRuQs/view?usp=sharing](https://drive.google.com/file/d/1e6ssXJTjxH6IyuMdhN5mRd-86-nMRuQs/view?usp=sharing)
 
@@ -1301,7 +1301,7 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 ---
 
-### GDC Vault - Masterworking Systems_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV' {#gdc-vault---masterworking-systems_-lessons-learned-from-the-engineering-of-season-of-loot-reborn-in-diablo-iv}
+<h3 id="gdc-vault---masterworking-systems_-lessons-learned-from-the-engineering-of-season-of-loot-reborn-in-diablo-iv">GDC Vault - Masterworking Systems_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1YNsELPfT-yPDtOJCqHCVFFjd0i38UahU/view?usp=sharing](https://drive.google.com/file/d/1YNsELPfT-yPDtOJCqHCVFFjd0i38UahU/view?usp=sharing)
 
@@ -1329,7 +1329,7 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 ---
 
-### GDC Vault - Mental Maps, Mastery, and Metacognition_ Game Design Lessons from Education {#gdc-vault---mental-maps-mastery-and-metacognition_-game-design-lessons-from-education}
+<h3 id="gdc-vault---mental-maps-mastery-and-metacognition_-game-design-lessons-from-education">GDC Vault - Mental Maps, Mastery, and Metacognition_ Game Design Lessons from Education</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1KsJzlPMh_398Rsq7osbRtKg53sa__UdP/view?usp=sharing](https://drive.google.com/file/d/1KsJzlPMh_398Rsq7osbRtKg53sa__UdP/view?usp=sharing)
 
@@ -1354,7 +1354,7 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 ---
 
-### GDC Vault - Monetizing Through Game Art_ Creating Engaging Decors in 'Good Pizza, Great Pizza' {#gdc-vault---monetizing-through-game-art_-creating-engaging-decors-in-good-pizza-great-pizza}
+<h3 id="gdc-vault---monetizing-through-game-art_-creating-engaging-decors-in-good-pizza-great-pizza">GDC Vault - Monetizing Through Game Art_ Creating Engaging Decors in 'Good Pizza, Great Pizza'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1JrK7HoKfAk4rcqGVv-nB1N0at3tp5t55/view?usp=sharing](https://drive.google.com/file/d/1JrK7HoKfAk4rcqGVv-nB1N0at3tp5t55/view?usp=sharing)
 
@@ -1382,7 +1382,7 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 ---
 
-### GDC Vault - Moving Files and Managing Assets at Naughty Dog {#gdc-vault---moving-files-and-managing-assets-at-naughty-dog}
+<h3 id="gdc-vault---moving-files-and-managing-assets-at-naughty-dog">GDC Vault - Moving Files and Managing Assets at Naughty Dog</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1d6s7gtaCQ4Z7gLKAlUlhe9Wgsv3O11nd/view?usp=sharing](https://drive.google.com/file/d/1d6s7gtaCQ4Z7gLKAlUlhe9Wgsv3O11nd/view?usp=sharing)
 
@@ -1411,7 +1411,7 @@ Naughty Dog的解决方案设计目标包括：
 
 ---
 
-### GDC Vault - Multiclassing_ Switching from Lead Designer to Executive Producer {#gdc-vault---multiclassing_-switching-from-lead-designer-to-executive-producer}
+<h3 id="gdc-vault---multiclassing_-switching-from-lead-designer-to-executive-producer">GDC Vault - Multiclassing_ Switching from Lead Designer to Executive Producer</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1GYvJTjr2xAWHTwz5Z03T_t_oaIsrvaN4/view?usp=sharing](https://drive.google.com/file/d/1GYvJTjr2xAWHTwz5Z03T_t_oaIsrvaN4/view?usp=sharing)
 
@@ -1433,7 +1433,7 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 
 ---
 
-### GDC Vault - Process Lite_ Less Time on Process, More Time on Development {#gdc-vault---process-lite_-less-time-on-process-more-time-on-development}
+<h3 id="gdc-vault---process-lite_-less-time-on-process-more-time-on-development">GDC Vault - Process Lite_ Less Time on Process, More Time on Development</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1kmcOOBVf6oOK2DyfhLrmi5OnQ-6XPMTa/view?usp=sharing](https://drive.google.com/file/d/1kmcOOBVf6oOK2DyfhLrmi5OnQ-6XPMTa/view?usp=sharing)
 
@@ -1456,7 +1456,7 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 
 ---
 
-### GDC Vault - Production Traps_ How Producers and Leaders Get Stuck {#gdc-vault---production-traps_-how-producers-and-leaders-get-stuck}
+<h3 id="gdc-vault---production-traps_-how-producers-and-leaders-get-stuck">GDC Vault - Production Traps_ How Producers and Leaders Get Stuck</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1yvu9VpUkvvY3tkle5LHdCUvycH9Qu8J5/view?usp=sharing](https://drive.google.com/file/d/1yvu9VpUkvvY3tkle5LHdCUvycH9Qu8J5/view?usp=sharing)
 
@@ -1474,7 +1474,7 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 
 ---
 
-### GDC Vault - Quo Vadis Mobile Gaming 2025_ {#gdc-vault---quo-vadis-mobile-gaming-2025_}
+<h3 id="gdc-vault---quo-vadis-mobile-gaming-2025_">GDC Vault - Quo Vadis Mobile Gaming 2025_</h3>
 
 - 视频链接: [https://drive.google.com/file/d/11iShHV-KbbWS_Cx968minIsjeMVD36EU/view?usp=sharing](https://drive.google.com/file/d/11iShHV-KbbWS_Cx968minIsjeMVD36EU/view?usp=sharing)
 
@@ -1496,7 +1496,7 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 
 ---
 
-### GDC Vault - Rescuing a Playerbase from the Doldrums_ 'Destiny 2' in 2022 {#gdc-vault---rescuing-a-playerbase-from-the-doldrums_-destiny-2-in-2022}
+<h3 id="gdc-vault---rescuing-a-playerbase-from-the-doldrums_-destiny-2-in-2022">GDC Vault - Rescuing a Playerbase from the Doldrums_ 'Destiny 2' in 2022</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1m_gDB2xkBHzFjf9elPC-Z3UmzX8DcQ6z/view?usp=sharing](https://drive.google.com/file/d/1m_gDB2xkBHzFjf9elPC-Z3UmzX8DcQ6z/view?usp=sharing)
 
@@ -1508,7 +1508,7 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 ---
 
-### GDC Vault - Revolutionizing Game Localization with AI Agents_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate) {#gdc-vault---revolutionizing-game-localization-with-ai-agents_-faster-cheaper-smarter-presented-by-dmm-game-translate}
+<h3 id="gdc-vault---revolutionizing-game-localization-with-ai-agents_-faster-cheaper-smarter-presented-by-dmm-game-translate">GDC Vault - Revolutionizing Game Localization with AI Agents_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1EqGzA0VKgLdHq0p5mI1VIj8UQHeM1o3s/view?usp=sharing](https://drive.google.com/file/d/1EqGzA0VKgLdHq0p5mI1VIj8UQHeM1o3s/view?usp=sharing)
 
@@ -1528,7 +1528,7 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 ---
 
-### GDC Vault - Rules of the Game 2025_ Uncommon Techniques from Insightful Designers {#gdc-vault---rules-of-the-game-2025_-uncommon-techniques-from-insightful-designers}
+<h3 id="gdc-vault---rules-of-the-game-2025_-uncommon-techniques-from-insightful-designers">GDC Vault - Rules of the Game 2025_ Uncommon Techniques from Insightful Designers</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1HRiO6ynpGpDTBnXB8zPc-oeuf2ttnOXH/view?usp=sharing](https://drive.google.com/file/d/1HRiO6ynpGpDTBnXB8zPc-oeuf2ttnOXH/view?usp=sharing)
 
@@ -1550,7 +1550,7 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 ---
 
-### GDC Vault - Six Pillars of Impactful Onboarding {#gdc-vault---six-pillars-of-impactful-onboarding}
+<h3 id="gdc-vault---six-pillars-of-impactful-onboarding">GDC Vault - Six Pillars of Impactful Onboarding</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1rfCOm5pOhWSKQ8d8d12cKpRDDAkUX-ZD/view?usp=sharing](https://drive.google.com/file/d/1rfCOm5pOhWSKQ8d8d12cKpRDDAkUX-ZD/view?usp=sharing)
 
@@ -1575,7 +1575,7 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 ---
 
-### GDC Vault - Stick to It_ Creating a UI Identity for 'LEGO Horizon Adventures' {#gdc-vault---stick-to-it_-creating-a-ui-identity-for-lego-horizon-adventures}
+<h3 id="gdc-vault---stick-to-it_-creating-a-ui-identity-for-lego-horizon-adventures">GDC Vault - Stick to It_ Creating a UI Identity for 'LEGO Horizon Adventures'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/14bPzLG8N1LqKfVpwxNAqKOlTLOKnY8__/view?usp=sharing](https://drive.google.com/file/d/14bPzLG8N1LqKfVpwxNAqKOlTLOKnY8__/view?usp=sharing)
 
@@ -1587,7 +1587,7 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 ---
 
-### GDC Vault - Streamlining Game Development_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS) {#gdc-vault---streamlining-game-development_-building-a-scalable-pipeline-for-multiple-titles-presented-by-lightspeed-studios}
+<h3 id="gdc-vault---streamlining-game-development_-building-a-scalable-pipeline-for-multiple-titles-presented-by-lightspeed-studios">GDC Vault - Streamlining Game Development_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1dJBRcRWpqVS1dzv14KhbM-KdS9p0zwvC/view?usp=sharing](https://drive.google.com/file/d/1dJBRcRWpqVS1dzv14KhbM-KdS9p0zwvC/view?usp=sharing)
 
@@ -1613,7 +1613,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ Delta Force_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-delta-force_-become-a-hero-rebuild-the-extraction-gameplay-presented-by-tencent-games}
+<h3 id="gdc-vault---tencent-games-developer-summit_-delta-force_-become-a-hero-rebuild-the-extraction-gameplay-presented-by-tencent-games">GDC Vault - Tencent Games Developer Summit_ Delta Force_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1CLMvoQbz9rFSfvdkuHUSuEyYHUmaGGla/view?usp=sharing](https://drive.google.com/file/d/1CLMvoQbz9rFSfvdkuHUSuEyYHUmaGGla/view?usp=sharing)
 
@@ -1625,7 +1625,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-large-scale-pvp-level-design-in-delta-force-presented-by-tencent-games}
+<h3 id="gdc-vault---tencent-games-developer-summit_-large-scale-pvp-level-design-in-delta-force-presented-by-tencent-games">GDC Vault - Tencent Games Developer Summit_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1ZXuInfW0f6-b8nRpVZ7Y7mWOOLmVxk0B/view?usp=sharing](https://drive.google.com/file/d/1ZXuInfW0f6-b8nRpVZ7Y7mWOOLmVxk0B/view?usp=sharing)
 
@@ -1643,7 +1643,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ Noise or Insight_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-noise-or-insight_-five-tips-to-get-real-insights-in-playtests-presented-by-tencent-games}
+<h3 id="gdc-vault---tencent-games-developer-summit_-noise-or-insight_-five-tips-to-get-real-insights-in-playtests-presented-by-tencent-games">GDC Vault - Tencent Games Developer Summit_ Noise or Insight_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/15E5AOZWk9MStizwlgY7yxhvrnm-EASmi/view?usp=sharing](https://drive.google.com/file/d/15E5AOZWk9MStizwlgY7yxhvrnm-EASmi/view?usp=sharing)
 
@@ -1663,7 +1663,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ The Creation of Delta Force Art Style_ Cross-Platform Visual and Style Development (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-the-creation-of-delta-force-art-style_-cross-platform-visual-and-style-development-presented-by-tencent-games}
+<h3 id="gdc-vault---tencent-games-developer-summit_-the-creation-of-delta-force-art-style_-cross-platform-visual-and-style-development-presented-by-tencent-games">GDC Vault - Tencent Games Developer Summit_ The Creation of Delta Force Art Style_ Cross-Platform Visual and Style Development (Presented by Tencent Games)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/19r061W94WEnVDvRzA7CwiVXHou7EhZD6/view?usp=sharing](https://drive.google.com/file/d/19r061W94WEnVDvRzA7CwiVXHou7EhZD6/view?usp=sharing)
 
@@ -1683,7 +1683,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ The Procedural Way_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-the-procedural-way_-reconstruct-mega-city-of-qin-dynasty-presented-by-tencent-games}
+<h3 id="gdc-vault---tencent-games-developer-summit_-the-procedural-way_-reconstruct-mega-city-of-qin-dynasty-presented-by-tencent-games">GDC Vault - Tencent Games Developer Summit_ The Procedural Way_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/12DJDGlP4Nn6AhUTPOHmHw_tKIr0J0Wv1/view?usp=sharing](https://drive.google.com/file/d/12DJDGlP4Nn6AhUTPOHmHw_tKIr0J0Wv1/view?usp=sharing)
 
@@ -1695,7 +1695,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth' {#gdc-vault---the-challenges-in-developing-an-innovative-battle-system-for-final-fantasy-vii-remake-and-rebirth}
+<h3 id="gdc-vault---the-challenges-in-developing-an-innovative-battle-system-for-final-fantasy-vii-remake-and-rebirth">GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1Xh_-HA3QyjFyBgt08nGS8F5doLXDsdTX/view?usp=sharing](https://drive.google.com/file/d/1Xh_-HA3QyjFyBgt08nGS8F5doLXDsdTX/view?usp=sharing)
 
@@ -1725,7 +1725,7 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 ---
 
-### GDC Vault - The First Descendant_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON) {#gdc-vault---the-first-descendant_-persevering-through-a-57-metacritic-as-a-live-service-game-presented-by-nexon}
+<h3 id="gdc-vault---the-first-descendant_-persevering-through-a-57-metacritic-as-a-live-service-game-presented-by-nexon">GDC Vault - The First Descendant_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1N9EMNbPH9bvifO-KsRDUpIDwWy0Sd2Ed/view?usp=sharing](https://drive.google.com/file/d/1N9EMNbPH9bvifO-KsRDUpIDwWy0Sd2Ed/view?usp=sharing)
 
@@ -1753,7 +1753,7 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 ---
 
-### GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them) {#gdc-vault---the-four-one-page-design-docs-you-need-and-how-to-use-them}
+<h3 id="gdc-vault---the-four-one-page-design-docs-you-need-and-how-to-use-them">GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1m6GMz2_Wm7rJH6SwiovWFYolDpIu4T0M/view?usp=sharing](https://drive.google.com/file/d/1m6GMz2_Wm7rJH6SwiovWFYolDpIu4T0M/view?usp=sharing)
 
@@ -1772,7 +1772,7 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 ---
 
-### GDC Vault - The Game Maker's Zodiac_ A Team-Building Tool {#gdc-vault---the-game-makers-zodiac_-a-team-building-tool}
+<h3 id="gdc-vault---the-game-makers-zodiac_-a-team-building-tool">GDC Vault - The Game Maker's Zodiac_ A Team-Building Tool</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1ZYLRKsSx9DEYL5kOJ2irl6j5erAji119/view?usp=sharing](https://drive.google.com/file/d/1ZYLRKsSx9DEYL5kOJ2irl6j5erAji119/view?usp=sharing)
 
@@ -1791,7 +1791,7 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 ---
 
-### GDC Vault - The Impact of Implementing Core Values {#gdc-vault---the-impact-of-implementing-core-values}
+<h3 id="gdc-vault---the-impact-of-implementing-core-values">GDC Vault - The Impact of Implementing Core Values</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1zigvRKP5iwdAOqwZyINCqMoYCZvt3HHk/view?usp=sharing](https://drive.google.com/file/d/1zigvRKP5iwdAOqwZyINCqMoYCZvt3HHk/view?usp=sharing)
 
@@ -1811,7 +1811,7 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 ---
 
-### GDC Vault - The Product Manager's Guide to Strategic Game Teardowns {#gdc-vault---the-product-managers-guide-to-strategic-game-teardowns}
+<h3 id="gdc-vault---the-product-managers-guide-to-strategic-game-teardowns">GDC Vault - The Product Manager's Guide to Strategic Game Teardowns</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1O-tA9e_OyBbUsaCnF5gxMmI9eVnWwK2g/view?usp=sharing](https://drive.google.com/file/d/1O-tA9e_OyBbUsaCnF5gxMmI9eVnWwK2g/view?usp=sharing)
 
@@ -1834,7 +1834,7 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 ---
 
-### GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon' {#gdc-vault---the-secret-to-narrative-driven-and-short-term-development-in-like-a-dragon}
+<h3 id="gdc-vault---the-secret-to-narrative-driven-and-short-term-development-in-like-a-dragon">GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1Fcu0bU9Wtk7LQdd-k38_-VfQiJlND2Vy/view?usp=sharing](https://drive.google.com/file/d/1Fcu0bU9Wtk7LQdd-k38_-VfQiJlND2Vy/view?usp=sharing)
 
@@ -1878,7 +1878,7 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 ---
 
-### GDC Vault - The State of PC and Console Games in 2025 {#gdc-vault---the-state-of-pc-and-console-games-in-2025}
+<h3 id="gdc-vault---the-state-of-pc-and-console-games-in-2025">GDC Vault - The State of PC and Console Games in 2025</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1EQDw5gSGIlHintpFYI_hQARVRAuZiMz5/view?usp=sharing](https://drive.google.com/file/d/1EQDw5gSGIlHintpFYI_hQARVRAuZiMz5/view?usp=sharing)
 
@@ -1908,7 +1908,7 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
 
 ---
 
-### GDC Vault - Three Mindset Shifts to Lead a World-Class Team {#gdc-vault---three-mindset-shifts-to-lead-a-world-class-team}
+<h3 id="gdc-vault---three-mindset-shifts-to-lead-a-world-class-team">GDC Vault - Three Mindset Shifts to Lead a World-Class Team</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1IDRo3__Pv0Y6OjTORBeA96mBHuX2BnCS/view?usp=sharing](https://drive.google.com/file/d/1IDRo3__Pv0Y6OjTORBeA96mBHuX2BnCS/view?usp=sharing)
 
@@ -1938,7 +1938,7 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
 
 ---
 
-### GDC Vault - Translating Between Business and Creativity as a Games Producer {#gdc-vault---translating-between-business-and-creativity-as-a-games-producer}
+<h3 id="gdc-vault---translating-between-business-and-creativity-as-a-games-producer">GDC Vault - Translating Between Business and Creativity as a Games Producer</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1Pf2OSmf9FgMIREJvFc7h4gm6ttd3nE_F/view?usp=sharing](https://drive.google.com/file/d/1Pf2OSmf9FgMIREJvFc7h4gm6ttd3nE_F/view?usp=sharing)
 
@@ -1950,7 +1950,7 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
 
 ---
 
-### GDC Vault - Unity Developer Summit_ Player-First Monetization_ How Metacore Balances Engagement & Revenue (Presented by Unity) {#gdc-vault---unity-developer-summit_-player-first-monetization_-how-metacore-balances-engagement--revenue-presented-by-unity}
+<h3 id="gdc-vault---unity-developer-summit_-player-first-monetization_-how-metacore-balances-engagement--revenue-presented-by-unity">GDC Vault - Unity Developer Summit_ Player-First Monetization_ How Metacore Balances Engagement & Revenue (Presented by Unity)</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1rOkpDpvOebLey906tj0YuyekCZ80NXjF/view?usp=sharing](https://drive.google.com/file/d/1rOkpDpvOebLey906tj0YuyekCZ80NXjF/view?usp=sharing)
 
@@ -1979,7 +1979,7 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
 
 ---
 
-### GDC Vault - Unlocking Gamer Motivations_ Insights from 1.75+ Million Players Over a Decade {#gdc-vault---unlocking-gamer-motivations_-insights-from-175-million-players-over-a-decade}
+<h3 id="gdc-vault---unlocking-gamer-motivations_-insights-from-175-million-players-over-a-decade">GDC Vault - Unlocking Gamer Motivations_ Insights from 1.75+ Million Players Over a Decade</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1ViDMefEbUX7lOsXdE-VPFqDrZizv3UDa/view?usp=sharing](https://drive.google.com/file/d/1ViDMefEbUX7lOsXdE-VPFqDrZizv3UDa/view?usp=sharing)
 
@@ -1996,7 +1996,7 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
 
 ---
 
-### GDC Vault - User-Generated Compassion in 'Sky_ Children of the Light' {#gdc-vault---user-generated-compassion-in-sky_-children-of-the-light}
+<h3 id="gdc-vault---user-generated-compassion-in-sky_-children-of-the-light">GDC Vault - User-Generated Compassion in 'Sky_ Children of the Light'</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1kBbv3DSkCYrlM3DMipszkWu8bh4aIqes/view?usp=sharing](https://drive.google.com/file/d/1kBbv3DSkCYrlM3DMipszkWu8bh4aIqes/view?usp=sharing)
 
@@ -2032,7 +2032,7 @@ UGC系统取得了巨大成功，受到了玩家的喜爱。超过63%的周活�
 
 ---
 
-### GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions {#gdc-vault---ux-summit_-from-dark-patterns-to-fair-play_-ethical-game-design-solutions}
+<h3 id="gdc-vault---ux-summit_-from-dark-patterns-to-fair-play_-ethical-game-design-solutions">GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1eoP2h56qkJfb8F8JAsM6dJvGg-hialKT/view?usp=sharing](https://drive.google.com/file/d/1eoP2h56qkJfb8F8JAsM6dJvGg-hialKT/view?usp=sharing)
 
@@ -2058,7 +2058,7 @@ Fair Patterns开发了查找和修复黑暗模式的AI解决方案和工具，�
 
 ---
 
-### GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games {#gdc-vault---ux-summit_-making-the-world-playful_-the-importance-of-accessible-mobile-games}
+<h3 id="gdc-vault---ux-summit_-making-the-world-playful_-the-importance-of-accessible-mobile-games">GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games</h3>
 
 - 视频链接: [https://drive.google.com/file/d/10-_B1PTvVaD3Ev4yXU2lYt4MaKrLS79g/view?usp=sharing](https://drive.google.com/file/d/10-_B1PTvVaD3Ev4yXU2lYt4MaKrLS79g/view?usp=sharing)
 
@@ -2078,7 +2078,7 @@ King公司在无障碍化方面已从单个游戏和少量人员的工作，发�
 
 ---
 
-### GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development {#gdc-vault---ux-summit_-mind-over-mechanics_-using-cognitive-science-to-enhance-game-development}
+<h3 id="gdc-vault---ux-summit_-mind-over-mechanics_-using-cognitive-science-to-enhance-game-development">GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1CmaWQrxpLGQogMC4eKvXBc1Nggm7eKFg/view?usp=sharing](https://drive.google.com/file/d/1CmaWQrxpLGQogMC4eKvXBc1Nggm7eKFg/view?usp=sharing)
 
@@ -2104,7 +2104,7 @@ King公司在无障碍化方面已从单个游戏和少量人员的工作，发�
 
 ---
 
-### GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games {#gdc-vault---ux-summit_-ux-writing_-a-newish-craft-in-mobile-games}
+<h3 id="gdc-vault---ux-summit_-ux-writing_-a-newish-craft-in-mobile-games">GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games</h3>
 
 - 视频链接: [https://drive.google.com/file/d/1LXSRfBPRmCuN9pdJJyVI8KM7rRgxr_Pu/view?usp=sharing](https://drive.google.com/file/d/1LXSRfBPRmCuN9pdJJyVI8KM7rRgxr_Pu/view?usp=sharing)
 
