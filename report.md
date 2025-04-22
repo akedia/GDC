@@ -1,106 +1,101 @@
-# GDC 2025 合并报告
+# 合并报告
 
 ## 目录
 
-**根目录**
-
-- [GDC 2025 合并报告](#gdc-2025-合并报告)
-  - [目录](#目录)
-    - [GDC Vault - 'Balatro'\_ Turning Low Resolution into High Praise](#gdc-vault---balatro_-turning-low-resolution-into-high-praise)
-    - [GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play](#gdc-vault---diablo-immortal-pioneering-8-player-boss-raids-with-commonsense-cooperative-play)
-    - [GDC Vault - 'Frostpunk 2'\_ Speaking in Systems](#gdc-vault---frostpunk-2_-speaking-in-systems)
-    - [GDC Vault - 'Honkai\_ Star Rail'\_ Reimagining RPGs for Mass Audiences and Broad Appeal](#gdc-vault---honkai_-star-rail_-reimagining-rpgs-for-mass-audiences-and-broad-appeal)
-    - [GDC Vault - 'Prince of Persia\_ The Lost Crown'\_ Making a Modern Metroidvania Both Challenging and Accessible](#gdc-vault---prince-of-persia_-the-lost-crown_-making-a-modern-metroidvania-both-challenging-and-accessible)
-    - [GDC Vault - AI Executive Panel\_ Exploring What's Next in AI for Gaming(Presented by EPAM)](#gdc-vault---ai-executive-panel_-exploring-whats-next-in-ai-for-gamingpresented-by-epam)
-    - [GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI)](#gdc-vault---ai-in-games-wont-work-like-you-expect-presented-by-inworld-ai)
-    - [GDC Vault - AI-Generated 3D Assets\_ No Joke, They're (Getting) Production-Ready (Presented by Meshy)](#gdc-vault---ai-generated-3d-assets_-no-joke-theyre-getting-production-ready-presented-by-meshy)
-    - [GDC Vault - Amplifying Player Voices with LLMs in Game Development](#gdc-vault---amplifying-player-voices-with-llms-in-game-development)
-    - [GDC Vault - Art Direction Summit\_ 'Angry Birds' and AI in Practice\_ Finding Our Own Way](#gdc-vault---art-direction-summit_-angry-birds-and-ai-in-practice_-finding-our-own-way)
-    - [GDC Vault - Art Direction Summit\_ AAA Art at Scale\_ Getting Quality Results from External Partners](#gdc-vault---art-direction-summit_-aaa-art-at-scale_-getting-quality-results-from-external-partners)
-    - [GDC Vault - Autodesk Developer Summit\_ The Magic Behind Baldur's Gate 3\_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk)](#gdc-vault---autodesk-developer-summit_-the-magic-behind-baldurs-gate-3_-pipeline-efficiency-enabled-by-production-management-tools-presented-by-autodesk)
-    - [GDC Vault - Building the Perfect Vertical Slice\_ Essential Strategies for Developers](#gdc-vault---building-the-perfect-vertical-slice_-essential-strategies-for-developers)
-    - [GDC Vault - Collaboration and Creativity\_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS )](#gdc-vault---collaboration-and-creativity_-building-original-game-ip-at-lightspeed-studios-presented-by-lightspeed-studios-)
-    - [GDC Vault - Comedy and Games\_ The Why's, How's and Huhs\_](#gdc-vault---comedy-and-games_-the-whys-hows-and-huhs_)
-    - [GDC Vault - Community Management Summit\_ Rise of a Cult\_ Impact of Community on Unreleased Games](#gdc-vault---community-management-summit_-rise-of-a-cult_-impact-of-community-on-unreleased-games)
-    - [GDC Vault - Creative Sobriety\_ On Originality in Game Development](#gdc-vault---creative-sobriety_-on-originality-in-game-development)
-    - [GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight'](#gdc-vault---designing-10000-handcrafted-puzzles-for-islands-of-insight)
-    - [GDC Vault - Designing Endings and Balancing Player Expectations\_ Illustrated by the Epilogue of 'Cyberpunk 2077\_ Phantom Liberty'](#gdc-vault---designing-endings-and-balancing-player-expectations_-illustrated-by-the-epilogue-of-cyberpunk-2077_-phantom-liberty)
-    - [GDC Vault - Developing 'Metaphor\_ ReFantazio' and the Potential of RPG Command Battle Systems](#gdc-vault---developing-metaphor_-refantazio-and-the-potential-of-rpg-command-battle-systems)
-    - [GDC Vault - Doing It Live\_ Prototyping in 'MARVEL SNAP'](#gdc-vault---doing-it-live_-prototyping-in-marvel-snap)
-    - [GDC Vault - F.A.C.U.L.\_ The First FPS AI Companion Who Understands Human Language](#gdc-vault---facul_-the-first-fps-ai-companion-who-understands-human-language)
-    - [GDC Vault - Farm Merge Valley\_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord)](#gdc-vault---farm-merge-valley_-how-coolgames-maximized-game-platform-fit-on-discord-presented-by-discord)
-    - [GDC Vault - From 'Persona' to 'Metaphor\_ ReFantazio'\_ Creating a Visual Identity for a New Series](#gdc-vault---from-persona-to-metaphor_-refantazio_-creating-a-visual-identity-for-a-new-series)
-    - [GDC Vault - From Players to Creators\_ A Guide to User-Generated Content Success in 'Arma Reforger'](#gdc-vault---from-players-to-creators_-a-guide-to-user-generated-content-success-in-arma-reforger)
-    - [GDC Vault - Game AI Summit\_ Growing an AI Director into a Full Adventure Director](#gdc-vault---game-ai-summit_-growing-an-ai-director-into-a-full-adventure-director)
-    - [GDC Vault - Game AI Summit\_ LLM as Core Gameplay\_ Co-Creative Storytelling in '1001 Nights'](#gdc-vault---game-ai-summit_-llm-as-core-gameplay_-co-creative-storytelling-in-1001-nights)
-    - [GDC Vault - Game AI Summit\_ Simulating the Perfect Organism in 'Alien\_ Rogue Incursion'](#gdc-vault---game-ai-summit_-simulating-the-perfect-organism-in-alien_-rogue-incursion)
-    - [GDC Vault - Game AI Summit\_ The Human Cost of Generative AI](#gdc-vault---game-ai-summit_-the-human-cost-of-generative-ai)
-    - [GDC Vault - Game Narrative Summit\_ Built in Layers\_ (Re)Creating History with the Narrative System in 'Civilization VII'](#gdc-vault---game-narrative-summit_-built-in-layers_-recreating-history-with-the-narrative-system-in-civilization-vii)
-    - [GDC Vault - Game Narrative Summit\_ Creating Playable Stories\_ Approaches for Integrating Mechanics and Narrative](#gdc-vault---game-narrative-summit_-creating-playable-stories_-approaches-for-integrating-mechanics-and-narrative)
-    - [GDC Vault - Game Narrative Summit\_ Storytelling Through Systems\_ A Narrative Designer's Approach](#gdc-vault---game-narrative-summit_-storytelling-through-systems_-a-narrative-designers-approach)
-    - [GDC Vault - Game Narrative Summit\_ World Building from Weird to Mainstream](#gdc-vault---game-narrative-summit_-world-building-from-weird-to-mainstream)
-    - [GDC Vault - Game Revenue Growth\_ Insights from Top Monetization Events](#gdc-vault---game-revenue-growth_-insights-from-top-monetization-events)
-    - [GDC Vault - Gaming Reimagined\_ Mobile's Impact on Play Today (Presented by King)](#gdc-vault---gaming-reimagined_-mobiles-impact-on-play-today-presented-by-king)
-    - [GDC Vault - Grid Topology vs Game Mechanics\_ Which Grid for You\_](#gdc-vault---grid-topology-vs-game-mechanics_-which-grid-for-you_)
-    - [GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer'](#gdc-vault---harnessing-the-power-of-innovation-to-achieve-dau-growth-in-ace-racer)
-    - [GDC Vault - How to Build a Game World with Systems and Story](#gdc-vault---how-to-build-a-game-world-with-systems-and-story)
-    - [GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive)](#gdc-vault---how-to-design-and-build-production-ready-game-ui-presented-by-rive)
-    - [GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing](#gdc-vault---improving-live-service-monetization-through-player-telemetry-enabled-marketing)
-    - [GDC Vault - Independent Games Summit\_ Developing at 5mb per Year\_ The Making of 'Animal Well'](#gdc-vault---independent-games-summit_-developing-at-5mb-per-year_-the-making-of-animal-well)
-    - [GDC Vault - Independent Games Summit\_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion](#gdc-vault---independent-games-summit_-meetings-make-games-fostering-empathy-and-focus-in-collaborative-discussion)
-    - [GDC Vault - Insider Secrets\_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu)](#gdc-vault---insider-secrets_-how-game-studios-quietly-out-test-the-competition-presented-by-pickfu)
-    - [GDC Vault - It's Gonna Hurt\_ Metagame Management in 'War Robots'](#gdc-vault---its-gonna-hurt_-metagame-management-in-war-robots)
-    - [GDC Vault - Level Design Summit\_ From 'Skyrim' and 'Fallout' to Solo Dev\_ Creating 'The Axis Unseen'](#gdc-vault---level-design-summit_-from-skyrim-and-fallout-to-solo-dev_-creating-the-axis-unseen)
-    - [GDC Vault - Level Design Summit\_ How Narrative Design Can Align Level Design and Art Around Themes \& Tone](#gdc-vault---level-design-summit_-how-narrative-design-can-align-level-design-and-art-around-themes--tone)
-    - [GDC Vault - Level Design Summit\_ The Unusual Level Design of 'Tactical Breach Wizards'](#gdc-vault---level-design-summit_-the-unusual-level-design-of-tactical-breach-wizards)
-    - [GDC Vault - LoG's Leadership Shortcut\_ A Decade of Hard-Won Lessons in Creative Leadership](#gdc-vault---logs-leadership-shortcut_-a-decade-of-hard-won-lessons-in-creative-leadership)
-    - [GDC Vault - Making Collectibles Count](#gdc-vault---making-collectibles-count)
-    - [GDC Vault - Making of a Brawler\_ Character Creation for 'Brawl Stars'](#gdc-vault---making-of-a-brawler_-character-creation-for-brawl-stars)
-    - [GDC Vault - Masterworking Systems\_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV'](#gdc-vault---masterworking-systems_-lessons-learned-from-the-engineering-of-season-of-loot-reborn-in-diablo-iv)
-    - [GDC Vault - Mental Maps, Mastery, and Metacognition\_ Game Design Lessons from Education](#gdc-vault---mental-maps-mastery-and-metacognition_-game-design-lessons-from-education)
-    - [GDC Vault - Monetizing Through Game Art\_ Creating Engaging Decors in 'Good Pizza, Great Pizza'](#gdc-vault---monetizing-through-game-art_-creating-engaging-decors-in-good-pizza-great-pizza)
-    - [GDC Vault - Moving Files and Managing Assets at Naughty Dog](#gdc-vault---moving-files-and-managing-assets-at-naughty-dog)
-    - [GDC Vault - Multiclassing\_ Switching from Lead Designer to Executive Producer](#gdc-vault---multiclassing_-switching-from-lead-designer-to-executive-producer)
-    - [GDC Vault - Process Lite\_ Less Time on Process, More Time on Development](#gdc-vault---process-lite_-less-time-on-process-more-time-on-development)
-    - [GDC Vault - Production Traps\_ How Producers and Leaders Get Stuck](#gdc-vault---production-traps_-how-producers-and-leaders-get-stuck)
-    - [GDC Vault - Quo Vadis Mobile Gaming 2025\_](#gdc-vault---quo-vadis-mobile-gaming-2025_)
-    - [GDC Vault - Rescuing a Playerbase from the Doldrums\_ 'Destiny 2' in 2022](#gdc-vault---rescuing-a-playerbase-from-the-doldrums_-destiny-2-in-2022)
-    - [GDC Vault - Revolutionizing Game Localization with AI Agents\_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate)](#gdc-vault---revolutionizing-game-localization-with-ai-agents_-faster-cheaper-smarter-presented-by-dmm-game-translate)
-    - [GDC Vault - Rules of the Game 2025\_ Uncommon Techniques from Insightful Designers](#gdc-vault---rules-of-the-game-2025_-uncommon-techniques-from-insightful-designers)
-    - [GDC Vault - Six Pillars of Impactful Onboarding](#gdc-vault---six-pillars-of-impactful-onboarding)
-    - [GDC Vault - Stick to It\_ Creating a UI Identity for 'LEGO Horizon Adventures'](#gdc-vault---stick-to-it_-creating-a-ui-identity-for-lego-horizon-adventures)
-    - [GDC Vault - Streamlining Game Development\_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS)](#gdc-vault---streamlining-game-development_-building-a-scalable-pipeline-for-multiple-titles-presented-by-lightspeed-studios)
-    - [GDC Vault - Tencent Games Developer Summit\_ Delta Force\_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-delta-force_-become-a-hero-rebuild-the-extraction-gameplay-presented-by-tencent-games)
-    - [GDC Vault - Tencent Games Developer Summit\_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-large-scale-pvp-level-design-in-delta-force-presented-by-tencent-games)
-    - [GDC Vault - Tencent Games Developer Summit\_ Noise or Insight\_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-noise-or-insight_-five-tips-to-get-real-insights-in-playtests-presented-by-tencent-games)
-    - [GDC Vault - Tencent Games Developer Summit\_ The Creation of Delta Force Art Style\_ Cross-Platform Visual and Style Development (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-the-creation-of-delta-force-art-style_-cross-platform-visual-and-style-development-presented-by-tencent-games)
-    - [GDC Vault - Tencent Games Developer Summit\_ The Procedural Way\_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-the-procedural-way_-reconstruct-mega-city-of-qin-dynasty-presented-by-tencent-games)
-    - [GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth'](#gdc-vault---the-challenges-in-developing-an-innovative-battle-system-for-final-fantasy-vii-remake-and-rebirth)
-    - [GDC Vault - The First Descendant\_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON)](#gdc-vault---the-first-descendant_-persevering-through-a-57-metacritic-as-a-live-service-game-presented-by-nexon)
-    - [GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them)](#gdc-vault---the-four-one-page-design-docs-you-need-and-how-to-use-them)
-    - [GDC Vault - The Game Maker's Zodiac\_ A Team-Building Tool](#gdc-vault---the-game-makers-zodiac_-a-team-building-tool)
-    - [GDC Vault - The Impact of Implementing Core Values](#gdc-vault---the-impact-of-implementing-core-values)
-    - [GDC Vault - The Product Manager's Guide to Strategic Game Teardowns](#gdc-vault---the-product-managers-guide-to-strategic-game-teardowns)
-    - [GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon'](#gdc-vault---the-secret-to-narrative-driven-and-short-term-development-in-like-a-dragon)
-    - [GDC Vault - The State of PC and Console Games in 2025](#gdc-vault---the-state-of-pc-and-console-games-in-2025)
-    - [GDC Vault - Three Mindset Shifts to Lead a World-Class Team](#gdc-vault---three-mindset-shifts-to-lead-a-world-class-team)
-    - [GDC Vault - Translating Between Business and Creativity as a Games Producer](#gdc-vault---translating-between-business-and-creativity-as-a-games-producer)
-    - [GDC Vault - UX Summit\_ From Dark Patterns to Fair Play\_ Ethical Game Design Solutions](#gdc-vault---ux-summit_-from-dark-patterns-to-fair-play_-ethical-game-design-solutions)
-    - [GDC Vault - UX Summit\_ Making the World Playful\_ The Importance of Accessible Mobile Games](#gdc-vault---ux-summit_-making-the-world-playful_-the-importance-of-accessible-mobile-games)
-    - [GDC Vault - UX Summit\_ Mind Over Mechanics\_ Using Cognitive Science to Enhance Game Development](#gdc-vault---ux-summit_-mind-over-mechanics_-using-cognitive-science-to-enhance-game-development)
-    - [GDC Vault - UX Summit\_ UX Writing\_ A New(ish) Craft in Mobile Games](#gdc-vault---ux-summit_-ux-writing_-a-newish-craft-in-mobile-games)
-    - [GDC Vault - Unity Developer Summit\_ Player-First Monetization\_ How Metacore Balances Engagement \& Revenue (Presented by Unity)](#gdc-vault---unity-developer-summit_-player-first-monetization_-how-metacore-balances-engagement--revenue-presented-by-unity)
-    - [GDC Vault - Unlocking Gamer Motivations\_ Insights from 1.75+ Million Players Over a Decade](#gdc-vault---unlocking-gamer-motivations_-insights-from-175-million-players-over-a-decade)
-    - [GDC Vault - User-Generated Compassion in 'Sky\_ Children of the Light'](#gdc-vault---user-generated-compassion-in-sky_-children-of-the-light)
+1. [GDC Vault - 'Balatro'_ Turning Low Resolution into High Praise](#gdc-vault---balatro_-turning-low-resolution-into-high-praise) - .
+2. [GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play](#gdc-vault---diablo-immortal-pioneering-8-player-boss-raids-with-commonsense-cooperative-play) - .
+3. [GDC Vault - 'Frostpunk 2'_ Speaking in Systems](#gdc-vault---frostpunk-2_-speaking-in-systems) - .
+4. [GDC Vault - 'Honkai_ Star Rail'_ Reimagining RPGs for Mass Audiences and Broad Appeal](#gdc-vault---honkai_-star-rail_-reimagining-rpgs-for-mass-audiences-and-broad-appeal) - .
+5. [GDC Vault - 'Prince of Persia_ The Lost Crown'_ Making a Modern Metroidvania Both Challenging and Accessible](#gdc-vault---prince-of-persia_-the-lost-crown_-making-a-modern-metroidvania-both-challenging-and-accessible) - .
+6. [GDC Vault - AI Executive Panel_ Exploring What's Next in AI for Gaming(Presented by EPAM)](#gdc-vault---ai-executive-panel_-exploring-whats-next-in-ai-for-gamingpresented-by-epam) - .
+7. [GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI)](#gdc-vault---ai-in-games-wont-work-like-you-expect-presented-by-inworld-ai) - .
+8. [GDC Vault - AI-Generated 3D Assets_ No Joke, They're (Getting) Production-Ready (Presented by Meshy)](#gdc-vault---ai-generated-3d-assets_-no-joke-theyre-getting-production-ready-presented-by-meshy) - .
+9. [GDC Vault - Amplifying Player Voices with LLMs in Game Development](#gdc-vault---amplifying-player-voices-with-llms-in-game-development) - .
+10. [GDC Vault - Art Direction Summit_ 'Angry Birds' and AI in Practice_ Finding Our Own Way](#gdc-vault---art-direction-summit_-angry-birds-and-ai-in-practice_-finding-our-own-way) - .
+11. [GDC Vault - Art Direction Summit_ AAA Art at Scale_ Getting Quality Results from External Partners](#gdc-vault---art-direction-summit_-aaa-art-at-scale_-getting-quality-results-from-external-partners) - .
+12. [GDC Vault - Autodesk Developer Summit_ The Magic Behind Baldur's Gate 3_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk)](#gdc-vault---autodesk-developer-summit_-the-magic-behind-baldurs-gate-3_-pipeline-efficiency-enabled-by-production-management-tools-presented-by-autodesk) - .
+13. [GDC Vault - Building the Perfect Vertical Slice_ Essential Strategies for Developers](#gdc-vault---building-the-perfect-vertical-slice_-essential-strategies-for-developers) - .
+14. [GDC Vault - Collaboration and Creativity_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS )](#gdc-vault---collaboration-and-creativity_-building-original-game-ip-at-lightspeed-studios-presented-by-lightspeed-studios-) - .
+15. [GDC Vault - Comedy and Games_ The Why's, How's and Huhs_](#gdc-vault---comedy-and-games_-the-whys-hows-and-huhs_) - .
+16. [GDC Vault - Community Management Summit_ Rise of a Cult_ Impact of Community on Unreleased Games](#gdc-vault---community-management-summit_-rise-of-a-cult_-impact-of-community-on-unreleased-games) - .
+17. [GDC Vault - Creative Sobriety_ On Originality in Game Development](#gdc-vault---creative-sobriety_-on-originality-in-game-development) - .
+18. [GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight'](#gdc-vault---designing-10000-handcrafted-puzzles-for-islands-of-insight) - .
+19. [GDC Vault - Designing Endings and Balancing Player Expectations_ Illustrated by the Epilogue of 'Cyberpunk 2077_ Phantom Liberty'](#gdc-vault---designing-endings-and-balancing-player-expectations_-illustrated-by-the-epilogue-of-cyberpunk-2077_-phantom-liberty) - .
+20. [GDC Vault - Developing 'Metaphor_ ReFantazio' and the Potential of RPG Command Battle Systems](#gdc-vault---developing-metaphor_-refantazio-and-the-potential-of-rpg-command-battle-systems) - .
+21. [GDC Vault - Doing It Live_ Prototyping in 'MARVEL SNAP'](#gdc-vault---doing-it-live_-prototyping-in-marvel-snap) - .
+22. [GDC Vault - F.A.C.U.L._ The First FPS AI Companion Who Understands Human Language](#gdc-vault---facul_-the-first-fps-ai-companion-who-understands-human-language) - .
+23. [GDC Vault - Farm Merge Valley_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord)](#gdc-vault---farm-merge-valley_-how-coolgames-maximized-game-platform-fit-on-discord-presented-by-discord) - .
+24. [GDC Vault - From 'Persona' to 'Metaphor_ ReFantazio'_ Creating a Visual Identity for a New Series](#gdc-vault---from-persona-to-metaphor_-refantazio_-creating-a-visual-identity-for-a-new-series) - .
+25. [GDC Vault - From Players to Creators_ A Guide to User-Generated Content Success in 'Arma Reforger'](#gdc-vault---from-players-to-creators_-a-guide-to-user-generated-content-success-in-arma-reforger) - .
+26. [GDC Vault - Game AI Summit_ Growing an AI Director into a Full Adventure Director](#gdc-vault---game-ai-summit_-growing-an-ai-director-into-a-full-adventure-director) - .
+27. [GDC Vault - Game AI Summit_ LLM as Core Gameplay_ Co-Creative Storytelling in '1001 Nights'](#gdc-vault---game-ai-summit_-llm-as-core-gameplay_-co-creative-storytelling-in-1001-nights) - .
+28. [GDC Vault - Game AI Summit_ Simulating the Perfect Organism in 'Alien_ Rogue Incursion'](#gdc-vault---game-ai-summit_-simulating-the-perfect-organism-in-alien_-rogue-incursion) - .
+29. [GDC Vault - Game AI Summit_ The Human Cost of Generative AI](#gdc-vault---game-ai-summit_-the-human-cost-of-generative-ai) - .
+30. [GDC Vault - Game Narrative Summit_ Built in Layers_ (Re)Creating History with the Narrative System in 'Civilization VII'](#gdc-vault---game-narrative-summit_-built-in-layers_-recreating-history-with-the-narrative-system-in-civilization-vii) - .
+31. [GDC Vault - Game Narrative Summit_ Creating Playable Stories_ Approaches for Integrating Mechanics and Narrative](#gdc-vault---game-narrative-summit_-creating-playable-stories_-approaches-for-integrating-mechanics-and-narrative) - .
+32. [GDC Vault - Game Narrative Summit_ Storytelling Through Systems_ A Narrative Designer's Approach](#gdc-vault---game-narrative-summit_-storytelling-through-systems_-a-narrative-designers-approach) - .
+33. [GDC Vault - Game Narrative Summit_ World Building from Weird to Mainstream](#gdc-vault---game-narrative-summit_-world-building-from-weird-to-mainstream) - .
+34. [GDC Vault - Game Revenue Growth_ Insights from Top Monetization Events](#gdc-vault---game-revenue-growth_-insights-from-top-monetization-events) - .
+35. [GDC Vault - Gaming Reimagined_ Mobile's Impact on Play Today (Presented by King)](#gdc-vault---gaming-reimagined_-mobiles-impact-on-play-today-presented-by-king) - .
+36. [GDC Vault - Grid Topology vs Game Mechanics_ Which Grid for You_](#gdc-vault---grid-topology-vs-game-mechanics_-which-grid-for-you_) - .
+37. [GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer'](#gdc-vault---harnessing-the-power-of-innovation-to-achieve-dau-growth-in-ace-racer) - .
+38. [GDC Vault - How to Build a Game World with Systems and Story](#gdc-vault---how-to-build-a-game-world-with-systems-and-story) - .
+39. [GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive)](#gdc-vault---how-to-design-and-build-production-ready-game-ui-presented-by-rive) - .
+40. [GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing](#gdc-vault---improving-live-service-monetization-through-player-telemetry-enabled-marketing) - .
+41. [GDC Vault - Independent Games Summit_ Developing at 5mb per Year_ The Making of 'Animal Well'](#gdc-vault---independent-games-summit_-developing-at-5mb-per-year_-the-making-of-animal-well) - .
+42. [GDC Vault - Independent Games Summit_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion](#gdc-vault---independent-games-summit_-meetings-make-games-fostering-empathy-and-focus-in-collaborative-discussion) - .
+43. [GDC Vault - Insider Secrets_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu)](#gdc-vault---insider-secrets_-how-game-studios-quietly-out-test-the-competition-presented-by-pickfu) - .
+44. [GDC Vault - It's Gonna Hurt_ Metagame Management in 'War Robots'](#gdc-vault---its-gonna-hurt_-metagame-management-in-war-robots) - .
+45. [GDC Vault - Level Design Summit_ From 'Skyrim' and 'Fallout' to Solo Dev_ Creating 'The Axis Unseen'](#gdc-vault---level-design-summit_-from-skyrim-and-fallout-to-solo-dev_-creating-the-axis-unseen) - .
+46. [GDC Vault - Level Design Summit_ How Narrative Design Can Align Level Design and Art Around Themes & Tone](#gdc-vault---level-design-summit_-how-narrative-design-can-align-level-design-and-art-around-themes--tone) - .
+47. [GDC Vault - Level Design Summit_ The Unusual Level Design of 'Tactical Breach Wizards'](#gdc-vault---level-design-summit_-the-unusual-level-design-of-tactical-breach-wizards) - .
+48. [GDC Vault - LoG's Leadership Shortcut_ A Decade of Hard-Won Lessons in Creative Leadership](#gdc-vault---logs-leadership-shortcut_-a-decade-of-hard-won-lessons-in-creative-leadership) - .
+49. [GDC Vault - Making Collectibles Count](#gdc-vault---making-collectibles-count) - .
+50. [GDC Vault - Making of a Brawler_ Character Creation for 'Brawl Stars'](#gdc-vault---making-of-a-brawler_-character-creation-for-brawl-stars) - .
+51. [GDC Vault - Masterworking Systems_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV'](#gdc-vault---masterworking-systems_-lessons-learned-from-the-engineering-of-season-of-loot-reborn-in-diablo-iv) - .
+52. [GDC Vault - Mental Maps, Mastery, and Metacognition_ Game Design Lessons from Education](#gdc-vault---mental-maps-mastery-and-metacognition_-game-design-lessons-from-education) - .
+53. [GDC Vault - Monetizing Through Game Art_ Creating Engaging Decors in 'Good Pizza, Great Pizza'](#gdc-vault---monetizing-through-game-art_-creating-engaging-decors-in-good-pizza-great-pizza) - .
+54. [GDC Vault - Moving Files and Managing Assets at Naughty Dog](#gdc-vault---moving-files-and-managing-assets-at-naughty-dog) - .
+55. [GDC Vault - Multiclassing_ Switching from Lead Designer to Executive Producer](#gdc-vault---multiclassing_-switching-from-lead-designer-to-executive-producer) - .
+56. [GDC Vault - Process Lite_ Less Time on Process, More Time on Development](#gdc-vault---process-lite_-less-time-on-process-more-time-on-development) - .
+57. [GDC Vault - Production Traps_ How Producers and Leaders Get Stuck](#gdc-vault---production-traps_-how-producers-and-leaders-get-stuck) - .
+58. [GDC Vault - Quo Vadis Mobile Gaming 2025_](#gdc-vault---quo-vadis-mobile-gaming-2025_) - .
+59. [GDC Vault - Rescuing a Playerbase from the Doldrums_ 'Destiny 2' in 2022](#gdc-vault---rescuing-a-playerbase-from-the-doldrums_-destiny-2-in-2022) - .
+60. [GDC Vault - Revolutionizing Game Localization with AI Agents_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate)](#gdc-vault---revolutionizing-game-localization-with-ai-agents_-faster-cheaper-smarter-presented-by-dmm-game-translate) - .
+61. [GDC Vault - Rules of the Game 2025_ Uncommon Techniques from Insightful Designers](#gdc-vault---rules-of-the-game-2025_-uncommon-techniques-from-insightful-designers) - .
+62. [GDC Vault - Six Pillars of Impactful Onboarding](#gdc-vault---six-pillars-of-impactful-onboarding) - .
+63. [GDC Vault - Stick to It_ Creating a UI Identity for 'LEGO Horizon Adventures'](#gdc-vault---stick-to-it_-creating-a-ui-identity-for-lego-horizon-adventures) - .
+64. [GDC Vault - Streamlining Game Development_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS)](#gdc-vault---streamlining-game-development_-building-a-scalable-pipeline-for-multiple-titles-presented-by-lightspeed-studios) - .
+65. [GDC Vault - Tencent Games Developer Summit_ Delta Force_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-delta-force_-become-a-hero-rebuild-the-extraction-gameplay-presented-by-tencent-games) - .
+66. [GDC Vault - Tencent Games Developer Summit_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-large-scale-pvp-level-design-in-delta-force-presented-by-tencent-games) - .
+67. [GDC Vault - Tencent Games Developer Summit_ Noise or Insight_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-noise-or-insight_-five-tips-to-get-real-insights-in-playtests-presented-by-tencent-games) - .
+68. [GDC Vault - Tencent Games Developer Summit_ The Creation of Delta Force Art Style_ Cross-Platform Visual and Style Development (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-the-creation-of-delta-force-art-style_-cross-platform-visual-and-style-development-presented-by-tencent-games) - .
+69. [GDC Vault - Tencent Games Developer Summit_ The Procedural Way_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games)](#gdc-vault---tencent-games-developer-summit_-the-procedural-way_-reconstruct-mega-city-of-qin-dynasty-presented-by-tencent-games) - .
+70. [GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth'](#gdc-vault---the-challenges-in-developing-an-innovative-battle-system-for-final-fantasy-vii-remake-and-rebirth) - .
+71. [GDC Vault - The First Descendant_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON)](#gdc-vault---the-first-descendant_-persevering-through-a-57-metacritic-as-a-live-service-game-presented-by-nexon) - .
+72. [GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them)](#gdc-vault---the-four-one-page-design-docs-you-need-and-how-to-use-them) - .
+73. [GDC Vault - The Game Maker's Zodiac_ A Team-Building Tool](#gdc-vault---the-game-makers-zodiac_-a-team-building-tool) - .
+74. [GDC Vault - The Impact of Implementing Core Values](#gdc-vault---the-impact-of-implementing-core-values) - .
+75. [GDC Vault - The Product Manager's Guide to Strategic Game Teardowns](#gdc-vault---the-product-managers-guide-to-strategic-game-teardowns) - .
+76. [GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon'](#gdc-vault---the-secret-to-narrative-driven-and-short-term-development-in-like-a-dragon) - .
+77. [GDC Vault - The State of PC and Console Games in 2025](#gdc-vault---the-state-of-pc-and-console-games-in-2025) - .
+78. [GDC Vault - Three Mindset Shifts to Lead a World-Class Team](#gdc-vault---three-mindset-shifts-to-lead-a-world-class-team) - .
+79. [GDC Vault - Translating Between Business and Creativity as a Games Producer](#gdc-vault---translating-between-business-and-creativity-as-a-games-producer) - .
+80. [GDC Vault - Unity Developer Summit_ Player-First Monetization_ How Metacore Balances Engagement & Revenue (Presented by Unity)](#gdc-vault---unity-developer-summit_-player-first-monetization_-how-metacore-balances-engagement--revenue-presented-by-unity) - .
+81. [GDC Vault - Unlocking Gamer Motivations_ Insights from 1.75+ Million Players Over a Decade](#gdc-vault---unlocking-gamer-motivations_-insights-from-175-million-players-over-a-decade) - .
+82. [GDC Vault - User-Generated Compassion in 'Sky_ Children of the Light'](#gdc-vault---user-generated-compassion-in-sky_-children-of-the-light) - .
+83. [GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions](#gdc-vault---ux-summit_-from-dark-patterns-to-fair-play_-ethical-game-design-solutions) - .
+84. [GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games](#gdc-vault---ux-summit_-making-the-world-playful_-the-importance-of-accessible-mobile-games) - .
+85. [GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development](#gdc-vault---ux-summit_-mind-over-mechanics_-using-cognitive-science-to-enhance-game-development) - .
+86. [GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games](#gdc-vault---ux-summit_-ux-writing_-a-newish-craft-in-mobile-games) - .
 
 ---
 
-### GDC Vault - 'Balatro'_ Turning Low Resolution into High Praise
+### GDC Vault - 'Balatro'_ Turning Low Resolution into High Praise {#gdc-vault---balatro_-turning-low-resolution-into-high-praise}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1yABcnub-37iF_HdZVSuYSGhUyT4XTtB3/view?usp=sharing](https://drive.google.com/file/d/1yABcnub-37iF_HdZVSuYSGhUyT4XTtB3/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 游戏《Balatro》是一款非传统、难以通过传统预告片和截图营销的牌组构建游戏。其成功的营销策略并非依赖大型媒体或昂贵广告，而是聚焦于口碑、社区和玩家/影响者。
 
@@ -114,18 +109,15 @@
 
 最终，《Balatro》通过这些聚焦玩家和社区的策略取得了巨大成功，销量可观，获得了广泛关注和游戏奖项，证明了依靠游戏核心魅力和玩家热情的营销方式的有效性。
 
-**截图:**
-
 ![GDC Vault - 'Balatro'_ Turning Low Resolution into High Praise 截图](GDC%20Vault%20-%20%27Balatro%27_%20Turning%20Low%20Resolution%20into%20High%20Praise.png)
 
 ---
 
-### GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play
+### GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play {#gdc-vault---diablo-immortal-pioneering-8-player-boss-raids-with-commonsense-cooperative-play}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1hpHJWxSYOSWCabYlpNFvDUIrjLF3Weu_/view?usp=sharing](https://drive.google.com/file/d/1hpHJWxSYOSWCabYlpNFvDUIrjLF3Weu_/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是该音频内容的中文摘要：
 
@@ -141,18 +133,15 @@
 
 设计理念认为Boss战应讲故事以提供情感波动。核心目标始终是倾听玩家社区反馈，持续快速迭代，创造最佳游戏体验。
 
-**截图:**
-
 ![GDC Vault - 'Diablo Immortal' Pioneering 8-Player Boss Raids with Commonsense Cooperative Play 截图](GDC%20Vault%20-%20%27Diablo%20Immortal%27%20Pioneering%208-Player%20Boss%20Raids%20with%20Commonsense%20Cooperative%20Play.png)
 
 ---
 
-### GDC Vault - 'Frostpunk 2'_ Speaking in Systems
+### GDC Vault - 'Frostpunk 2'_ Speaking in Systems {#gdc-vault---frostpunk-2_-speaking-in-systems}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1RAm2xF5IyRJCtPx5zA3y5ax4HKEgKCzr/view?usp=sharing](https://drive.google.com/file/d/1RAm2xF5IyRJCtPx5zA3y5ax4HKEgKCzr/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这段音频是来自 11 bit studios 的 Kuba Stokalski 的演讲。他介绍了公司及其知名游戏，包括《这是我的战争》和《冰汽时代》系列。
 
@@ -172,18 +161,15 @@
 
 总结来说，11 bit studios 相信通过独特的游戏语言，将游戏系统与叙事主题紧密结合，可以在玩法中创造涌现的、有意义的叙事体验，探讨复杂的人类主题。他们证明了游戏作为一种媒体，在讲述故事（或更准确地说，是让玩家*玩*故事）方面具有巨大的潜力。
 
-**截图:**
-
 ![GDC Vault - 'Frostpunk 2'_ Speaking in Systems 截图](GDC%20Vault%20-%20%27Frostpunk%202%27_%20Speaking%20in%20Systems.png)
 
 ---
 
-### GDC Vault - 'Honkai_ Star Rail'_ Reimagining RPGs for Mass Audiences and Broad Appeal
+### GDC Vault - 'Honkai_ Star Rail'_ Reimagining RPGs for Mass Audiences and Broad Appeal {#gdc-vault---honkai_-star-rail_-reimagining-rpgs-for-mass-audiences-and-broad-appeal}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1ikwRbbjSAYAGf5XmoN3B9tIDokptEhSt/view?usp=sharing](https://drive.google.com/file/d/1ikwRbbjSAYAGf5XmoN3B9tIDokptEhSt/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 崩坏：星穹铁道负责人长南介绍了游戏的核心理念和设计原则。游戏目标是打造“可玩的小说”，其核心是“沉浸”、“简单”和“可拓展”。
 
@@ -203,18 +189,15 @@
 *   游戏与同类作品的区别在于深耕回合制RPG品类，并在战斗系统等方面进行创新。
 *   老角色会通过角色组合和未来的加强更新来保持其价值和玩家体验。
 
-**截图:**
-
 ![GDC Vault - 'Honkai_ Star Rail'_ Reimagining RPGs for Mass Audiences and Broad Appeal 截图](GDC%20Vault%20-%20%27Honkai_%20Star%20Rail%27_%20Reimagining%20RPGs%20for%20Mass%20Audiences%20and%20Broad%20Appeal.png)
 
 ---
 
-### GDC Vault - 'Prince of Persia_ The Lost Crown'_ Making a Modern Metroidvania Both Challenging and Accessible
+### GDC Vault - 'Prince of Persia_ The Lost Crown'_ Making a Modern Metroidvania Both Challenging and Accessible {#gdc-vault---prince-of-persia_-the-lost-crown_-making-a-modern-metroidvania-both-challenging-and-accessible}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1wnBTR7S03XSm_soRTCVEpmSX721sCU7L/view?usp=sharing](https://drive.google.com/file/d/1wnBTR7S03XSm_soRTCVEpmSX721sCU7L/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 育碧高级游戏设计师分享了《波斯王子：失落的王冠》在无障碍设计方面的经验。
 
@@ -236,18 +219,15 @@
 *   若需要特定功能，教育团队并赋予他们所有权，他们会追求高质量。
 *   利用游戏上线后的阶段持续改进。
 
-**截图:**
-
 ![GDC Vault - 'Prince of Persia_ The Lost Crown'_ Making a Modern Metroidvania Both Challenging and Accessible 截图](GDC%20Vault%20-%20%27Prince%20of%20Persia_%20The%20Lost%20Crown%27_%20Making%20a%20Modern%20Metroidvania%20Both%20Challenging%20and%20Accessible.png)
 
 ---
 
-### GDC Vault - AI Executive Panel_ Exploring What's Next in AI for Gaming(Presented by EPAM)
+### GDC Vault - AI Executive Panel_ Exploring What's Next in AI for Gaming(Presented by EPAM) {#gdc-vault---ai-executive-panel_-exploring-whats-next-in-ai-for-gamingpresented-by-epam}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1ZaLAJoSdgF9VG1ZkOb541A9TWHuKB24z/view?usp=sharing](https://drive.google.com/file/d/1ZaLAJoSdgF9VG1ZkOb541A9TWHuKB24z/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本次小组讨论聚焦人工智能在游戏领域的应用，专家们来自Roblox、Xbox、Unity、Databricks和2K。
 
@@ -267,18 +247,15 @@
 
 总结，AI在游戏领域潜力巨大，从开发效率到玩家体验都有深刻影响，但有效集成、伦理安全、人类角色和实际价值落地是当前和未来需要持续探索和解决的关键问题。
 
-**截图:**
-
 ![GDC Vault - AI Executive Panel_ Exploring What's Next in AI for Gaming(Presented by EPAM) 截图](GDC%20Vault%20-%20AI%20Executive%20Panel_%20Exploring%20What%27s%20Next%20in%20AI%20for%20Gaming%28Presented%20by%20EPAM%29.png)
 
 ---
 
-### GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI)
+### GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI) {#gdc-vault---ai-in-games-wont-work-like-you-expect-presented-by-inworld-ai}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1_NrvG6WHlEAFZdaN0qQRY4bgJk1Q8ftv/view?usp=sharing](https://drive.google.com/file/d/1_NrvG6WHlEAFZdaN0qQRY4bgJk1Q8ftv/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本次音频内容摘要如下：
 
@@ -286,18 +263,15 @@
 
 解决方案和未来愿景包括：采用“受控演进”(Controlled Evolution)模型，通过收集玩家数据实现实时调整和长期优化AI体验，以个性化、优化成本并适应不断变化的用户偏好；将AI能力分解为更小的特定任务，为不同任务使用最优模型；将AI逻辑和模型部署到本地设备上，解决成本、延迟和规模问题；游戏行业需推动硬件和云服务提供商支持游戏AI的独特需求；AI应成为可集成和本地化的工具，像传统软件一样与游戏应用层结合；优先关注用户体验，根据社区反馈持续改进AI；先从小众受众入手验证可行性，再推广到主流。最终目标是实现AI驱动的游戏体验在用户设备上持续演进，提供“永远”的游戏。
 
-**截图:**
-
 ![GDC Vault - AI in Games Won't Work Like You Expect (Presented by Inworld AI) 截图](GDC%20Vault%20-%20AI%20in%20Games%20Won%27t%20Work%20Like%20You%20Expect%20%28Presented%20by%20Inworld%20AI%29.png)
 
 ---
 
-### GDC Vault - AI-Generated 3D Assets_ No Joke, They're (Getting) Production-Ready (Presented by Meshy)
+### GDC Vault - AI-Generated 3D Assets_ No Joke, They're (Getting) Production-Ready (Presented by Meshy) {#gdc-vault---ai-generated-3d-assets_-no-joke-theyre-getting-production-ready-presented-by-meshy}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1IENfMs5UHgkCwyopdusrRltTg4B3cB5l/view?usp=sharing](https://drive.google.com/file/d/1IENfMs5UHgkCwyopdusrRltTg4B3cB5l/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这个音频内容主要围绕Meshcapade（Meshy）工具在游戏开发中的应用和发展展开。
 
@@ -311,18 +285,15 @@
 
 总结来说，Meshcapade是一款通过AI生成3D模型的工具，其最新版本Meshcapade 5在模型和纹理质量上都有显著提升，正被不同类型的游戏开发者用于提高效率、加速工作流程，并将继续发展以提供更多功能。
 
-**截图:**
-
 ![GDC Vault - AI-Generated 3D Assets_ No Joke, They're (Getting) Production-Ready (Presented by Meshy) 截图](GDC%20Vault%20-%20AI-Generated%203D%20Assets_%20No%20Joke%2C%20They%27re%20%28Getting%29%20Production-Ready%20%28Presented%20by%20Meshy%29.png)
 
 ---
 
-### GDC Vault - Amplifying Player Voices with LLMs in Game Development
+### GDC Vault - Amplifying Player Voices with LLMs in Game Development {#gdc-vault---amplifying-player-voices-with-llms-in-game-development}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1cxaGOwCdyQHv89mrZU9vzOPU2UxIuF9F/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1cxaGOwCdyQHv89mrZU9vzOPU2UxIuF9F/view?usp=sharing](https://drive.google.com/file/d/1cxaGOwCdyQHv89mrZU9vzOPU2UxIuF9F/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 暴雪公司用户研究团队利用大型语言模型（LLM）分析海量玩家反馈数据。玩家反馈对游戏开发至关重要，但传统人工分析方式效率低下，难以处理巨量数据，可能错过重要信息。
 
@@ -340,18 +311,15 @@
 
 核心建议：不要盲目信任LLM的输出；投入精力设计具体的提示词；在自身环境中建立验证机制；努力提高玩家反馈的特异性。
 
-**截图:**
-
 ![GDC Vault - Amplifying Player Voices with LLMs in Game Development 截图](GDC%20Vault%20-%20Amplifying%20Player%20Voices%20with%20LLMs%20in%20Game%20Development.png)
 
 ---
 
-### GDC Vault - Art Direction Summit_ 'Angry Birds' and AI in Practice_ Finding Our Own Way
+### GDC Vault - Art Direction Summit_ 'Angry Birds' and AI in Practice_ Finding Our Own Way {#gdc-vault---art-direction-summit_-angry-birds-and-ai-in-practice_-finding-our-own-way}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1ajQlgrLBa3tDy2emDrWKTqf5dl93bZhj/view?usp=sharing](https://drive.google.com/file/d/1ajQlgrLBa3tDy2emDrWKTqf5dl93bZhj/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是该音频内容的摘要：
 
@@ -361,18 +329,15 @@ Rovio找到自己的AI应用方式：将艺术家置于流程中心，AI作为�
 
 AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越现有能力的非凡创造，而不是仅仅加速现有流程。
 
-**截图:**
-
 ![GDC Vault - Art Direction Summit_ 'Angry Birds' and AI in Practice_ Finding Our Own Way 截图](GDC%20Vault%20-%20Art%20Direction%20Summit_%20%27Angry%20Birds%27%20and%20AI%20in%20Practice_%20Finding%20Our%20Own%20Way.png)
 
 ---
 
-### GDC Vault - Art Direction Summit_ AAA Art at Scale_ Getting Quality Results from External Partners
+### GDC Vault - Art Direction Summit_ AAA Art at Scale_ Getting Quality Results from External Partners {#gdc-vault---art-direction-summit_-aaa-art-at-scale_-getting-quality-results-from-external-partners}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/10v_tGZ0eJQhVyQOhrDtmHjbxfTD-JpM3/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/10v_tGZ0eJQhVyQOhrDtmHjbxfTD-JpM3/view?usp=sharing](https://drive.google.com/file/d/10v_tGZ0eJQhVyQOhrDtmHjbxfTD-JpM3/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -394,33 +359,27 @@ AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越
 
 结论：有效管理艺术外包，需要清晰的沟通、充分的准备、对流程的持续优化以及对合作方（包括个体和工作室）的理解和维系。
 
-**截图:**
-
 ![GDC Vault - Art Direction Summit_ AAA Art at Scale_ Getting Quality Results from External Partners 截图](GDC%20Vault%20-%20Art%20Direction%20Summit_%20AAA%20Art%20at%20Scale_%20Getting%20Quality%20Results%20from%20External%20Partners.png)
 
 ---
 
-### GDC Vault - Autodesk Developer Summit_ The Magic Behind Baldur's Gate 3_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk)
+### GDC Vault - Autodesk Developer Summit_ The Magic Behind Baldur's Gate 3_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk) {#gdc-vault---autodesk-developer-summit_-the-magic-behind-baldurs-gate-3_-pipeline-efficiency-enabled-by-production-management-tools-presented-by-autodesk}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1XM8k5t9elsbDH5lhGlncQEZTbGlTv3ch/view?usp=sharing](https://drive.google.com/file/d/1XM8k5t9elsbDH5lhGlncQEZTbGlTv3ch/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 音频内容主要讨论了《博德之门3》开发中使用的关键工具和工作流程，这些对于游戏的巨大成功至关重要。核心工具包括：Flow Production Tracking（流程生产追踪）、Jira Bridge（Jira桥接）、Event Daemon Automation（事件守护进程自动化）和仪表盘（Dashboards）。开发团队面临不同工具使用（如Jira和Flow）带来的协作挑战，Jira Bridge通过实现Flow Production Tracking与Jira之间的数据无缝同步解决了这一问题，确保信息一致。Event Daemon Automation自动化工具能够基于任务状态变化等事件自动执行操作，对于简化过场动画等复杂制作流程、提升效率至关重要。仪表盘则提供项目进度和任务分配的可视化，帮助美术师、组长和制作人有效管理工作。讲者强调，这些工具和流程是管理项目、克服挑战的关键，它们使团队能更高效地协作，从而促成了《博德之门3》的成功。
-
-**截图:**
 
 ![GDC Vault - Autodesk Developer Summit_ The Magic Behind Baldur's Gate 3_ Pipeline Efficiency Enabled by Production Management Tools (Presented by Autodesk) 截图](GDC%20Vault%20-%20Autodesk%20Developer%20Summit_%20The%20Magic%20Behind%20Baldur%27s%20Gate%203_%20Pipeline%20Efficiency%20Enabled%20by%20Production%20Management%20Tools%20%28Presented%20by%20Autodesk%29.png)
 
 ---
 
-### GDC Vault - Building the Perfect Vertical Slice_ Essential Strategies for Developers
+### GDC Vault - Building the Perfect Vertical Slice_ Essential Strategies for Developers {#gdc-vault---building-the-perfect-vertical-slice_-essential-strategies-for-developers}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1BdlyQeWrsgNsTdCLILtd5oaOR5xvX65f/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1BdlyQeWrsgNsTdCLILtd5oaOR5xvX65f/view?usp=sharing](https://drive.google.com/file/d/1BdlyQeWrsgNsTdCLILtd5oaOR5xvX65f/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -450,48 +409,39 @@ AI带来的最大挑战在于如何帮助团队理解并利用它去实现超越
 
 发行商看重诚实和透明，愿意与开发者沟通。
 
-**截图:**
-
 ![GDC Vault - Building the Perfect Vertical Slice_ Essential Strategies for Developers 截图](GDC%20Vault%20-%20Building%20the%20Perfect%20Vertical%20Slice_%20Essential%20Strategies%20for%20Developers.png)
 
 ---
 
-### GDC Vault - Collaboration and Creativity_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS )
+### GDC Vault - Collaboration and Creativity_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS ) {#gdc-vault---collaboration-and-creativity_-building-original-game-ip-at-lightspeed-studios-presented-by-lightspeed-studios-}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1dRdcTLjj_5dMKwnmoM_FDwjhlwizQru3/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1dRdcTLjj_5dMKwnmoM_FDwjhlwizQru3/view?usp=sharing](https://drive.google.com/file/d/1dRdcTLjj_5dMKwnmoM_FDwjhlwizQru3/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 Lightspeed Studios致力于开发原创游戏IP，而非仅制作续作，以满足玩家对新颖独特游戏体验的需求。AAA游戏的未来发展需要提高效率，降低开发成本、缩短开发周期并降低硬件门槛，从而扩大玩家群体。虽然AI等新技术可以提高开发效率和辅助创意，但核心的原创性仍依赖于人类的创意和热情。制作原创游戏的关键在于大胆创新，尤其是在玩家体验、角色和故事方面，同时也要保证游戏的基础操作对玩家来说是直观易懂的。Lightspeed洛杉矶工作室的新项目已全面投产，未来将展示实机玩法；Lightspeed日本工作室则专注于利用日本的技术经验，制作具有普世情感共鸣的原创AAA动作游戏。成功的游戏应抓住能引发不同文化背景玩家共鸣的普世主题。对于 aspiring 开发者，团队合作、积极态度和突出的专业技能是进入大型工作室的关键。市场调研是重要参考，但不能取代创造力在制作原创游戏中的核心作用。
-
-**截图:**
 
 ![GDC Vault - Collaboration and Creativity_ Building Original game IP at LIGHTSPEED STUDIOS (Presented by LIGHTSPEED STUDIOS ) 截图](GDC%20Vault%20-%20Collaboration%20and%20Creativity_%20Building%20Original%20game%20IP%20at%20LIGHTSPEED%20STUDIOS%20%28Presented%20by%20LIGHTSPEED%20STUDIOS%20%29.png)
 
 ---
 
-### GDC Vault - Comedy and Games_ The Why's, How's and Huhs_
+### GDC Vault - Comedy and Games_ The Why's, How's and Huhs_ {#gdc-vault---comedy-and-games_-the-whys-hows-and-huhs_}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1RC0y5Vn2jPQDe3WeqkGA9FzvsiHxqRHT/view?usp=sharing](https://drive.google.com/file/d/1RC0y5Vn2jPQDe3WeqkGA9FzvsiHxqRHT/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 一位叙事作家兼喜剧作家分享了关于游戏中的喜剧的观点。她认为喜剧是一种可以学习和练习的技能，在所有类型的游戏中都非常重要，即使是戏剧性游戏。喜剧能为玩家提供缓解，并使戏剧性时刻更有冲击力。喜剧的三个关键要素是视点、真实行为（符合角色设定）和独特性。喜剧可以通过角色、对话、环境叙事、支线任务和彩蛋等方式融入游戏。她强调，练习、接受反馈和持续努力对于提升喜剧写作至关重要，不要害怕失败。总结来说，喜剧无处不在，游戏不应排斥它，掌握其核心要素并不断尝试是关键。
-
-**截图:**
 
 ![GDC Vault - Comedy and Games_ The Why's, How's and Huhs_ 截图](GDC%20Vault%20-%20Comedy%20and%20Games_%20The%20Why%27s%2C%20How%27s%20and%20Huhs_.png)
 
 ---
 
-### GDC Vault - Community Management Summit_ Rise of a Cult_ Impact of Community on Unreleased Games
+### GDC Vault - Community Management Summit_ Rise of a Cult_ Impact of Community on Unreleased Games {#gdc-vault---community-management-summit_-rise-of-a-cult_-impact-of-community-on-unreleased-games}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1jezqO4v6q5eSKrx6cMviOcmz4Knu8n9O/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1jezqO4v6q5eSKrx6cMviOcmz4Knu8n9O/view?usp=sharing](https://drive.google.com/file/d/1jezqO4v6q5eSKrx6cMviOcmz4Knu8n9O/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 SuperGaming公司为其未发布的印度背景游戏Indus构建社区的旅程。
 
@@ -507,18 +457,15 @@ SuperGaming公司为其未发布的印度背景游戏Indus构建社区的旅程�
 
 Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区一同建设。
 
-**截图:**
-
 ![GDC Vault - Community Management Summit_ Rise of a Cult_ Impact of Community on Unreleased Games 截图](GDC%20Vault%20-%20Community%20Management%20Summit_%20Rise%20of%20a%20Cult_%20Impact%20of%20Community%20on%20Unreleased%20Games.png)
 
 ---
 
-### GDC Vault - Creative Sobriety_ On Originality in Game Development
+### GDC Vault - Creative Sobriety_ On Originality in Game Development {#gdc-vault---creative-sobriety_-on-originality-in-game-development}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1z40l6lEBonO0ADuRjNrZ3K8mOl1qeNJL/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1z40l6lEBonO0ADuRjNrZ3K8mOl1qeNJL/view?usp=sharing](https://drive.google.com/file/d/1z40l6lEBonO0ADuRjNrZ3K8mOl1qeNJL/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这个音频由游戏设计师 Fawzi Mesmar 讲述。他分享了自己在约旦、新西兰、日本、德国、瑞典等地，以及在 Gameloft、Inish、King、DICE、Ubisoft 等公司的游戏设计职业生涯经历。他曾参与开发包括我的小马驹、冰川时代、超凡蜘蛛侠2、神偷奶爸：小黄人快跑、战地系列、疯狂兔子：希望之星等多种类型游戏，并在日本专注于本土市场游戏。他还出版过游戏设计书籍和漫画书，并教授游戏设计。
 
@@ -532,18 +479,15 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 演讲者提出“创意清醒”的概念，即反思自己的创意是如何产生的，为何喜欢某个点子，并理清这些想法与个人经历的关系。认识并表达自己的喜好和自我设定的限制，有助于形成清晰的创意愿景。总而言之，理解创意需要原创性和价值，原创性源于个人经历中的低概率事件，价值取决于所处语境，而限制是激发创意的重要因素。反思个人旅程并拥抱限制，是找到独特创意之声的关键。
 
-**截图:**
-
 ![GDC Vault - Creative Sobriety_ On Originality in Game Development 截图](GDC%20Vault%20-%20Creative%20Sobriety_%20On%20Originality%20in%20Game%20Development.png)
 
 ---
 
-### GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight'
+### GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight' {#gdc-vault---designing-10000-handcrafted-puzzles-for-islands-of-insight}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1RL_RE4MyfSKg4N19kt9_4OpuYSA-iTRD/view?usp=sharing](https://drive.google.com/file/d/1RL_RE4MyfSKg4N19kt9_4OpuYSA-iTRD/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本音频摘要关于游戏“洞察之岛”（Islands of Insight）中一万多个手工制作谜题的设计。
 
@@ -559,18 +503,15 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 团队是最大的成功。游戏开发经验对于谜题设计师而言并非最重要，拥有解谜天赋的设计师以及良好的工具和支持是关键。
 
-**截图:**
-
 ![GDC Vault - Designing 10,000 Handcrafted Puzzles for 'Islands of Insight' 截图](GDC%20Vault%20-%20Designing%2010%2C000%20Handcrafted%20Puzzles%20for%20%27Islands%20of%20Insight%27.png)
 
 ---
 
-### GDC Vault - Designing Endings and Balancing Player Expectations_ Illustrated by the Epilogue of 'Cyberpunk 2077_ Phantom Liberty'
+### GDC Vault - Designing Endings and Balancing Player Expectations_ Illustrated by the Epilogue of 'Cyberpunk 2077_ Phantom Liberty' {#gdc-vault---designing-endings-and-balancing-player-expectations_-illustrated-by-the-epilogue-of-cyberpunk-2077_-phantom-liberty}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1qcJEPrCX97iaoy45pgtHeTIP5yD3ZIxd/view?usp=sharing](https://drive.google.com/file/d/1qcJEPrCX97iaoy45pgtHeTIP5yD3ZIxd/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -587,33 +528,27 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 9.  **游戏是对话：** 游戏及其结局是开发者与玩家共同创造的，是双方的对话。结局是与玩家的最终对话，需要真实和具有结论性。
 10. **核心冲突：** 游戏及其结局都围绕着 V 的死亡威胁和如何面对它展开，不同的结局体现了 V 和玩家基于自身价值观做出的不同选择和牺牲。
 
-**截图:**
-
 ![GDC Vault - Designing Endings and Balancing Player Expectations_ Illustrated by the Epilogue of 'Cyberpunk 2077_ Phantom Liberty' 截图](GDC%20Vault%20-%20Designing%20Endings%20and%20Balancing%20Player%20Expectations_%20Illustrated%20by%20the%20Epilogue%20of%20%27Cyberpunk%202077_%20Phantom%20Liberty%27.png)
 
 ---
 
-### GDC Vault - Developing 'Metaphor_ ReFantazio' and the Potential of RPG Command Battle Systems
+### GDC Vault - Developing 'Metaphor_ ReFantazio' and the Potential of RPG Command Battle Systems {#gdc-vault---developing-metaphor_-refantazio-and-the-potential-of-rpg-command-battle-systems}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1yBkyUxQwIXIxHYQJEe1yFS616TjuaSku/view?usp=sharing](https://drive.google.com/file/d/1yBkyUxQwIXIxHYQJEe1yFS616TjuaSku/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 傳統指令式RPG存在戰鬥作業感強和失敗懲罰大等負面印象。開發中的《女神異聞錄：幻影異聞錄》為解決這些問題，引入「快速戰鬥」系統，旨在讓玩家快速處理弱小敵人或在指令戰鬥中獲得先手優勢，核心是輔助指令戰鬥，而非讓動作取代指令。開發過程發現，讓玩家感到困惑或產生「損失感」（例如動作失敗後轉入指令戰鬥）的設計是失敗的，主觀遊玩感受比理論平衡更重要。為提高合理性，最終將戰鬥先手判斷改為100%確定性（玩家主動攻擊則玩家先手，被敵人偷襲則敵人先手）。為應對Atlus RPG高難度下可能的失敗懲罰，引入「倒帶」系統（可重開指令戰鬥）和密集自動存檔，以降低Game Over的時間損失感，平衡挑戰性與玩家壓力。在開發內部測試中，傳統書面報告導致反饋過多且易產生負面情緒，後改用直播測試，提高效率並能發現文字報告中難以呈現的隱性問題，促進團隊更積極地解決問題。總之，革新傳統遊戲類型需深入理解現代玩家需求並堅守核心願景，指令式RPG仍具發展潛力。
-
-**截图:**
 
 ![GDC Vault - Developing 'Metaphor_ ReFantazio' and the Potential of RPG Command Battle Systems 截图](GDC%20Vault%20-%20Developing%20%27Metaphor_%20ReFantazio%27%20and%20the%20Potential%20of%20RPG%20Command%20Battle%20Systems.png)
 
 ---
 
-### GDC Vault - Doing It Live_ Prototyping in 'MARVEL SNAP'
+### GDC Vault - Doing It Live_ Prototyping in 'MARVEL SNAP' {#gdc-vault---doing-it-live_-prototyping-in-marvel-snap}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1XQPl6eMgnuxy1-OnYGqGF9UU3TqHozyY/view?usp=sharing](https://drive.google.com/file/d/1XQPl6eMgnuxy1-OnYGqGF9UU3TqHozyY/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 《漫威对决》设计总监 Kent Eric 分享了游戏原型测试的经验，特别是针对依赖外部激励的游戏系统。
 
@@ -623,18 +558,15 @@ Indus已在印度上线，正准备迈向全球市场，旅程始终是与社区
 
 经验总结：专注于反馈信号质量，最大化获取信号的速度，警惕新颖性反馈（对新事物最初的积极反应），对依赖外部激励的系统要进行**实时测试**，这是获取高质量反馈并快速准确迭代的关键方法。
 
-**截图:**
-
 ![GDC Vault - Doing It Live_ Prototyping in 'MARVEL SNAP' 截图](GDC%20Vault%20-%20Doing%20It%20Live_%20Prototyping%20in%20%27MARVEL%20SNAP%27.png)
 
 ---
 
-### GDC Vault - F.A.C.U.L._ The First FPS AI Companion Who Understands Human Language
+### GDC Vault - F.A.C.U.L._ The First FPS AI Companion Who Understands Human Language {#gdc-vault---facul_-the-first-fps-ai-companion-who-understands-human-language}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1P0y_Moc9peXSTXDOQ9WaD4LFASiBXF10/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1P0y_Moc9peXSTXDOQ9WaD4LFASiBXF10/view?usp=sharing](https://drive.google.com/file/d/1P0y_Moc9peXSTXDOQ9WaD4LFASiBXF10/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本次音频内容主要介绍游戏《暗区突围：无限》中名为Faco的AI队友系统。Faco旨在实现玩家与AI队友之间的复杂语音交流和战术协作，区别于以往仅支持基础指令（如攻击、跟随）的AI。
 
@@ -656,18 +588,15 @@ Faco项目目标是提供自然语言的AI伴侣互动、实现战术协作和�
 
 项目目前已基本就绪（95%完成），正在进行大规模测试、延迟优化和移动端部署探索，并已发布中文宣传片。未来可能将此技术应用于其他游戏类型（如开放世界RPG），并考虑作为服务或开源。
 
-**截图:**
-
 ![GDC Vault - F.A.C.U.L._ The First FPS AI Companion Who Understands Human Language 截图](GDC%20Vault%20-%20F.A.C.U.L._%20The%20First%20FPS%20AI%20Companion%20Who%20Understands%20Human%20Language.png)
 
 ---
 
-### GDC Vault - Farm Merge Valley_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord)
+### GDC Vault - Farm Merge Valley_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord) {#gdc-vault---farm-merge-valley_-how-coolgames-maximized-game-platform-fit-on-discord-presented-by-discord}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1aoBteu5SQ7Zi9btt_w5TtL8MgDAentkG/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1aoBteu5SQ7Zi9btt_w5TtL8MgDAentkG/view?usp=sharing](https://drive.google.com/file/d/1aoBteu5SQ7Zi9btt_w5TtL8MgDAentkG/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 Discord 平台活动分享，以 Farm Merge Valley 为案例。Discord 是一个聚焦社交的游戏平台，其活动功能将基于网页（如 HTML5）的互动游戏内嵌其中，玩家可在文本、语音、服务器、私信等多种场景访问。开发者可利用活动在 Discord 上构建、分发和盈利。
 
@@ -675,18 +604,15 @@ Farm Merge Valley 是一款具有强社交元素的合并类农场游戏（如�
 
 建议开发者围绕社交互动设计游戏：为群组动态设计、将社交融入核心玩法、奖励社区参与、鼓励分享游戏体验。Discord 将继续投资 Farm Merge Valley，并推出更多游戏和功能（如应用私信），以满足玩家对社交、互联、社区驱动体验的需求。开发者可通过 discord.com/build 开始构建。
 
-**截图:**
-
 ![GDC Vault - Farm Merge Valley_ How CoolGames Maximized Game-Platform Fit on Discord (Presented by Discord) 截图](GDC%20Vault%20-%20Farm%20Merge%20Valley_%20How%20CoolGames%20Maximized%20Game-Platform%20Fit%20on%20Discord%20%28Presented%20by%20Discord%29.png)
 
 ---
 
-### GDC Vault - From 'Persona' to 'Metaphor_ ReFantazio'_ Creating a Visual Identity for a New Series
+### GDC Vault - From 'Persona' to 'Metaphor_ ReFantazio'_ Creating a Visual Identity for a New Series {#gdc-vault---from-persona-to-metaphor_-refantazio_-creating-a-visual-identity-for-a-new-series}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/19G4V_aV4WedW66N-AYofH5J41aNw54Ha/view?usp=sharing](https://drive.google.com/file/d/19G4V_aV4WedW66N-AYofH5J41aNw54Ha/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游戏视觉识别的开发案例。
 
@@ -702,18 +628,15 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 总结：构建视觉识别 UI 需融入作品独有表现、使用具象征性表达、创造触动情感的体验。
 
-**截图:**
-
 ![GDC Vault - From 'Persona' to 'Metaphor_ ReFantazio'_ Creating a Visual Identity for a New Series 截图](GDC%20Vault%20-%20From%20%27Persona%27%20to%20%27Metaphor_%20ReFantazio%27_%20Creating%20a%20Visual%20Identity%20for%20a%20New%20Series.png)
 
 ---
 
-### GDC Vault - From Players to Creators_ A Guide to User-Generated Content Success in 'Arma Reforger'
+### GDC Vault - From Players to Creators_ A Guide to User-Generated Content Success in 'Arma Reforger' {#gdc-vault---from-players-to-creators_-a-guide-to-user-generated-content-success-in-arma-reforger}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1lFMGbDR-lbEcKYoFtSE0KB5FkWdOnQRu/view?usp=sharing](https://drive.google.com/file/d/1lFMGbDR-lbEcKYoFtSE0KB5FkWdOnQRu/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要，保留了核心内容：
 
@@ -769,18 +692,15 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 *   启动自己的模组化项目无需一步到位，可以从小处着手，利用第三方平台和工具来减轻负担。核心在于做出精彩的游戏。
 *   模组化是一项挑战，不是所有游戏都适合，但对于开放式沙盒游戏来说，它能彻底重塑游戏，带来成功和变化。主机玩家也需要模组化体验。
 
-**截图:**
-
 ![GDC Vault - From Players to Creators_ A Guide to User-Generated Content Success in 'Arma Reforger' 截图](GDC%20Vault%20-%20From%20Players%20to%20Creators_%20A%20Guide%20to%20User-Generated%20Content%20Success%20in%20%27Arma%20Reforger%27.png)
 
 ---
 
-### GDC Vault - Game AI Summit_ Growing an AI Director into a Full Adventure Director
+### GDC Vault - Game AI Summit_ Growing an AI Director into a Full Adventure Director {#gdc-vault---game-ai-summit_-growing-an-ai-director-into-a-full-adventure-director}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1NIIgWBY7U7ShikJVDQd28y1U-DF9ZF7Z/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1NIIgWBY7U7ShikJVDQd28y1U-DF9ZF7Z/view?usp=sharing](https://drive.google.com/file/d/1NIIgWBY7U7ShikJVDQd28y1U-DF9ZF7Z/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这个音频主要介绍了如何设计一个AI导演（Adventure Director）系统来控制游戏中的遭遇和难度，以提供更具动态性和吸引力的玩家体验。
 
@@ -805,18 +725,15 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 总结而言，这个系统通过动态调整敌人生成、结合程序化和脚本化内容、利用灵活的强度曲线以及根据玩家的实际状态进行反馈，有效地提升了游戏的挑战性和玩家体验。
 
-**截图:**
-
 ![GDC Vault - Game AI Summit_ Growing an AI Director into a Full Adventure Director 截图](GDC%20Vault%20-%20Game%20AI%20Summit_%20Growing%20an%20AI%20Director%20into%20a%20Full%20Adventure%20Director.png)
 
 ---
 
-### GDC Vault - Game AI Summit_ LLM as Core Gameplay_ Co-Creative Storytelling in '1001 Nights'
+### GDC Vault - Game AI Summit_ LLM as Core Gameplay_ Co-Creative Storytelling in '1001 Nights' {#gdc-vault---game-ai-summit_-llm-as-core-gameplay_-co-creative-storytelling-in-1001-nights}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1dqhTpGeIKT9cu7Hn8dG1IB65mOb0tVbZ/view?usp=sharing](https://drive.google.com/file/d/1dqhTpGeIKT9cu7Hn8dG1IB65mOb0tVbZ/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这是一个基于大型语言模型(LLM)的独立游戏，名为《LLM核心玩法：一千零一夜合作叙事》。核心玩法是玩家通过向AI国王讲故事来生存，故事内容会影响游戏进程，例如玩家提及的词语可能成为武器。
 
@@ -828,18 +745,15 @@ Atlus UI 设计师伊势浩二介绍《Metaphor: ReFantazio》UI 如何成为游
 
 该游戏为独立制作，目前正寻求投资，希望它能作为范例，启发未来更多创新的LLM游戏玩法。
 
-**截图:**
-
 ![GDC Vault - Game AI Summit_ LLM as Core Gameplay_ Co-Creative Storytelling in '1001 Nights' 截图](GDC%20Vault%20-%20Game%20AI%20Summit_%20LLM%20as%20Core%20Gameplay_%20Co-Creative%20Storytelling%20in%20%271001%20Nights%27.png)
 
 ---
 
-### GDC Vault - Game AI Summit_ Simulating the Perfect Organism in 'Alien_ Rogue Incursion'
+### GDC Vault - Game AI Summit_ Simulating the Perfect Organism in 'Alien_ Rogue Incursion' {#gdc-vault---game-ai-summit_-simulating-the-perfect-organism-in-alien_-rogue-incursion}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1rIJLWbcncl3PcCy1eKUOm9_6sFdnQyMt/view?usp=sharing](https://drive.google.com/file/d/1rIJLWbcncl3PcCy1eKUOm9_6sFdnQyMt/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 游戏《异形：契约》VR体验的AI开发旨在让异形在三维环境（墙壁、天花板、地面）中智能且有威胁地移动，并使玩家感知其智能。
 
@@ -855,18 +769,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 开发挑战包括低优先级异形路径被抢占（未完全解决）、图网络绘制工作量大、美术更新导致路径失效、CPU性能限制、异形偶尔卡住等。项目使用定制的可视化调试工具和自动化测试来辅助开发。异形AI部分开发历时约3年。
 
-**截图:**
-
 ![GDC Vault - Game AI Summit_ Simulating the Perfect Organism in 'Alien_ Rogue Incursion' 截图](GDC%20Vault%20-%20Game%20AI%20Summit_%20Simulating%20the%20Perfect%20Organism%20in%20%27Alien_%20Rogue%20Incursion%27.png)
 
 ---
 
-### GDC Vault - Game AI Summit_ The Human Cost of Generative AI
+### GDC Vault - Game AI Summit_ The Human Cost of Generative AI {#gdc-vault---game-ai-summit_-the-human-cost-of-generative-ai}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1JTTaZzIjehM1-ijYmqKF3Qwc3r7HusqM/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1JTTaZzIjehM1-ijYmqKF3Qwc3r7HusqM/view?usp=sharing](https://drive.google.com/file/d/1JTTaZzIjehM1-ijYmqKF3Qwc3r7HusqM/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 音频内容摘要：
 
@@ -883,18 +794,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 结论是，AI应该成为人类的协助工具，帮助解决枯燥环节，而非取代创作者。
 
-**截图:**
-
 ![GDC Vault - Game AI Summit_ The Human Cost of Generative AI 截图](GDC%20Vault%20-%20Game%20AI%20Summit_%20The%20Human%20Cost%20of%20Generative%20AI.png)
 
 ---
 
-### GDC Vault - Game Narrative Summit_ Built in Layers_ (Re)Creating History with the Narrative System in 'Civilization VII'
+### GDC Vault - Game Narrative Summit_ Built in Layers_ (Re)Creating History with the Narrative System in 'Civilization VII' {#gdc-vault---game-narrative-summit_-built-in-layers_-recreating-history-with-the-narrative-system-in-civilization-vii}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/17UMvMwC1mHf9LSPoKPatbBWCXAQu_S0K/view?usp=sharing](https://drive.google.com/file/d/17UMvMwC1mHf9LSPoKPatbBWCXAQu_S0K/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本音频内容是关于《文明7》的叙事系统。其核心目标是构建一个 emergent（涌现式）叙事系统，让玩家与游戏共同创造独特的、分层的历史。
 
@@ -906,18 +814,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 尽管实施过程中存在挑战（例如缺乏专用叙事工具），但该系统在发行时实现了1262个叙事事件，成功地将历史主题与玩家的游戏行为和选择紧密结合，创造了更具个性化和沉浸感的《文明》体验。
 
-**截图:**
-
 ![GDC Vault - Game Narrative Summit_ Built in Layers_ (Re)Creating History with the Narrative System in 'Civilization VII' 截图](GDC%20Vault%20-%20Game%20Narrative%20Summit_%20Built%20in%20Layers_%20%28Re%29Creating%20History%20with%20the%20Narrative%20System%20in%20%27Civilization%20VII%27.png)
 
 ---
 
-### GDC Vault - Game Narrative Summit_ Creating Playable Stories_ Approaches for Integrating Mechanics and Narrative
+### GDC Vault - Game Narrative Summit_ Creating Playable Stories_ Approaches for Integrating Mechanics and Narrative {#gdc-vault---game-narrative-summit_-creating-playable-stories_-approaches-for-integrating-mechanics-and-narrative}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1YvOmyjPHuinsfefGYrsAVSL9ey5eHUnz/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1YvOmyjPHuinsfefGYrsAVSL9ey5eHUnz/view?usp=sharing](https://drive.google.com/file/d/1YvOmyjPHuinsfefGYrsAVSL9ey5eHUnz/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -934,18 +839,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 这些方法旨在通过与游戏设计的协同合作，让叙事和机制相互促进，最终形成一个不可分割的游戏体验。
 
-**截图:**
-
 ![GDC Vault - Game Narrative Summit_ Creating Playable Stories_ Approaches for Integrating Mechanics and Narrative 截图](GDC%20Vault%20-%20Game%20Narrative%20Summit_%20Creating%20Playable%20Stories_%20Approaches%20for%20Integrating%20Mechanics%20and%20Narrative.png)
 
 ---
 
-### GDC Vault - Game Narrative Summit_ Storytelling Through Systems_ A Narrative Designer's Approach
+### GDC Vault - Game Narrative Summit_ Storytelling Through Systems_ A Narrative Designer's Approach {#gdc-vault---game-narrative-summit_-storytelling-through-systems_-a-narrative-designers-approach}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/19Ix99dEtLpKvA7uYf1v_EasLYncl0BX1/view?usp=sharing](https://drive.google.com/file/d/19Ix99dEtLpKvA7uYf1v_EasLYncl0BX1/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -964,18 +866,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
     *   **注意：** 避免过度重复（需设置冷却时间），过度使用反预期会适得其反。
 6.  **结论：** 电子游戏通过结合系统和叙事，能够创造传统媒体难以实现的情感复杂的体验。写作者应与设计师紧密合作，利用游戏系统的潜力，让玩家通过互动“感受”故事。
 
-**截图:**
-
 ![GDC Vault - Game Narrative Summit_ Storytelling Through Systems_ A Narrative Designer's Approach 截图](GDC%20Vault%20-%20Game%20Narrative%20Summit_%20Storytelling%20Through%20Systems_%20A%20Narrative%20Designer%27s%20Approach.png)
 
 ---
 
-### GDC Vault - Game Narrative Summit_ World Building from Weird to Mainstream
+### GDC Vault - Game Narrative Summit_ World Building from Weird to Mainstream {#gdc-vault---game-narrative-summit_-world-building-from-weird-to-mainstream}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1OHlrvwa50OgBaJWnX2jF79xmuWdnMrWe/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1OHlrvwa50OgBaJWnX2jF79xmuWdnMrWe/view?usp=sharing](https://drive.google.com/file/d/1OHlrvwa50OgBaJWnX2jF79xmuWdnMrWe/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -989,18 +888,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 成功的世界构建需要热情、清晰的身份、协作精神以及与人类普遍情感（常通过怀旧体现）的深刻连接。当一个世界成功走向主流，它便获得了独立生命，超越了最初的创作者。
 
-**截图:**
-
 ![GDC Vault - Game Narrative Summit_ World Building from Weird to Mainstream 截图](GDC%20Vault%20-%20Game%20Narrative%20Summit_%20World%20Building%20from%20Weird%20to%20Mainstream.png)
 
 ---
 
-### GDC Vault - Game Revenue Growth_ Insights from Top Monetization Events
+### GDC Vault - Game Revenue Growth_ Insights from Top Monetization Events {#gdc-vault---game-revenue-growth_-insights-from-top-monetization-events}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1Umhli2XW9kvk-vljVT6wPY-ntHcJs6hB/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1Umhli2XW9kvk-vljVT6wPY-ntHcJs6hB/view?usp=sharing](https://drive.google.com/file/d/1Umhli2XW9kvk-vljVT6wPY-ntHcJs6hB/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -1023,18 +919,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 最后，演讲者提到额外提供第六个活动案例的资料包（可在会议网站下载），以及一份关于各游戏类型趋势的报告（通过LinkedIn联系她获取），并感谢听众并准备回答问题。
 
-**截图:**
-
 ![GDC Vault - Game Revenue Growth_ Insights from Top Monetization Events 截图](GDC%20Vault%20-%20Game%20Revenue%20Growth_%20Insights%20from%20Top%20Monetization%20Events.png)
 
 ---
 
-### GDC Vault - Gaming Reimagined_ Mobile's Impact on Play Today (Presented by King)
+### GDC Vault - Gaming Reimagined_ Mobile's Impact on Play Today (Presented by King) {#gdc-vault---gaming-reimagined_-mobiles-impact-on-play-today-presented-by-king}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/14Mf1MV9Njay2IsKDxGr674JMjY_SG3Be/view?usp=sharing](https://drive.google.com/file/d/14Mf1MV9Njay2IsKDxGr674JMjY_SG3Be/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 小组嘉宾来自《糖果传奇》《暗黑破坏神：不朽》和《使命召唤手游》的开发者。嘉宾和听众分享了对早期手机游戏的记忆，如贪吃蛇、俄罗斯方块、愤怒的小鸟等。
 
@@ -1056,18 +949,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 
 问答环节提及，手游控制设计需同时考虑触屏和外部控制器，有时需区分匹配队列，且游戏平台界限日益模糊，未来可能更趋向于在尽可能多平台上提供免费游戏。
 
-**截图:**
-
 ![GDC Vault - Gaming Reimagined_ Mobile's Impact on Play Today (Presented by King) 截图](GDC%20Vault%20-%20Gaming%20Reimagined_%20Mobile%27s%20Impact%20on%20Play%20Today%20%28Presented%20by%20King%29.png)
 
 ---
 
-### GDC Vault - Grid Topology vs Game Mechanics_ Which Grid for You_
+### GDC Vault - Grid Topology vs Game Mechanics_ Which Grid for You_ {#gdc-vault---grid-topology-vs-game-mechanics_-which-grid-for-you_}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1Qde3PwEDwcaH4Rn2Xl8LA5z1dMpPJdJ-/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1Qde3PwEDwcaH4Rn2Xl8LA5z1dMpPJdJ-/view?usp=sharing](https://drive.google.com/file/d/1Qde3PwEDwcaH4Rn2Xl8LA5z1dMpPJdJ-/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 游戏中的网格（Grid）。
 其作用包括：简化玩家的空间思考，提高清晰度和可玩性；计算效率高，便于计算机处理；有助于构建大型或程序化世界。
@@ -1077,18 +967,15 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 演讲者在自己的游戏“Stealth Cards”中使用了方形网格和无对角线移动来保证玩家清晰度和游戏节奏，并采用3D资产和自由视角，同时处理了视线和背面等问题。
 核心要点总结：网格虽有用但不完美，总是扭曲空间；存在各种技术上可解但可能带来新问题的挑战，需权衡取舍，并应以玩家体验为重，避免与网格基本作用冲突的设计。
 
-**截图:**
-
 ![GDC Vault - Grid Topology vs Game Mechanics_ Which Grid for You_ 截图](GDC%20Vault%20-%20Grid%20Topology%20vs%20Game%20Mechanics_%20Which%20Grid%20for%20You_.png)
 
 ---
 
-### GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer'
+### GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer' {#gdc-vault---harnessing-the-power-of-innovation-to-achieve-dau-growth-in-ace-racer}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1W0V6OdboeCwkpTBn4NjsSzI_C1VWFd-M/view?usp=sharing](https://drive.google.com/file/d/1W0V6OdboeCwkpTBn4NjsSzI_C1VWFd-M/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这个音频内容介绍了竞速游戏《王牌竞速》如何通过创新实现增长。核心内容包括：
 
@@ -1103,33 +990,27 @@ AI逻辑由行为树（高层决策）和状态树（具体状态控制）结合
 4.  创新过程会遇到问题，需要通过持续创新解决。
 5.  最重要的经验是坦诚面对玩家，积极沟通，倾听玩家意见并落地，这能增强玩家的信任和消费信心。
 
-**截图:**
-
 ![GDC Vault - Harnessing the Power of Innovation to Achieve DAU Growth in 'Ace Racer' 截图](GDC%20Vault%20-%20Harnessing%20the%20Power%20of%20Innovation%20to%20Achieve%20DAU%20Growth%20in%20%27Ace%20Racer%27.png)
 
 ---
 
-### GDC Vault - How to Build a Game World with Systems and Story
+### GDC Vault - How to Build a Game World with Systems and Story {#gdc-vault---how-to-build-a-game-world-with-systems-and-story}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/12wrxtRkpMm1pMk9hSr1JYV7sH0a7siUO/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/12wrxtRkpMm1pMk9hSr1JYV7sH0a7siUO/view?usp=sharing](https://drive.google.com/file/d/12wrxtRkpMm1pMk9hSr1JYV7sH0a7siUO/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 游戏世界构建：三位专家探讨了游戏世界构建的两种主要方法。强大的世界构建应是引人入胜且贯穿游戏所有方面（玩法、音频、美术、故事、程序）的整体，是生成游戏内容的“故事引擎”，而非单纯背景。可以通过系统优先（从核心游戏机制出发推导世界元素）或故事优先（从角色或故事主线开始丰富世界并反映玩家选择）的方法进行。无论起点如何，成功的世界构建都必须是连贯、引人入胜并与游戏紧密结合的，能驱动玩家深度体验，需跨学科合作。
-
-**截图:**
 
 ![GDC Vault - How to Build a Game World with Systems and Story 截图](GDC%20Vault%20-%20How%20to%20Build%20a%20Game%20World%20with%20Systems%20and%20Story.png)
 
 ---
 
-### GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive)
+### GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive) {#gdc-vault---how-to-design-and-build-production-ready-game-ui-presented-by-rive}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1FAh2SK-hSjO3M93UYCpgennNB5sFzkmS/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1FAh2SK-hSjO3M93UYCpgennNB5sFzkmS/view?usp=sharing](https://drive.google.com/file/d/1FAh2SK-hSjO3M93UYCpgennNB5sFzkmS/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 音频内容摘要：
 
@@ -1149,18 +1030,15 @@ Rive 已被广泛应用于游戏（如 BeamNG、Pocketwatch Games）、产品（
 
 Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（MIT 许可）。编辑器对个人用户提供包含所有功能且可发布产品的免费计划，团队和企业用户提供付费计划。
 
-**截图:**
-
 ![GDC Vault - How to Design and Build Production-Ready Game UI (Presented by Rive) 截图](GDC%20Vault%20-%20How%20to%20Design%20and%20Build%20Production-Ready%20Game%20UI%20%28Presented%20by%20Rive%29.png)
 
 ---
 
-### GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing
+### GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing {#gdc-vault---improving-live-service-monetization-through-player-telemetry-enabled-marketing}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/17Q5dRnAphxlGyW8IsS0r2WkV5bZaxmb2/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/17Q5dRnAphxlGyW8IsS0r2WkV5bZaxmb2/view?usp=sharing](https://drive.google.com/file/d/17Q5dRnAphxlGyW8IsS0r2WkV5bZaxmb2/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -1174,18 +1052,15 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 尽管存在市场功能优先级低、难以构建有效的推荐引擎、担心玩家负面反应等挑战，但正确实施个性化市场能显著提高游戏内销售（可达5-10倍）、订单价值和购买频率（可高出20%），增强玩家满意度、忠诚度和留存。标准化市场方法可降低各团队实施难度并节省开发时间。
 
-**截图:**
-
 ![GDC Vault - Improving Live Service Monetization Through Player Telemetry Enabled Marketing 截图](GDC%20Vault%20-%20Improving%20Live%20Service%20Monetization%20Through%20Player%20Telemetry%20Enabled%20Marketing.png)
 
 ---
 
-### GDC Vault - Independent Games Summit_ Developing at 5mb per Year_ The Making of 'Animal Well'
+### GDC Vault - Independent Games Summit_ Developing at 5mb per Year_ The Making of 'Animal Well' {#gdc-vault---independent-games-summit_-developing-at-5mb-per-year_-the-making-of-animal-well}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1YKegl4rerGULwPLdtz5rF82pEdsO6FLs/view?usp=sharing](https://drive.google.com/file/d/1YKegl4rerGULwPLdtz5rF82pEdsO6FLs/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 独立游戏 Animal Well 由 Billy Basso 独立开发，历时约 7 年（其中 4 年为兼职项目）。游戏使用自定义 C++ 引擎，除少量库外未依赖大型第三方中间件或框架，基于原生 Windows API 并自行完成了 Xbox、PS5、Switch 的移植。
 
@@ -1201,18 +1076,15 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 开发中“最不有趣”的部分是处理税务和公司注册等非游戏开发相关事务。
 
-**截图:**
-
 ![GDC Vault - Independent Games Summit_ Developing at 5mb per Year_ The Making of 'Animal Well' 截图](GDC%20Vault%20-%20Independent%20Games%20Summit_%20Developing%20at%205mb%20per%20Year_%20The%20Making%20of%20%27Animal%20Well%27.png)
 
 ---
 
-### GDC Vault - Independent Games Summit_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion
+### GDC Vault - Independent Games Summit_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion {#gdc-vault---independent-games-summit_-meetings-make-games-fostering-empathy-and-focus-in-collaborative-discussion}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1P9HQvku8bHHskBdRHgMRU0e0AHrGplgw/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1P9HQvku8bHHskBdRHgMRU0e0AHrGplgw/view?usp=sharing](https://drive.google.com/file/d/1P9HQvku8bHHskBdRHgMRU0e0AHrGplgw/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 该音频内容主要关于如何改进会议，特别是在游戏开发环境中。会议常因混乱、紧张、挫败感和浪费时间而声名不佳。为了解决这些问题，演讲者提出了七个改善会议并创造心理安全环境的关键策略：
 
@@ -1226,33 +1098,27 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 这些策略旨在创造一个心理安全的会议环境，从而提升参与度、促进真诚贡献、改善问题解决能力，最终产出更好的游戏/成果。
 
-**截图:**
-
 ![GDC Vault - Independent Games Summit_ Meetings Make Games! Fostering Empathy and Focus in Collaborative Discussion 截图](GDC%20Vault%20-%20Independent%20Games%20Summit_%20Meetings%20Make%20Games%21%20Fostering%20Empathy%20and%20Focus%20in%20Collaborative%20Discussion.png)
 
 ---
 
-### GDC Vault - Insider Secrets_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu)
+### GDC Vault - Insider Secrets_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu) {#gdc-vault---insider-secrets_-how-game-studios-quietly-out-test-the-competition-presented-by-pickfu}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1SwbhMgzZ9a1NrBYbtrwqpRY1DvXrYo4i/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1SwbhMgzZ9a1NrBYbtrwqpRY1DvXrYo4i/view?usp=sharing](https://drive.google.com/file/d/1SwbhMgzZ9a1NrBYbtrwqpRY1DvXrYo4i/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 顶级游戏工作室通过迭代测试保持领先。将测试整合到游戏策略中至关重要，能带来巨大成功。测试有助于制定热门蓝图、做出更明智的决策并应用于游戏。PickFu等工具提供快速精准的数据，用于测试创意素材、定位用户群体和分析玩家行为。定性数据（如评论）能解释现象背后的原因。迭代测试是持续优化的过程，贯穿游戏开发各阶段，帮助在早期验证概念、识别问题、提升表现。数据显示，测试能显著提高收入和转化率。测试对所有团队成员都有益，并非耗时过程。顶尖工作室将测试作为策略核心，这是决定游戏成败的关键。
-
-**截图:**
 
 ![GDC Vault - Insider Secrets_ How Game Studios Quietly Out-Test the Competition (Presented by PickFu) 截图](GDC%20Vault%20-%20Insider%20Secrets_%20How%20Game%20Studios%20Quietly%20Out-Test%20the%20Competition%20%28Presented%20by%20PickFu%29.png)
 
 ---
 
-### GDC Vault - It's Gonna Hurt_ Metagame Management in 'War Robots'
+### GDC Vault - It's Gonna Hurt_ Metagame Management in 'War Robots' {#gdc-vault---its-gonna-hurt_-metagame-management-in-war-robots}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/10Z5-4fTP_zNCkTwoafGqEbeAuCNXpQTN/view?usp=sharing](https://drive.google.com/file/d/10Z5-4fTP_zNCkTwoafGqEbeAuCNXpQTN/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -1268,18 +1134,15 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 关键在于要监控元数据，并在必要时采取行动。玩家能够理解元数据变化的原因，试图隐藏意图是无效的。
 
-**截图:**
-
 ![GDC Vault - It's Gonna Hurt_ Metagame Management in 'War Robots' 截图](GDC%20Vault%20-%20It%27s%20Gonna%20Hurt_%20Metagame%20Management%20in%20%27War%20Robots%27.png)
 
 ---
 
-### GDC Vault - Level Design Summit_ From 'Skyrim' and 'Fallout' to Solo Dev_ Creating 'The Axis Unseen'
+### GDC Vault - Level Design Summit_ From 'Skyrim' and 'Fallout' to Solo Dev_ Creating 'The Axis Unseen' {#gdc-vault---level-design-summit_-from-skyrim-and-fallout-to-solo-dev_-creating-the-axis-unseen}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1XFBXWkzTOXIdmhP3qKFXZjpc-eMjKHjl/view?usp=sharing](https://drive.google.com/file/d/1XFBXWkzTOXIdmhP3qKFXZjpc-eMjKHjl/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -1319,18 +1182,15 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
     *   会更早放出Demo并获取评价。
     *   很可能再次制作大型独立游戏，但绝不会回3A公司工作。
 
-**截图:**
-
 ![GDC Vault - Level Design Summit_ From 'Skyrim' and 'Fallout' to Solo Dev_ Creating 'The Axis Unseen' 截图](GDC%20Vault%20-%20Level%20Design%20Summit_%20From%20%27Skyrim%27%20and%20%27Fallout%27%20to%20Solo%20Dev_%20Creating%20%27The%20Axis%20Unseen%27.png)
 
 ---
 
-### GDC Vault - Level Design Summit_ How Narrative Design Can Align Level Design and Art Around Themes & Tone
+### GDC Vault - Level Design Summit_ How Narrative Design Can Align Level Design and Art Around Themes & Tone {#gdc-vault---level-design-summit_-how-narrative-design-can-align-level-design-and-art-around-themes--tone}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1KNvBOIbCCI_6_oweBKnJ7h4b0KVgfQEc/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1KNvBOIbCCI_6_oweBKnJ7h4b0KVgfQEc/view?usp=sharing](https://drive.google.com/file/d/1KNvBOIbCCI_6_oweBKnJ7h4b0KVgfQEc/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 主讲人Lauren Ash，一位游戏叙事总监，分享了她在游戏开发中关于主题（Theme）、调性（Tone）以及跨部门协作的经验。
 
@@ -1344,33 +1204,27 @@ Rive 的核心组件（格式、渲染器、运行时）是免费且开源的（
 
 最终，主题是核心信息，调性是传递信息的方式。通过跨部门的协作和有效的文档管理，团队可以更好地对齐主题和调性，为玩家带来统一且深刻的游戏体验。
 
-**截图:**
-
 ![GDC Vault - Level Design Summit_ How Narrative Design Can Align Level Design and Art Around Themes & Tone 截图](GDC%20Vault%20-%20Level%20Design%20Summit_%20How%20Narrative%20Design%20Can%20Align%20Level%20Design%20and%20Art%20Around%20Themes%20%26%20Tone.png)
 
 ---
 
-### GDC Vault - Level Design Summit_ The Unusual Level Design of 'Tactical Breach Wizards'
+### GDC Vault - Level Design Summit_ The Unusual Level Design of 'Tactical Breach Wizards' {#gdc-vault---level-design-summit_-the-unusual-level-design-of-tactical-breach-wizards}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1dMdNOjwJ1cPCQU0cbpKu6mwFiLhPT-Bx/view?usp=sharing](https://drive.google.com/file/d/1dMdNOjwJ1cPCQU0cbpKu6mwFiLhPT-Bx/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 《战术突破奇术师》是一款回合制小队战术游戏。游戏特点：关卡小巧手工制作，机制明确一致，有回溯功能；注重趣味性而非难度，可跳过任何关卡；正交设计使角色敌人能力组合丰富；故事驱动，轻松幽默。开发：由5人小团队历时6.5年制作；按顺序开发章节，关卡制作高效（编辑器易用，艺术与设计分离）；通过玩家测试反馈确保质量。市场表现：在Steam上获得极度好评（98%），并获行业奖项提名。关卡设计通过互动方式展现故事情节、深入刻画角色（“梦境”关卡通过机制展现角色焦虑）。
-
-**截图:**
 
 ![GDC Vault - Level Design Summit_ The Unusual Level Design of 'Tactical Breach Wizards' 截图](GDC%20Vault%20-%20Level%20Design%20Summit_%20The%20Unusual%20Level%20Design%20of%20%27Tactical%20Breach%20Wizards%27.png)
 
 ---
 
-### GDC Vault - LoG's Leadership Shortcut_ A Decade of Hard-Won Lessons in Creative Leadership
+### GDC Vault - LoG's Leadership Shortcut_ A Decade of Hard-Won Lessons in Creative Leadership {#gdc-vault---logs-leadership-shortcut_-a-decade-of-hard-won-lessons-in-creative-leadership}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/169AZKfkZdRHOJqvM5gET8sJak6iWVZwL/view?usp=sharing](https://drive.google.com/file/d/169AZKfkZdRHOJqvM5gET8sJak6iWVZwL/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 Trent Kusters是League of Geeks（一家位于墨尔本的Triple-I独立游戏工作室，兼具独立开发规模与AAA制作水准）的前工作室总监。该工作室曾从70多人缩减至5人。本次演讲分享了他在15年领导经验中习得的教训和方法。
 
@@ -1385,18 +1239,15 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 尽管工作室经历困难时期，这些围绕人才、价值观、透明度、社区等方面的实践经验被认为是有效的。
 
-**截图:**
-
 ![GDC Vault - LoG's Leadership Shortcut_ A Decade of Hard-Won Lessons in Creative Leadership 截图](GDC%20Vault%20-%20LoG%27s%20Leadership%20Shortcut_%20A%20Decade%20of%20Hard-Won%20Lessons%20in%20Creative%20Leadership.png)
 
 ---
 
-### GDC Vault - Making Collectibles Count
+### GDC Vault - Making Collectibles Count {#gdc-vault---making-collectibles-count}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1CVhlCkMPga-FiQSWGTlVyt7CKvP5eeyy/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1CVhlCkMPga-FiQSWGTlVyt7CKvP5eeyy/view?usp=sharing](https://drive.google.com/file/d/1CVhlCkMPga-FiQSWGTlVyt7CKvP5eeyy/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本音频内容是关于如何设计出有价值的游戏收藏品。演讲者（Joe）分享了他对收藏品的热爱，并提出了优秀收藏品的八个特质，分为三个等级：
 
@@ -1416,18 +1267,15 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 结论是，收藏品不必满足所有八个特质，但符合的特质越多，通常能提供更强大的游戏体验。
 
-**截图:**
-
 ![GDC Vault - Making Collectibles Count 截图](GDC%20Vault%20-%20Making%20Collectibles%20Count.png)
 
 ---
 
-### GDC Vault - Making of a Brawler_ Character Creation for 'Brawl Stars'
+### GDC Vault - Making of a Brawler_ Character Creation for 'Brawl Stars' {#gdc-vault---making-of-a-brawler_-character-creation-for-brawl-stars}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1e6ssXJTjxH6IyuMdhN5mRd-86-nMRuQs/view?usp=sharing](https://drive.google.com/file/d/1e6ssXJTjxH6IyuMdhN5mRd-86-nMRuQs/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是该音频内容的摘要：
 
@@ -1449,18 +1297,15 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 整个创作过程，包括团队的热情、疯狂的想法和脑力激荡，都让最终成果充满价值。这种在幕后的热爱和连接最终会反映在最终产品中，让玩家也能感受到。
 
-**截图:**
-
 ![GDC Vault - Making of a Brawler_ Character Creation for 'Brawl Stars' 截图](GDC%20Vault%20-%20Making%20of%20a%20Brawler_%20Character%20Creation%20for%20%27Brawl%20Stars%27.png)
 
 ---
 
-### GDC Vault - Masterworking Systems_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV'
+### GDC Vault - Masterworking Systems_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV' {#gdc-vault---masterworking-systems_-lessons-learned-from-the-engineering-of-season-of-loot-reborn-in-diablo-iv}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1YNsELPfT-yPDtOJCqHCVFFjd0i38UahU/view?usp=sharing](https://drive.google.com/file/d/1YNsELPfT-yPDtOJCqHCVFFjd0i38UahU/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 《暗黑破坏神4》第四赛季（战利品重生）的物品系统工程。
 
@@ -1480,18 +1325,15 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
     *   保留旧的、标记为废弃的数据字段，以确保旧有物品的向后兼容性和迁移。
 *   主要经验是：特性标记利于并行开发和灵活测试；前期投入数据稳定性对未来变更和迁移至关重要。
 
-**截图:**
-
 ![GDC Vault - Masterworking Systems_ Lessons Learned from the Engineering of Season of Loot Reborn in 'Diablo IV' 截图](GDC%20Vault%20-%20Masterworking%20Systems_%20Lessons%20Learned%20from%20the%20Engineering%20of%20Season%20of%20Loot%20Reborn%20in%20%27Diablo%20IV%27.png)
 
 ---
 
-### GDC Vault - Mental Maps, Mastery, and Metacognition_ Game Design Lessons from Education
+### GDC Vault - Mental Maps, Mastery, and Metacognition_ Game Design Lessons from Education {#gdc-vault---mental-maps-mastery-and-metacognition_-game-design-lessons-from-education}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1KsJzlPMh_398Rsq7osbRtKg53sa__UdP/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1KsJzlPMh_398Rsq7osbRtKg53sa__UdP/view?usp=sharing](https://drive.google.com/file/d/1KsJzlPMh_398Rsq7osbRtKg53sa__UdP/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这个音频内容是关于游戏设计与教育之间的联系。主讲人是一位游戏设计教授，他认为教学与游戏设计有许多共通之处。
 
@@ -1508,18 +1350,15 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 主讲人最后指出，最高层次的掌握表现为教学，游戏设计应支持并展示高水平玩家的教学行为。学习和掌握都需要注意力和觉知，重点在于学习者的体验和主动参与。
 
-**截图:**
-
 ![GDC Vault - Mental Maps, Mastery, and Metacognition_ Game Design Lessons from Education 截图](GDC%20Vault%20-%20Mental%20Maps%2C%20Mastery%2C%20and%20Metacognition_%20Game%20Design%20Lessons%20from%20Education.png)
 
 ---
 
-### GDC Vault - Monetizing Through Game Art_ Creating Engaging Decors in 'Good Pizza, Great Pizza'
+### GDC Vault - Monetizing Through Game Art_ Creating Engaging Decors in 'Good Pizza, Great Pizza' {#gdc-vault---monetizing-through-game-art_-creating-engaging-decors-in-good-pizza-great-pizza}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1JrK7HoKfAk4rcqGVv-nB1N0at3tp5t55/view?usp=sharing](https://drive.google.com/file/d/1JrK7HoKfAk4rcqGVv-nB1N0at3tp5t55/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 主讲人Kian Zhuo是Top Place的游戏设计师，工作室专注于免费手机经营模拟游戏《Good Pizza, Great Pizza》(GP/GP)。
 
@@ -1539,18 +1378,15 @@ Triple-I模式意味着独立开发的规模结合AAA级别的制作价值和范
 
 数据是重要的工具：监控用户留存和收入等关键数据，确保游戏核心健康。利用A/B测试等方法，基于数据分析指导设计决策，了解哪些内容表现更好及其原因。
 
-**截图:**
-
 ![GDC Vault - Monetizing Through Game Art_ Creating Engaging Decors in 'Good Pizza, Great Pizza' 截图](GDC%20Vault%20-%20Monetizing%20Through%20Game%20Art_%20Creating%20Engaging%20Decors%20in%20%27Good%20Pizza%2C%20Great%20Pizza%27.png)
 
 ---
 
-### GDC Vault - Moving Files and Managing Assets at Naughty Dog
+### GDC Vault - Moving Files and Managing Assets at Naughty Dog {#gdc-vault---moving-files-and-managing-assets-at-naughty-dog}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1d6s7gtaCQ4Z7gLKAlUlhe9Wgsv3O11nd/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1d6s7gtaCQ4Z7gLKAlUlhe9Wgsv3O11nd/view?usp=sharing](https://drive.google.com/file/d/1d6s7gtaCQ4Z7gLKAlUlhe9Wgsv3O11nd/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本次音频内容摘要如下：
 
@@ -1571,18 +1407,15 @@ Naughty Dog的解决方案设计目标包括：
 
 需要注意，该方案是Naughty Dog基于其内部引擎、大规模团队和特定开发流程的定制，其具体实现（如选择SQL数据库存储依赖数据，自定义文件管理器UI）可能不适用于所有工作室。虽然该方案复杂且有潜在风险（如逻辑错误可能影响大量文件，依赖数据库需保持同步），但它有效地解决了大规模游戏开发中的文件管理和依赖关系维护问题，提升了开发管线的效率和稳定性。
 
-**截图:**
-
 ![GDC Vault - Moving Files and Managing Assets at Naughty Dog 截图](GDC%20Vault%20-%20Moving%20Files%20and%20Managing%20Assets%20at%20Naughty%20Dog.png)
 
 ---
 
-### GDC Vault - Multiclassing_ Switching from Lead Designer to Executive Producer
+### GDC Vault - Multiclassing_ Switching from Lead Designer to Executive Producer {#gdc-vault---multiclassing_-switching-from-lead-designer-to-executive-producer}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1GYvJTjr2xAWHTwz5Z03T_t_oaIsrvaN4/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1GYvJTjr2xAWHTwz5Z03T_t_oaIsrvaN4/view?usp=sharing](https://drive.google.com/file/d/1GYvJTjr2xAWHTwz5Z03T_t_oaIsrvaN4/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -1596,18 +1429,15 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 
 演讲者在《无冬之夜》面临人员流失等挑战时，通过关注开发者需求、促进团队协作、设定清晰目标，成功稳定了团队，提高了开发效率，使游戏发布和收入更加可预测，最终提升了玩家满意度。EP需要同时理解并平衡好构建者和销售者的需求，是确保项目整体成功的关键角色。
 
-**截图:**
-
 ![GDC Vault - Multiclassing_ Switching from Lead Designer to Executive Producer 截图](GDC%20Vault%20-%20Multiclassing_%20Switching%20from%20Lead%20Designer%20to%20Executive%20Producer.png)
 
 ---
 
-### GDC Vault - Process Lite_ Less Time on Process, More Time on Development
+### GDC Vault - Process Lite_ Less Time on Process, More Time on Development {#gdc-vault---process-lite_-less-time-on-process-more-time-on-development}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1kmcOOBVf6oOK2DyfhLrmi5OnQ-6XPMTa/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1kmcOOBVf6oOK2DyfhLrmi5OnQ-6XPMTa/view?usp=sharing](https://drive.google.com/file/d/1kmcOOBVf6oOK2DyfhLrmi5OnQ-6XPMTa/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本次演讲的主题是“精益流程（Process Light）”，目标是减少流程耗时，将更多精力投入到开发中。演讲强调权衡流程投入的时间与获得的效益，应简化或取消耗时流程，使其服务于开发效率提升和产品质量改进，与此无关的努力应降低优先级。
 
@@ -1622,18 +1452,15 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 8.  **控制与认可：** 专注于在自身可控范围内改进流程。获取团队和领导的认可是流程变革成功的关键，应通过解决团队痛点、提供表达意见的平台、寻求折中方案或将改动作为实验等方式争取支持。
 9.  **定制与适应：** 精益流程并非取消所有流程，而是找到最适合当前团队和项目、最轻量化的解决方案。每个团队都是独特的，应找到自己的“流程秘方”，如果过度精简，也可以随时增加必要流程。
 
-**截图:**
-
 ![GDC Vault - Process Lite_ Less Time on Process, More Time on Development 截图](GDC%20Vault%20-%20Process%20Lite_%20Less%20Time%20on%20Process%2C%20More%20Time%20on%20Development.png)
 
 ---
 
-### GDC Vault - Production Traps_ How Producers and Leaders Get Stuck
+### GDC Vault - Production Traps_ How Producers and Leaders Get Stuck {#gdc-vault---production-traps_-how-producers-and-leaders-get-stuck}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1yvu9VpUkvvY3tkle5LHdCUvycH9Qu8J5/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1yvu9VpUkvvY3tkle5LHdCUvycH9Qu8J5/view?usp=sharing](https://drive.google.com/file/d/1yvu9VpUkvvY3tkle5LHdCUvycH9Qu8J5/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 音频内容讨论了游戏制作人和领导者容易陷入的“制作陷阱”，分为三类：“次优执行者”、“技能不足的支持者”、“危险的决策者”。这些陷阱源于过度关注工具、流程、计划、盲目满足他人需求或独揽决策，而忽视了真正重要的方面。制作人/领导者的首要职责并非管理高效的系统或包揽杂务，而是作为领导者解决制作问题，关注产品愿景和团队文化等更高层面，并赋能团队做出决策。
 
@@ -1643,18 +1470,15 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 3.  成为生产领域的专家，具备勇气和谦逊，并发展领导力、影响力及系统构建的关键技能。
 4.  创造一个让每个人都被信任能够做出好决策的环境，而非自己独揽决策权。
 
-**截图:**
-
 ![GDC Vault - Production Traps_ How Producers and Leaders Get Stuck 截图](GDC%20Vault%20-%20Production%20Traps_%20How%20Producers%20and%20Leaders%20Get%20Stuck.png)
 
 ---
 
-### GDC Vault - Quo Vadis Mobile Gaming 2025_
+### GDC Vault - Quo Vadis Mobile Gaming 2025_ {#gdc-vault---quo-vadis-mobile-gaming-2025_}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/11iShHV-KbbWS_Cx968minIsjeMVD36EU/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/11iShHV-KbbWS_Cx968minIsjeMVD36EU/view?usp=sharing](https://drive.google.com/file/d/11iShHV-KbbWS_Cx968minIsjeMVD36EU/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 移动游戏用户群持续增长，特别是新用户，但整体增长率放缓（低于3%），不过仍有积极势头。
 未来的增长主要来自新兴市场（如印度、巴西）的智能手机普及，而非西方市场。
@@ -1668,33 +1492,27 @@ EP拥有预算和人力的管理权，需要与各部门负责人等关键干系
 安卓市场增长放缓（近期负增长），美国安卓市场饱和。iOS市场2024年表现较好，增长来自休闲游戏，但近期增长也放缓。
 混合变现（应用内购+广告）模式复杂，衡量用户价值需同时考虑广告价值。
 
-**截图:**
-
 ![GDC Vault - Quo Vadis Mobile Gaming 2025_ 截图](GDC%20Vault%20-%20Quo%20Vadis%20Mobile%20Gaming%202025_.png)
 
 ---
 
-### GDC Vault - Rescuing a Playerbase from the Doldrums_ 'Destiny 2' in 2022
+### GDC Vault - Rescuing a Playerbase from the Doldrums_ 'Destiny 2' in 2022 {#gdc-vault---rescuing-a-playerbase-from-the-doldrums_-destiny-2-in-2022}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1m_gDB2xkBHzFjf9elPC-Z3UmzX8DcQ6z/view?usp=sharing](https://drive.google.com/file/d/1m_gDB2xkBHzFjf9elPC-Z3UmzX8DcQ6z/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资料片预购不佳。为此，Bungie组建了临时的玩家留存团队（PRT），由设计、QA和工程师组成，目标是快速应对，提升玩家情绪和留存。团队强调速度和敏捷，通过高频头脑风暴和迭代，在短时间内（6周）交付了17项游戏改进和新功能，其中7项包含在大型资料片“光陨之秋”的首日补丁中。这些措施成功扭转了玩家活跃度下降趋势并提升了玩家情绪。团队重视与社区和各部门的沟通，利用多种渠道及时传达信息。然而，在追求速度过程中，也出现了一次导致游戏停服的严重Bug，这警示了在关键决策上需权衡速度与风险。最终，团队决定不将PRT常态化，而是作为年度短期任务，以保持其敏捷性并避免对常态开发流程产生负面影响。项目总结强调了组建灵活高效团队、重视玩家反馈与社区沟通、敏捷设计和持续监控关键指标的重要性。
-
-**截图:**
 
 ![GDC Vault - Rescuing a Playerbase from the Doldrums_ 'Destiny 2' in 2022 截图](GDC%20Vault%20-%20Rescuing%20a%20Playerbase%20from%20the%20Doldrums_%20%27Destiny%202%27%20in%202022.png)
 
 ---
 
-### GDC Vault - Revolutionizing Game Localization with AI Agents_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate)
+### GDC Vault - Revolutionizing Game Localization with AI Agents_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate) {#gdc-vault---revolutionizing-game-localization-with-ai-agents_-faster-cheaper-smarter-presented-by-dmm-game-translate}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1EqGzA0VKgLdHq0p5mI1VIj8UQHeM1o3s/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1EqGzA0VKgLdHq0p5mI1VIj8UQHeM1o3s/view?usp=sharing](https://drive.google.com/file/d/1EqGzA0VKgLdHq0p5mI1VIj8UQHeM1o3s/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本音频介绍了利用AI代理和人工协作革新游戏本地化，旨在让游戏本地化更快速、更便宜、质量更高，实现本地化普及。
 
@@ -1706,18 +1524,15 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 该模式有望增加可本地化游戏数量和语言种类，降低本地化门槛，推动本地化民主化。这不是单纯自动化，而是人机结合的深度转型。
 
-**截图:**
-
 ![GDC Vault - Revolutionizing Game Localization with AI Agents_ Faster, Cheaper, Smarter (Presented by DMM GAME Translate) 截图](GDC%20Vault%20-%20Revolutionizing%20Game%20Localization%20with%20AI%20Agents_%20Faster%2C%20Cheaper%2C%20Smarter%20%28Presented%20by%20DMM%20GAME%20Translate%29.png)
 
 ---
 
-### GDC Vault - Rules of the Game 2025_ Uncommon Techniques from Insightful Designers
+### GDC Vault - Rules of the Game 2025_ Uncommon Techniques from Insightful Designers {#gdc-vault---rules-of-the-game-2025_-uncommon-techniques-from-insightful-designers}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1HRiO6ynpGpDTBnXB8zPc-oeuf2ttnOXH/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1HRiO6ynpGpDTBnXB8zPc-oeuf2ttnOXH/view?usp=sharing](https://drive.google.com/file/d/1HRiO6ynpGpDTBnXB8zPc-oeuf2ttnOXH/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 "Rules of the Game for 2025" 活动举办了一场游戏设计讲座，多位设计师分享游戏设计规则与技巧。
 
@@ -1731,18 +1546,15 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 这些演讲内容可在 GDC Vault 和 YouTube 上观看。
 
-**截图:**
-
 ![GDC Vault - Rules of the Game 2025_ Uncommon Techniques from Insightful Designers 截图](GDC%20Vault%20-%20Rules%20of%20the%20Game%202025_%20Uncommon%20Techniques%20from%20Insightful%20Designers.png)
 
 ---
 
-### GDC Vault - Six Pillars of Impactful Onboarding
+### GDC Vault - Six Pillars of Impactful Onboarding {#gdc-vault---six-pillars-of-impactful-onboarding}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1rfCOm5pOhWSKQ8d8d12cKpRDDAkUX-ZD/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1rfCOm5pOhWSKQ8d8d12cKpRDDAkUX-ZD/view?usp=sharing](https://drive.google.com/file/d/1rfCOm5pOhWSKQ8d8d12cKpRDDAkUX-ZD/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 音频内容摘要：
 
@@ -1759,33 +1571,27 @@ Destiny 2在2022年底面临玩家活跃度下降和情绪低落的问题，资�
 
 最后，她提出了第七个“秘密”支柱：**投入关心**。强调真诚地关心新员工的体验和感受，这对于他们克服困难、顺利融入至关重要。总而言之，通过这些方法可以显著提升新员工的入职体验和成功率。
 
-**截图:**
-
 ![GDC Vault - Six Pillars of Impactful Onboarding 截图](GDC%20Vault%20-%20Six%20Pillars%20of%20Impactful%20Onboarding.png)
 
 ---
 
-### GDC Vault - Stick to It_ Creating a UI Identity for 'LEGO Horizon Adventures'
+### GDC Vault - Stick to It_ Creating a UI Identity for 'LEGO Horizon Adventures' {#gdc-vault---stick-to-it_-creating-a-ui-identity-for-lego-horizon-adventures}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/14bPzLG8N1LqKfVpwxNAqKOlTLOKnY8__/view?usp=sharing](https://drive.google.com/file/d/14bPzLG8N1LqKfVpwxNAqKOlTLOKnY8__/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本次演讲讨论了为《乐高：地平线大冒险》创建独特UI设计系统的过程。该系统融合了乐高与Horizon Zero Dawn两个知名品牌的特点，通过深入研究品牌历史、规范和风格指南，提炼出贴纸主题的UI风格。团队探索了不同风格方向（如增强现实、玩具、工艺品、信息图表），最终确定以乐高贴纸为主要视觉语言，并基于此制定了UI/UX规则和设计系统，成功实现了UI与游戏世界和玩家视角的分层，最终为游戏带来了独特且具凝聚力的视觉体验。
-
-**截图:**
 
 ![GDC Vault - Stick to It_ Creating a UI Identity for 'LEGO Horizon Adventures' 截图](GDC%20Vault%20-%20Stick%20to%20It_%20Creating%20a%20UI%20Identity%20for%20%27LEGO%20Horizon%20Adventures%27.png)
 
 ---
 
-### GDC Vault - Streamlining Game Development_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS)
+### GDC Vault - Streamlining Game Development_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS) {#gdc-vault---streamlining-game-development_-building-a-scalable-pipeline-for-multiple-titles-presented-by-lightspeed-studios}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1dJBRcRWpqVS1dzv14KhbM-KdS9p0zwvC/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1dJBRcRWpqVS1dzv14KhbM-KdS9p0zwvC/view?usp=sharing](https://drive.google.com/file/d/1dJBRcRWpqVS1dzv14KhbM-KdS9p0zwvC/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -1803,33 +1609,27 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 最终目标是让艺术家感觉像在元宇宙中创作，利用OpenUSD和Omniverse连接不同软件作为服务，提供高性能的增量更新和实时同步，让艺术家自由选择工具，并能通过蓝图自定义并控制整个程序化工作流程。通过Project Letscraft等项目，他们验证了蓝图与OpenUSD结合构建多DCC程序化管线的潜力。
 
-**截图:**
-
 ![GDC Vault - Streamlining Game Development_ Building a Scalable Pipeline for Multiple Titles (Presented by LIGHTSPEED STUDIOS) 截图](GDC%20Vault%20-%20Streamlining%20Game%20Development_%20Building%20a%20Scalable%20Pipeline%20for%20Multiple%20Titles%20%28Presented%20by%20LIGHTSPEED%20STUDIOS%29.png)
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ Delta Force_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games)
+### GDC Vault - Tencent Games Developer Summit_ Delta Force_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-delta-force_-become-a-hero-rebuild-the-extraction-gameplay-presented-by-tencent-games}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1CLMvoQbz9rFSfvdkuHUSuEyYHUmaGGla/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1CLMvoQbz9rFSfvdkuHUSuEyYHUmaGGla/view?usp=sharing](https://drive.google.com/file/d/1CLMvoQbz9rFSfvdkuHUSuEyYHUmaGGla/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 《Data Force》游戏设计师分享撤离模式设计理念。传统撤离游戏限制玩家玩法，TTK过快导致被动。该游戏旨在赋能玩家成为英雄，支持多样化玩法。核心设计围绕动机（风险回报鼓励激进）、方法（街机战斗乐趣）、场景（战术地图与机制）。调整TTK，引入复活/修复，设计有反制的战术技能，地图注重公平战术环境。鼓励动态交互和玩家创造力。探索“沙盒竞技场”概念，提供高度自由的枪匠系统、多功能技能，引入随机元素，鼓励玩家自由探索和创造战术。目标是与玩家建立情感连接，让每局游戏都是英雄故事。
-
-**截图:**
 
 ![GDC Vault - Tencent Games Developer Summit_ Delta Force_ Become A Hero, Rebuild the Extraction Gameplay (Presented by Tencent Games) 截图](GDC%20Vault%20-%20Tencent%20Games%20Developer%20Summit_%20Delta%20Force_%20Become%20A%20Hero%2C%20Rebuild%20the%20Extraction%20Gameplay%20%28Presented%20by%20Tencent%20Games%29.png)
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games)
+### GDC Vault - Tencent Games Developer Summit_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-large-scale-pvp-level-design-in-delta-force-presented-by-tencent-games}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1ZXuInfW0f6-b8nRpVZ7Y7mWOOLmVxk0B/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1ZXuInfW0f6-b8nRpVZ7Y7mWOOLmVxk0B/view?usp=sharing](https://drive.google.com/file/d/1ZXuInfW0f6-b8nRpVZ7Y7mWOOLmVxk0B/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 腾讯天美工作室关卡设计负责人董海阳分享了游戏《合金弹头：塔防》的关卡设计经验。这是一款军事题材FPS，采用半开放式关卡设计，结合了传统紧凑型地图和大型开放世界地图的优点，目标是提供兼顾射击技巧与策略的丰富玩法，容纳不同类型玩家，解决传统地图和开放地图各自的局限。
 
@@ -1839,18 +1639,15 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 作为在线服务游戏，关卡上线是服务的开始。团队依赖玩家数据分析（热力图、行为数据）驱动关卡迭代，发现并快速修复问题（如意外的玩家行为或不平衡点），以适应不同玩家并调整难度。
 
-**截图:**
-
 ![GDC Vault - Tencent Games Developer Summit_ Large Scale PvP Level Design in DELTA FORCE (Presented by Tencent Games) 截图](GDC%20Vault%20-%20Tencent%20Games%20Developer%20Summit_%20Large%20Scale%20PvP%20Level%20Design%20in%20DELTA%20FORCE%20%28Presented%20by%20Tencent%20Games%29.png)
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ Noise or Insight_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games)
+### GDC Vault - Tencent Games Developer Summit_ Noise or Insight_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-noise-or-insight_-five-tips-to-get-real-insights-in-playtests-presented-by-tencent-games}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/15E5AOZWk9MStizwlgY7yxhvrnm-EASmi/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/15E5AOZWk9MStizwlgY7yxhvrnm-EASmi/view?usp=sharing](https://drive.google.com/file/d/15E5AOZWk9MStizwlgY7yxhvrnm-EASmi/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 该音频内容介绍了有效游戏试玩（playtest）的五项核心建议：
 
@@ -1862,18 +1659,15 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 总结而言，有效的游戏试玩是关于创造、收集和验证玩家对游戏核心“食谱”产生的难忘记忆。
 
-**截图:**
-
 ![GDC Vault - Tencent Games Developer Summit_ Noise or Insight_ Five Tips to Get Real Insights in Playtests! (Presented by Tencent Games) 截图](GDC%20Vault%20-%20Tencent%20Games%20Developer%20Summit_%20Noise%20or%20Insight_%20Five%20Tips%20to%20Get%20Real%20Insights%20in%20Playtests%21%20%28Presented%20by%20Tencent%20Games%29.png)
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ The Creation of Delta Force Art Style_ Cross-Platform Visual and Style Development (Presented by Tencent Games)
+### GDC Vault - Tencent Games Developer Summit_ The Creation of Delta Force Art Style_ Cross-Platform Visual and Style Development (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-the-creation-of-delta-force-art-style_-cross-platform-visual-and-style-development-presented-by-tencent-games}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/19r061W94WEnVDvRzA7CwiVXHou7EhZD6/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/19r061W94WEnVDvRzA7CwiVXHou7EhZD6/view?usp=sharing](https://drive.google.com/file/d/19r061W94WEnVDvRzA7CwiVXHou7EhZD6/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 音频内容是《三角洲部队》美术总监William Liu关于游戏美术设计理念的演讲。他介绍了自己在游戏行业的经历，并指出游戏面临的两大核心挑战：IP传承与创新，以及跨平台开发（PC和移动）。
 
@@ -1885,33 +1679,27 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 最后，演讲强调开发团队（Jade团队）是克服这些挑战的核心力量，他们的热情是游戏成功的关键。
 
-**截图:**
-
 ![GDC Vault - Tencent Games Developer Summit_ The Creation of Delta Force Art Style_ Cross-Platform Visual and Style Development (Presented by Tencent Games) 截图](GDC%20Vault%20-%20Tencent%20Games%20Developer%20Summit_%20The%20Creation%20of%20Delta%20Force%20Art%20Style_%20Cross-Platform%20Visual%20and%20Style%20Development%20%28Presented%20by%20Tencent%20Games%29.png)
 
 ---
 
-### GDC Vault - Tencent Games Developer Summit_ The Procedural Way_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games)
+### GDC Vault - Tencent Games Developer Summit_ The Procedural Way_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games) {#gdc-vault---tencent-games-developer-summit_-the-procedural-way_-reconstruct-mega-city-of-qin-dynasty-presented-by-tencent-games}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/12DJDGlP4Nn6AhUTPOHmHw_tKIr0J0Wv1/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/12DJDGlP4Nn6AhUTPOHmHw_tKIr0J0Wv1/view?usp=sharing](https://drive.google.com/file/d/12DJDGlP4Nn6AhUTPOHmHw_tKIr0J0Wv1/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 该音频介绍了为游戏程序化生成大型古代中国城市（特指秦朝咸阳）的项目。针对传统手动方式效率低下、无法制作大型城市的痛点，团队开发了一套PCG工具集和Flow框架。该框架核心在于整合Unreal Engine、Houdini和USD，并利用云服务实现高效协同和分布式计算。Unreal提供可视化编辑界面，支持艺术家进行地块规划和分层原型设计。USD作为数据标准，确保与Houdini的数据顺畅交换。Houdini负责基于“里闾”等历史规则递归生成城市布局、建筑结构等，并支持布局的协同编辑。针对建筑，开发了自定义格式、模块化系统和基于语法的生成工具。POI区域通过“本地PCG”实现艺术家在Unreal中可视化编辑细节，再由Houdini生成。这套工具大幅提高了城市生成效率，将超大城市制作时间从数年缩短到数月，并展示了Unreal PCG在游戏开发中的潜力。
-
-**截图:**
 
 ![GDC Vault - Tencent Games Developer Summit_ The Procedural Way_ Reconstruct Mega City of Qin Dynasty (Presented by Tencent Games) 截图](GDC%20Vault%20-%20Tencent%20Games%20Developer%20Summit_%20The%20Procedural%20Way_%20Reconstruct%20Mega%20City%20of%20Qin%20Dynasty%20%28Presented%20by%20Tencent%20Games%29.png)
 
 ---
 
-### GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth'
+### GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth' {#gdc-vault---the-challenges-in-developing-an-innovative-battle-system-for-final-fantasy-vii-remake-and-rebirth}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1Xh_-HA3QyjFyBgt08nGS8F5doLXDsdTX/view?usp=sharing](https://drive.google.com/file/d/1Xh_-HA3QyjFyBgt08nGS8F5doLXDsdTX/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 《最终幻想7 重生》战斗总监远藤晖讲述了游戏战斗系统的设计理念。
 
@@ -1933,18 +1721,15 @@ LightSpeed Studios在管理众多不同游戏项目的美术管线时面临挑�
 
 在问答环节，他表示最喜欢的角色是克劳德。对于凯特西独特的基于运气的招式，他认为这保留了原作的魅力，设计理念是在看似不稳定中寻找强大的时机。关于困难模式限制使用道具，其意图是通过移除便利手段来改变玩家的体验和策略，增加变化性，但也承认这可能不受所有玩家欢迎。新增角色索农的设计则是为了在Intergrade章节中实现基础重制时未能完全实现的联携（Synergy）机制，索农作为尤菲的搭档很好地契合了这一设计思路。
 
-**截图:**
-
 ![GDC Vault - The Challenges in Developing an Innovative Battle System for 'Final Fantasy VII Remake and Rebirth' 截图](GDC%20Vault%20-%20The%20Challenges%20in%20Developing%20an%20Innovative%20Battle%20System%20for%20%27Final%20Fantasy%20VII%20Remake%20and%20Rebirth%27.png)
 
 ---
 
-### GDC Vault - The First Descendant_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON)
+### GDC Vault - The First Descendant_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON) {#gdc-vault---the-first-descendant_-persevering-through-a-57-metacritic-as-a-live-service-game-presented-by-nexon}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1N9EMNbPH9bvifO-KsRDUpIDwWy0Sd2Ed/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1N9EMNbPH9bvifO-KsRDUpIDwWy0Sd2Ed/view?usp=sharing](https://drive.google.com/file/d/1N9EMNbPH9bvifO-KsRDUpIDwWy0Sd2Ed/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 Nexon Games开发主管李범준介绍了免费在线掠夺射击游戏《The First Descendant》(TFD)。游戏于2023年7月2日上线Steam/PS/Xbox，媒体评分较低（Metascore 57），但商业上成功，首月总收入超1亿美元，在北美/欧洲区销量排名前五。
 
@@ -1964,18 +1749,15 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 游戏将继续推出大型、令人满意的更新。
 
-**截图:**
-
 ![GDC Vault - The First Descendant_ Persevering Through a 57 Metacritic as a Live Service Game (Presented by NEXON) 截图](GDC%20Vault%20-%20The%20First%20Descendant_%20Persevering%20Through%20a%2057%20Metacritic%20as%20a%20Live%20Service%20Game%20%28Presented%20by%20NEXON%29.png)
 
 ---
 
-### GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them)
+### GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them) {#gdc-vault---the-four-one-page-design-docs-you-need-and-how-to-use-them}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1m6GMz2_Wm7rJH6SwiovWFYolDpIu4T0M/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1m6GMz2_Wm7rJH6SwiovWFYolDpIu4T0M/view?usp=sharing](https://drive.google.com/file/d/1m6GMz2_Wm7rJH6SwiovWFYolDpIu4T0M/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 这段音频内容关于游戏开发中四种特定的设计文档：
 
@@ -1986,18 +1768,15 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 这四种文档通常都很简短，易于创建和修改。它们主要用于团队内部沟通和保持一致，帮助新成员融入，并可作为设计决策和评估的工具。尽管它们很有用，但不能取代更详细的设计文档。
 
-**截图:**
-
 ![GDC Vault - The Four One-Page Design Docs You Need (And How to Use Them) 截图](GDC%20Vault%20-%20The%20Four%20One-Page%20Design%20Docs%20You%20Need%20%28And%20How%20to%20Use%20Them%29.png)
 
 ---
 
-### GDC Vault - The Game Maker's Zodiac_ A Team-Building Tool
+### GDC Vault - The Game Maker's Zodiac_ A Team-Building Tool {#gdc-vault---the-game-makers-zodiac_-a-team-building-tool}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1ZYLRKsSx9DEYL5kOJ2irl6j5erAji119/view?usp=sharing](https://drive.google.com/file/d/1ZYLRKsSx9DEYL5kOJ2irl6j5erAji119/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本讲座提出了一个理解游戏开发者创意风格的框架。
 该框架通过三个维度来分类不同的方法：
@@ -2008,18 +1787,15 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 该框架旨在促进自我表达和理解团队及行业中不同的创意风格、潜在偏见和预设。它有助于识别团队构成的潜在优势和劣势。例如，在稳固/流畅风格上的极端偏见可能影响项目启动/完成，而在感知/结构/细节上的平衡则通常有益。在系统/共鸣等维度上的偏见可能导致产品小众化。
 主讲人强调，这是一个用于讨论和自我理解的工具，并非科学分类，绝对不能用于刻板印象、歧视或证明偏见合理。
 
-**截图:**
-
 ![GDC Vault - The Game Maker's Zodiac_ A Team-Building Tool 截图](GDC%20Vault%20-%20The%20Game%20Maker%27s%20Zodiac_%20A%20Team-Building%20Tool.png)
 
 ---
 
-### GDC Vault - The Impact of Implementing Core Values
+### GDC Vault - The Impact of Implementing Core Values {#gdc-vault---the-impact-of-implementing-core-values}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1zigvRKP5iwdAOqwZyINCqMoYCZvt3HHk/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1zigvRKP5iwdAOqwZyINCqMoYCZvt3HHk/view?usp=sharing](https://drive.google.com/file/d/1zigvRKP5iwdAOqwZyINCqMoYCZvt3HHk/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 公司意识到仅靠技术卓越不足以取得成功，强大的团队文化和协作至关重要，过去的经历（如Cyberpunk 2077发布初期的问题）证明了这一点。因此，公司决定将重点从提升技术和效率转向构建健康、强大的团队，并确定了核心价值观，它们是团队的基础。
 
@@ -2031,18 +1807,15 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 尽管仍面临挑战（如经理角色的复杂性和寻找具备相应能力的人才），但公司相信他们正朝着正确的方向前进。
 
-**截图:**
-
 ![GDC Vault - The Impact of Implementing Core Values 截图](GDC%20Vault%20-%20The%20Impact%20of%20Implementing%20Core%20Values.png)
 
 ---
 
-### GDC Vault - The Product Manager's Guide to Strategic Game Teardowns
+### GDC Vault - The Product Manager's Guide to Strategic Game Teardowns {#gdc-vault---the-product-managers-guide-to-strategic-game-teardowns}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1O-tA9e_OyBbUsaCnF5gxMmI9eVnWwK2g/view?usp=sharing](https://drive.google.com/file/d/1O-tA9e_OyBbUsaCnF5gxMmI9eVnWwK2g/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 该音频内容关于游戏拆解（Game Teardowns），即分析游戏的各个方面。主讲人介绍了传统游戏拆解方法的挑战，如耗时长（需大量游戏时间）、成本高（购买游戏、解锁内容、使用付费工具）、要求高技能，以及对现代“永久游戏”（如持续运营游戏）分析的局限性（只反映某个时间点、无法看到所有内容因个性化设置等）。
 
@@ -2057,18 +1830,15 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
 
 这种新方法尤其适用于时间紧迫或缺乏传统付费工具资源的情况，能帮助产品经理更快地获得有价值的业务洞察。对于持续运营游戏，拆解的“保质期”取决于游戏更新频率和核心指标变化，需定期检查游戏表现是否发生重大变化。对于分析游戏的评论或批评表现，可以关注行业内有影响力的声音及其观点，理解他们喜欢或不喜欢游戏的原因。未来人工智能可能在处理非结构化数据方面辅助游戏拆解。
 
-**截图:**
-
 ![GDC Vault - The Product Manager's Guide to Strategic Game Teardowns 截图](GDC%20Vault%20-%20The%20Product%20Manager%27s%20Guide%20to%20Strategic%20Game%20Teardowns.png)
 
 ---
 
-### GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon'
+### GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon' {#gdc-vault---the-secret-to-narrative-driven-and-short-term-development-in-like-a-dragon}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1Fcu0bU9Wtk7LQdd-k38_-VfQiJlND2Vy/view?usp=sharing](https://drive.google.com/file/d/1Fcu0bU9Wtk7LQdd-k38_-VfQiJlND2Vy/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 根据音频内容，主要讲述了RGG工作室在叙事游戏开发方面的理念和实践，包括如何制作高质量的叙事以及如何实现快速开发。
 
@@ -2104,18 +1874,15 @@ Season 2更新基于用户反馈，采取多维度方式，侧重新增内容、
     *   合理利用复用资产，并与新作要素的投入平衡，能兼顾熟悉感、新鲜感和开发速度。
     *   游戏能带来独特的情感和信息传达，RGG工作室将继续努力发展叙事游戏文化。
 
-**截图:**
-
 ![GDC Vault - The Secret to Narrative-Driven and Short-Term Development in 'Like a Dragon' 截图](GDC%20Vault%20-%20The%20Secret%20to%20Narrative-Driven%20and%20Short-Term%20Development%20in%20%27Like%20a%20Dragon%27.png)
 
 ---
 
-### GDC Vault - The State of PC and Console Games in 2025
+### GDC Vault - The State of PC and Console Games in 2025 {#gdc-vault---the-state-of-pc-and-console-games-in-2025}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1EQDw5gSGIlHintpFYI_hQARVRAuZiMz5/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1EQDw5gSGIlHintpFYI_hQARVRAuZiMz5/view?usp=sharing](https://drive.google.com/file/d/1EQDw5gSGIlHintpFYI_hQARVRAuZiMz5/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 本音频内容摘要：
 
@@ -2137,18 +1904,15 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
 
 玩家细分趋势显示，每年游玩1-3款游戏的玩家比例似乎正在增长（Xbox尤其明显），而每年游玩11款以上游戏的玩家比例正在下降（Steam和PS在2024年有所回落）。这意味着少量游玩玩家行为日益固定，更难被新游戏触达；而大量游玩、跨越多类型的核心玩家群体可能正在缩小。理解你的目标用户属于哪个细分群体，对于游戏发布和收入预测至关重要，尤其是在当前需要严格匹配预算与收入预期的时期。
 
-**截图:**
-
 ![GDC Vault - The State of PC and Console Games in 2025 截图](GDC%20Vault%20-%20The%20State%20of%20PC%20and%20Console%20Games%20in%202025.png)
 
 ---
 
-### GDC Vault - Three Mindset Shifts to Lead a World-Class Team
+### GDC Vault - Three Mindset Shifts to Lead a World-Class Team {#gdc-vault---three-mindset-shifts-to-lead-a-world-class-team}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1IDRo3__Pv0Y6OjTORBeA96mBHuX2BnCS/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1IDRo3__Pv0Y6OjTORBeA96mBHuX2BnCS/view?usp=sharing](https://drive.google.com/file/d/1IDRo3__Pv0Y6OjTORBeA96mBHuX2BnCS/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的摘要：
 
@@ -2170,137 +1934,27 @@ PC平台玩家绝大部分时间花在六年或更老的持续运营游戏上（
     *   转变：优秀的领导者会规划自己的时间，并建立系统来规模化自己，从而赋能整个团队。
     *   方法：了解自己的时间分配（记录花费时间和精力的事情），分析哪些事情只有自己能做，哪些自己最擅长但别人也能做，以及哪些应完全外包或通过系统解决。将大部分时间花在只有自己能做的事情上，同时花时间指导别人接手他们“也能做”的事情，并建立系统处理应完全剥离的任务。此外，要思考“如果我不在”，团队是否有短期备用方案或至少知道该向谁寻求帮助，以避免成为单点故障。
 
-**截图:**
-
 ![GDC Vault - Three Mindset Shifts to Lead a World-Class Team 截图](GDC%20Vault%20-%20Three%20Mindset%20Shifts%20to%20Lead%20a%20World-Class%20Team.png)
 
 ---
 
-### GDC Vault - Translating Between Business and Creativity as a Games Producer
+### GDC Vault - Translating Between Business and Creativity as a Games Producer {#gdc-vault---translating-between-business-and-creativity-as-a-games-producer}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1Pf2OSmf9FgMIREJvFc7h4gm6ttd3nE_F/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1Pf2OSmf9FgMIREJvFc7h4gm6ttd3nE_F/view?usp=sharing](https://drive.google.com/file/d/1Pf2OSmf9FgMIREJvFc7h4gm6ttd3nE_F/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 游戏制作人的核心职责是作为商业思维和创意思维之间的“翻译者”，这对游戏团队的可持续运营至关重要。可持续运营引申出两个关键问题：游戏何时能准备好发布并开始盈利（关于时间），以及用现有预算能做出多少（及什么品质的）游戏（关于范围和质量）。生产工作就是回答这些问题。商业游戏开发需要平衡商业思维（注重可量化、可预测性、效率和外部商业价值如利润、营收）和创意思维（注重探索、惊喜、原创性和内部价值如品质、愿景、玩家价值）。这两种思维常有冲突，但过度偏重任何一方都会导致问题。冲突可被视为语言和优先级的错位。制作人的工作就是通过“翻译”来弥合分歧，将一方的优先级用另一方能理解的语言表达，例如将创意需求用商业影响来解释，或将商业限制用对游戏品质、玩家价值或核心愿景的影响来沟通。辅助工具应支持这种翻译和情景预测。成功的游戏制作在于理解并持续协调这两种视角，确保项目既有创意价值，又能商业可行。
-
-**截图:**
 
 ![GDC Vault - Translating Between Business and Creativity as a Games Producer 截图](GDC%20Vault%20-%20Translating%20Between%20Business%20and%20Creativity%20as%20a%20Games%20Producer.png)
 
 ---
 
-### GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions
+### GDC Vault - Unity Developer Summit_ Player-First Monetization_ How Metacore Balances Engagement & Revenue (Presented by Unity) {#gdc-vault---unity-developer-summit_-player-first-monetization_-how-metacore-balances-engagement--revenue-presented-by-unity}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1eoP2h56qkJfb8F8JAsM6dJvGg-hialKT/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1rOkpDpvOebLey906tj0YuyekCZ80NXjF/view?usp=sharing](https://drive.google.com/file/d/1rOkpDpvOebLey906tj0YuyekCZ80NXjF/view?usp=sharing)
 
-**摘要:**
-
-黑暗模式（Dark Patterns）是游戏（及其他领域）中欺骗用户的操纵性、欺骗性界面（例如：开箱子、隐藏费用、不清晰的订阅条款）。
-
-黑暗模式对用户和企业都有严重的负面影响：用户体验差、沮丧、信任丧失，甚至造成财务、隐私和健康损害（例如：增加焦虑和心率）。对企业而言，虽然短期内可能带来销售额，但长期来看会导致品牌价值下降、客户生命周期价值降低，并面临巨额罚款和诉讼（如Epic Games的5.2亿美元和解案）。
-
-黑暗模式在全球范围内违法，且针对其的立法和监管日益增多（如欧盟和美国的法规，罚款可达全球营业额的4%-7%）。
-
-尽管黑暗模式普遍存在，但长期来看并非有利可图。研究表明，它们带来的短暂销售增长（最多6个月）后，一旦用户发现被欺骗，利润就会下降，而公平模式（或替代方案）长期更有利可图。欺骗性模型会随着用户觉醒而降低销售额。
-
-公平模式（Fair Patterns）旨在赋予用户做出自由、知情选择的能力，用户参与应通过争取而非强迫。针对每种黑暗模式，Fair Patterns提供基于神经科学、用户体验和法律的简单设计反制措施（例如：清晰的订阅条款/取消方式、显示真实货币价格、提供明确选项而非强制操作或责备）。
-
-Fair Patterns开发了查找和修复黑暗模式的AI解决方案和工具，并正探索认证或评级系统。他们利用经济学家分析的真实客户数据，证明公平模式的长期盈利能力。
-
-黑暗模式常非设计师有意为之，而是根植于设计系统。Fair Patterns帮助企业修正这些系统。
-
-黑暗模式在数字生活中无处不在，用户需要提高警惕。
-
-**截图:**
-
-![GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions 截图](GDC%20Vault%20-%20UX%20Summit_%20From%20Dark%20Patterns%20to%20Fair%20Play_%20Ethical%20Game%20Design%20Solutions.png)
-
----
-
-### GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games
-
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/10-_B1PTvVaD3Ev4yXU2lYt4MaKrLS79g/view?usp=drivesdk>
-
-**摘要:**
-
-King公司的副用户体验总监介绍了他们在移动游戏无障碍化方面的工作。他们采用社会模型定义障碍（人与环境的失配），目标是通过消除这些失配让所有玩家都能享受游戏。全球约16%人口有障碍，移动游戏市场巨大且普及，是推广无障碍的重要平台。
-
-King公司成立了名为Gators（最初叫Aligators，意为无障碍）的团队来推动这项工作。他们通过内部培训、与其他公司合作、组建任务小组等方式提升团队对无障碍的认识和实践能力。他们认为移动游戏需要专门的无障碍指南，并致力于成为有障碍玩家的代言人，确保他们在游戏开发中被考虑。
-
-整个流程围绕玩家反馈展开。通过社区论坛、游戏内联系表和问卷调查收集玩家面临的障碍（如难以阅读文本、精确触控困难、识别隐藏颜色困难、闪烁画面等）。基于反馈，他们开发并实施了多种无障碍功能，如移除闪烁选项、精确触控辅助、灰度网格以及允许玩家选择背景颜色等。
-
-用户测试是关键环节，他们从早期的玩家视频通话测试，发展到与外部公司合作进行的用户测试，以及面对面的玩家测试和专家小组评估，以验证和改进功能，确保其真正解决了问题。功能上线后，实际数据显示有障碍玩家使用这些无障碍选项的比例远超预期（数十万用户），证明这些功能对他们帮助很大，并且有助于提升玩家留存和参与度。
-
-King公司在无障碍化方面已从单个游戏和少量人员的工作，发展到多个游戏拥有全面的无障碍选项。未来的重点是继续开发更具包容性的游戏，在开发流程中融入无障碍考量，建立内部知识库，并持续与有障碍玩家紧密合作进行测试。玩家的感谢反馈是他们工作的动力。
-
-**截图:**
-
-![GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games 截图](GDC%20Vault%20-%20UX%20Summit_%20Making%20the%20World%20Playful_%20The%20Importance%20of%20Accessible%20Mobile%20Games.png)
-
----
-
-### GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development
-
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1CmaWQrxpLGQogMC4eKvXBc1Nggm7eKFg/view?usp=drivesdk>
-
-**摘要:**
-
-该音频内容是关于将心理学原理应用于游戏设计，探讨玩家如何感知和处理信息。
-
-核心内容包括：
-
-1.  **图式（Schemas）与范例变体（Exemplar Variations）**：玩家通过同化和适应来学习识别不同类型的物体或概念，形成心理图式，不断将新信息与记忆中已建立的图式进行比较和更新。
-2.  **模板匹配（Template Matching）**：大脑将新遇到的已知图式示例与已有的模板进行匹配，这种方式需要准确匹配，如识别大写字母A。
-3.  **特征匹配（Feature Matching）**：通过提取和匹配特定可辨别特征来识别目标，即使目标与已知类别有所差异。
-4.  **部件识别（Recognition by Components）**：通过识别刺激的基本构成部件（几何形状）来识别物体，即使物体只部分可见。这在恐怖游戏中常被利用。
-5.  **构型模型（Configural Models）与不流畅性（Disfluency）**：基于整体构型或模式的识别，通常带有主观性。对已知或怀旧元素的变化容忍度不同，过度的改变会导致玩家反感，有时被称为“不流畅性”。
-6.  **概念/感知流畅性（Conceptual/Perceptual Fluency）**：快速轻松地处理和识别信息的感觉，与熟悉度相关。流畅性高的设计让玩家感到舒适，如易读的字体、押韵的宣传语、直观的菜单布局。
-7.  **积极不流畅性（Positive Disfluency）与模组（Modding）**：有时故意制造的不流畅性（如玩家通过模组改变游戏元素）可以带来乐趣，增强玩家体验，这与玩家的自主性、能力和关联性需求有关，满足了玩家作为创造者的愿望。
-8.  **特里曼衰减模型（Treisman's Attenuation Model）**：用于游戏用户体验，解释玩家的注意力如何分配，刺激的“主观响度”（如突发通知）会吸引注意力，玩家可以同时处理主要和背景信息。
-9.  **特征整合理论（Feature Integration Theory）**：特里曼研究的一部分，解释如何快速找到具有独特特征的目标（特征搜索或“突出效应”），不受背景干扰物数量影响。
-10. **联合搜索（Conjunctive Search）**：当环境复杂、认知负荷增加时，寻找具有特定组合特征的目标变得更困难，需要更努力的搜索。
-11. **心理学原理在游戏设计中的应用**：游戏设计师利用这些理论指导界面设计（如菜单布局、图标提示）、信息呈现（如视觉和听觉反馈）以及游戏机制（如目标突出、认知负荷管理），以优化玩家体验。
-
-**截图:**
-
-![GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development 截图](GDC%20Vault%20-%20UX%20Summit_%20Mind%20Over%20Mechanics_%20Using%20Cognitive%20Science%20to%20Enhance%20Game%20Development.png)
-
----
-
-### GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games
-
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1LXSRfBPRmCuN9pdJJyVI8KM7rRgxr_Pu/view?usp=drivesdk>
-
-**摘要:**
-
-本音频内容是关于King公司用户体验文案（UX Writing）在游戏行业的引入和应用。演讲者（Patricia，King公司UX Writing副总监）介绍了UX Writing的定义（清晰、简洁、有用、人性化的微文案），它虽然在其他数字领域成熟，但在游戏行业相对较新。她驳斥了“玩家不阅读”和“视觉效果足够”的迷思，强调玩家会扫描文本，设计和内容需协同工作。
-
-她分享了King公司引入UX Writing的历史：从处理玩家支持中的文本困惑开始，发现游戏内文案由缺乏专业技能的设计师/开发人员兼职编写，导致质量问题。解决方案是引入专业的UX Writing技能，提升了文案和翻译质量。团队模式从共享职能转变为嵌入式职能，使UX Writer能早期参与设计流程，获取全面信息和玩家洞察。他们的职责扩展到内容测试、命名流程和使用内容管理系统。
-
-在工作流程上，UX Writing遵循类似设计思维的框架，涉及理解玩家需求、与设计师共同构思解决方案、编写和测试微文案、从同行、利益相关者和玩家处获取反馈，并持续优化。AI被用于质量保证（通过定制GPT）和玩家数据分析（加速处理玩家调研结果），提高了效率，使得团队能进行更多玩家调研，推动更以玩家为中心的决策。
-
-关键经验包括：与不同团队建立协作关系，理解他们的需求以提供价值；保持策略的灵活性和适应性；重视团队多样性（背景和技能），有助于全球化和本地化考虑；保持韧性面对引入新事物时的阻力。
-
-展望未来趋势，UX Writing和叙事设计将更紧密协作，内容研究和测试会更加深入（包括定量分析），AI将更积极地被整合到工作中。演讲者希望未来能在更多游戏公司看到UX Writer的身影。
-
-**截图:**
-
-![GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games 截图](GDC%20Vault%20-%20UX%20Summit_%20UX%20Writing_%20A%20New%28ish%29%20Craft%20in%20Mobile%20Games.png)
-
----
-
-### GDC Vault - Unity Developer Summit_ Player-First Monetization_ How Metacore Balances Engagement & Revenue (Presented by Unity)
-
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1rOkpDpvOebLey906tj0YuyekCZ80NXjF/view?usp=drivesdk>
-
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -2321,18 +1975,15 @@ King公司在无障碍化方面已从单个游戏和少量人员的工作，发�
 
 总结：成功的混合盈利模式需要玩家中心、数据驱动、以及IAP与广告之间的良好平衡，以释放广大非付费用户的潜在价值，同时不损害玩家体验。
 
-**截图:**
-
 ![GDC Vault - Unity Developer Summit_ Player-First Monetization_ How Metacore Balances Engagement & Revenue (Presented by Unity) 截图](GDC%20Vault%20-%20Unity%20Developer%20Summit_%20Player-First%20Monetization_%20How%20Metacore%20Balances%20Engagement%20%26%20Revenue%20%28Presented%20by%20Unity%29.png)
 
 ---
 
-### GDC Vault - Unlocking Gamer Motivations_ Insights from 1.75+ Million Players Over a Decade
+### GDC Vault - Unlocking Gamer Motivations_ Insights from 1.75+ Million Players Over a Decade {#gdc-vault---unlocking-gamer-motivations_-insights-from-175-million-players-over-a-decade}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <https://drive.google.com/file/d/1ViDMefEbUX7lOsXdE-VPFqDrZizv3UDa/view?usp=drivesdk>
+- 视频链接: [https://drive.google.com/file/d/1ViDMefEbUX7lOsXdE-VPFqDrZizv3UDa/view?usp=sharing](https://drive.google.com/file/d/1ViDMefEbUX7lOsXdE-VPFqDrZizv3UDa/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 大五人格模型对游戏行为的解释力较低（低于5%），难以转化为游戏设计和营销的可操作洞察。
 一项研究发现，过去十年（2015-2024），游戏玩家的“策略”动机显著下降，平均得分从2015年的50%跌至2024年的35%。
@@ -2341,18 +1992,15 @@ King公司在无障碍化方面已从单个游戏和少量人员的工作，发�
 对玩家类型的研究显示，不同类型玩家在游戏参与习惯（如是否涉猎广泛的游戏类型、对新技术的热衷度）上存在差异，这与动机相关联。
 演讲者警示，随着AI技术发展，虚假调研数据（AI生成而非真实用户数据）的风险增加，获取真实玩家数据变得更具挑战性，强调了解数据来源的重要性。
 
-**截图:**
-
 ![GDC Vault - Unlocking Gamer Motivations_ Insights from 1.75+ Million Players Over a Decade 截图](GDC%20Vault%20-%20Unlocking%20Gamer%20Motivations_%20Insights%20from%201.75%2B%20Million%20Players%20Over%20a%20Decade.png)
 
 ---
 
-### GDC Vault - User-Generated Compassion in 'Sky_ Children of the Light'
+### GDC Vault - User-Generated Compassion in 'Sky_ Children of the Light' {#gdc-vault---user-generated-compassion-in-sky_-children-of-the-light}
 
-- **本地路径:** 根目录
-- **Google Drive 链接:** <搜索视频文件时出错>
+- 视频链接: [https://drive.google.com/file/d/1kBbv3DSkCYrlM3DMipszkWu8bh4aIqes/view?usp=sharing](https://drive.google.com/file/d/1kBbv3DSkCYrlM3DMipszkWu8bh4aIqes/view?usp=sharing)
 
-**摘要:**
+**摘要**:
 
 以下是音频内容的中文摘要：
 
@@ -2380,7 +2028,97 @@ UGC系统取得了巨大成功，受到了玩家的喜爱。超过63%的周活�
 
 未来，团队正在积极探索增加更多互动性UGC的可能性，例如玩家可以创建自定义任务等。UGC系统也为玩家的个人成长（如音乐练习）提供了平台。
 
-**截图:**
-
 ![GDC Vault - User-Generated Compassion in 'Sky_ Children of the Light' 截图](GDC%20Vault%20-%20User-Generated%20Compassion%20in%20%27Sky_%20Children%20of%20the%20Light%27.png)
+
+---
+
+### GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions {#gdc-vault---ux-summit_-from-dark-patterns-to-fair-play_-ethical-game-design-solutions}
+
+- 视频链接: [https://drive.google.com/file/d/1eoP2h56qkJfb8F8JAsM6dJvGg-hialKT/view?usp=sharing](https://drive.google.com/file/d/1eoP2h56qkJfb8F8JAsM6dJvGg-hialKT/view?usp=sharing)
+
+**摘要**:
+
+黑暗模式（Dark Patterns）是游戏（及其他领域）中欺骗用户的操纵性、欺骗性界面（例如：开箱子、隐藏费用、不清晰的订阅条款）。
+
+黑暗模式对用户和企业都有严重的负面影响：用户体验差、沮丧、信任丧失，甚至造成财务、隐私和健康损害（例如：增加焦虑和心率）。对企业而言，虽然短期内可能带来销售额，但长期来看会导致品牌价值下降、客户生命周期价值降低，并面临巨额罚款和诉讼（如Epic Games的5.2亿美元和解案）。
+
+黑暗模式在全球范围内违法，且针对其的立法和监管日益增多（如欧盟和美国的法规，罚款可达全球营业额的4%-7%）。
+
+尽管黑暗模式普遍存在，但长期来看并非有利可图。研究表明，它们带来的短暂销售增长（最多6个月）后，一旦用户发现被欺骗，利润就会下降，而公平模式（或替代方案）长期更有利可图。欺骗性模型会随着用户觉醒而降低销售额。
+
+公平模式（Fair Patterns）旨在赋予用户做出自由、知情选择的能力，用户参与应通过争取而非强迫。针对每种黑暗模式，Fair Patterns提供基于神经科学、用户体验和法律的简单设计反制措施（例如：清晰的订阅条款/取消方式、显示真实货币价格、提供明确选项而非强制操作或责备）。
+
+Fair Patterns开发了查找和修复黑暗模式的AI解决方案和工具，并正探索认证或评级系统。他们利用经济学家分析的真实客户数据，证明公平模式的长期盈利能力。
+
+黑暗模式常非设计师有意为之，而是根植于设计系统。Fair Patterns帮助企业修正这些系统。
+
+黑暗模式在数字生活中无处不在，用户需要提高警惕。
+
+![GDC Vault - UX Summit_ From Dark Patterns to Fair Play_ Ethical Game Design Solutions 截图](GDC%20Vault%20-%20UX%20Summit_%20From%20Dark%20Patterns%20to%20Fair%20Play_%20Ethical%20Game%20Design%20Solutions.png)
+
+---
+
+### GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games {#gdc-vault---ux-summit_-making-the-world-playful_-the-importance-of-accessible-mobile-games}
+
+- 视频链接: [https://drive.google.com/file/d/10-_B1PTvVaD3Ev4yXU2lYt4MaKrLS79g/view?usp=sharing](https://drive.google.com/file/d/10-_B1PTvVaD3Ev4yXU2lYt4MaKrLS79g/view?usp=sharing)
+
+**摘要**:
+
+King公司的副用户体验总监介绍了他们在移动游戏无障碍化方面的工作。他们采用社会模型定义障碍（人与环境的失配），目标是通过消除这些失配让所有玩家都能享受游戏。全球约16%人口有障碍，移动游戏市场巨大且普及，是推广无障碍的重要平台。
+
+King公司成立了名为Gators（最初叫Aligators，意为无障碍）的团队来推动这项工作。他们通过内部培训、与其他公司合作、组建任务小组等方式提升团队对无障碍的认识和实践能力。他们认为移动游戏需要专门的无障碍指南，并致力于成为有障碍玩家的代言人，确保他们在游戏开发中被考虑。
+
+整个流程围绕玩家反馈展开。通过社区论坛、游戏内联系表和问卷调查收集玩家面临的障碍（如难以阅读文本、精确触控困难、识别隐藏颜色困难、闪烁画面等）。基于反馈，他们开发并实施了多种无障碍功能，如移除闪烁选项、精确触控辅助、灰度网格以及允许玩家选择背景颜色等。
+
+用户测试是关键环节，他们从早期的玩家视频通话测试，发展到与外部公司合作进行的用户测试，以及面对面的玩家测试和专家小组评估，以验证和改进功能，确保其真正解决了问题。功能上线后，实际数据显示有障碍玩家使用这些无障碍选项的比例远超预期（数十万用户），证明这些功能对他们帮助很大，并且有助于提升玩家留存和参与度。
+
+King公司在无障碍化方面已从单个游戏和少量人员的工作，发展到多个游戏拥有全面的无障碍选项。未来的重点是继续开发更具包容性的游戏，在开发流程中融入无障碍考量，建立内部知识库，并持续与有障碍玩家紧密合作进行测试。玩家的感谢反馈是他们工作的动力。
+
+![GDC Vault - UX Summit_ Making the World Playful_ The Importance of Accessible Mobile Games 截图](GDC%20Vault%20-%20UX%20Summit_%20Making%20the%20World%20Playful_%20The%20Importance%20of%20Accessible%20Mobile%20Games.png)
+
+---
+
+### GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development {#gdc-vault---ux-summit_-mind-over-mechanics_-using-cognitive-science-to-enhance-game-development}
+
+- 视频链接: [https://drive.google.com/file/d/1CmaWQrxpLGQogMC4eKvXBc1Nggm7eKFg/view?usp=sharing](https://drive.google.com/file/d/1CmaWQrxpLGQogMC4eKvXBc1Nggm7eKFg/view?usp=sharing)
+
+**摘要**:
+
+该音频内容是关于将心理学原理应用于游戏设计，探讨玩家如何感知和处理信息。
+
+核心内容包括：
+
+1.  **图式（Schemas）与范例变体（Exemplar Variations）**：玩家通过同化和适应来学习识别不同类型的物体或概念，形成心理图式，不断将新信息与记忆中已建立的图式进行比较和更新。
+2.  **模板匹配（Template Matching）**：大脑将新遇到的已知图式示例与已有的模板进行匹配，这种方式需要准确匹配，如识别大写字母A。
+3.  **特征匹配（Feature Matching）**：通过提取和匹配特定可辨别特征来识别目标，即使目标与已知类别有所差异。
+4.  **部件识别（Recognition by Components）**：通过识别刺激的基本构成部件（几何形状）来识别物体，即使物体只部分可见。这在恐怖游戏中常被利用。
+5.  **构型模型（Configural Models）与不流畅性（Disfluency）**：基于整体构型或模式的识别，通常带有主观性。对已知或怀旧元素的变化容忍度不同，过度的改变会导致玩家反感，有时被称为“不流畅性”。
+6.  **概念/感知流畅性（Conceptual/Perceptual Fluency）**：快速轻松地处理和识别信息的感觉，与熟悉度相关。流畅性高的设计让玩家感到舒适，如易读的字体、押韵的宣传语、直观的菜单布局。
+7.  **积极不流畅性（Positive Disfluency）与模组（Modding）**：有时故意制造的不流畅性（如玩家通过模组改变游戏元素）可以带来乐趣，增强玩家体验，这与玩家的自主性、能力和关联性需求有关，满足了玩家作为创造者的愿望。
+8.  **特里曼衰减模型（Treisman's Attenuation Model）**：用于游戏用户体验，解释玩家的注意力如何分配，刺激的“主观响度”（如突发通知）会吸引注意力，玩家可以同时处理主要和背景信息。
+9.  **特征整合理论（Feature Integration Theory）**：特里曼研究的一部分，解释如何快速找到具有独特特征的目标（特征搜索或“突出效应”），不受背景干扰物数量影响。
+10. **联合搜索（Conjunctive Search）**：当环境复杂、认知负荷增加时，寻找具有特定组合特征的目标变得更困难，需要更努力的搜索。
+11. **心理学原理在游戏设计中的应用**：游戏设计师利用这些理论指导界面设计（如菜单布局、图标提示）、信息呈现（如视觉和听觉反馈）以及游戏机制（如目标突出、认知负荷管理），以优化玩家体验。
+
+![GDC Vault - UX Summit_ Mind Over Mechanics_ Using Cognitive Science to Enhance Game Development 截图](GDC%20Vault%20-%20UX%20Summit_%20Mind%20Over%20Mechanics_%20Using%20Cognitive%20Science%20to%20Enhance%20Game%20Development.png)
+
+---
+
+### GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games {#gdc-vault---ux-summit_-ux-writing_-a-newish-craft-in-mobile-games}
+
+- 视频链接: [https://drive.google.com/file/d/1LXSRfBPRmCuN9pdJJyVI8KM7rRgxr_Pu/view?usp=sharing](https://drive.google.com/file/d/1LXSRfBPRmCuN9pdJJyVI8KM7rRgxr_Pu/view?usp=sharing)
+
+**摘要**:
+
+本音频内容是关于King公司用户体验文案（UX Writing）在游戏行业的引入和应用。演讲者（Patricia，King公司UX Writing副总监）介绍了UX Writing的定义（清晰、简洁、有用、人性化的微文案），它虽然在其他数字领域成熟，但在游戏行业相对较新。她驳斥了“玩家不阅读”和“视觉效果足够”的迷思，强调玩家会扫描文本，设计和内容需协同工作。
+
+她分享了King公司引入UX Writing的历史：从处理玩家支持中的文本困惑开始，发现游戏内文案由缺乏专业技能的设计师/开发人员兼职编写，导致质量问题。解决方案是引入专业的UX Writing技能，提升了文案和翻译质量。团队模式从共享职能转变为嵌入式职能，使UX Writer能早期参与设计流程，获取全面信息和玩家洞察。他们的职责扩展到内容测试、命名流程和使用内容管理系统。
+
+在工作流程上，UX Writing遵循类似设计思维的框架，涉及理解玩家需求、与设计师共同构思解决方案、编写和测试微文案、从同行、利益相关者和玩家处获取反馈，并持续优化。AI被用于质量保证（通过定制GPT）和玩家数据分析（加速处理玩家调研结果），提高了效率，使得团队能进行更多玩家调研，推动更以玩家为中心的决策。
+
+关键经验包括：与不同团队建立协作关系，理解他们的需求以提供价值；保持策略的灵活性和适应性；重视团队多样性（背景和技能），有助于全球化和本地化考虑；保持韧性面对引入新事物时的阻力。
+
+展望未来趋势，UX Writing和叙事设计将更紧密协作，内容研究和测试会更加深入（包括定量分析），AI将更积极地被整合到工作中。演讲者希望未来能在更多游戏公司看到UX Writer的身影。
+
+![GDC Vault - UX Summit_ UX Writing_ A New(ish) Craft in Mobile Games 截图](GDC%20Vault%20-%20UX%20Summit_%20UX%20Writing_%20A%20New%28ish%29%20Craft%20in%20Mobile%20Games.png)
 
