@@ -313,7 +313,7 @@ def process_videos(directory=".", generate_summary=False):
 if __name__ == "__main__":
     target_directory = "." # 默认使用当前目录
     # 如果需要指定目录，可以取消下面这行注释并修改路径
-    # target_directory = "/path/to/your/videos"
+    target_directory = "./2025"
 
     print(f"开始在目录 '{os.path.abspath(target_directory)}' 中查找视频文件...")
     

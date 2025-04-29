@@ -3,7 +3,7 @@ import re
 from urllib.parse import quote
 from upload_to_drive import authenticate_google_drive, SOURCE_FOLDER_PATH
 
-REPORT_FILE = 'report.md'
+REPORT_FILE = 'report_new.md'
 
 def slugify(title):
     """将标题转换为 Markdown 锚点格式的小写短链接"""
