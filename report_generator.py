@@ -50,10 +50,18 @@ def main():
                 # 查找同名 png 文件
                 png_file = os.path.join(root, f'{base_name}.png')
                 if os.path.exists(png_file):
+                    # 考虑报告文件与SOURCE_FOLDER_PATH的相对位置
+                    # 获取包含SOURCE_FOLDER_PATH的绝对路径
+                    source_abs_path = os.path.abspath(SOURCE_FOLDER_PATH)
+                    # 获取报告文件所在的绝对路径
+                    report_dir_abs_path = os.path.dirname(os.path.abspath(REPORT_FILE))
+                    # 计算SOURCE_FOLDER_PATH相对于报告文件目录的路径
+                    source_rel_to_report = os.path.relpath(source_abs_path, report_dir_abs_path)
+                    
                     if relative_folder == '.':
-                        png_path = f'{base_name}.png'
+                        png_path = os.path.join(source_rel_to_report, f'{base_name}.png').replace('\\', '/')
                     else:
-                        png_path = os.path.join(relative_folder, f'{base_name}.png').replace('\\', '/')
+                        png_path = os.path.join(source_rel_to_report, relative_folder, f'{base_name}.png').replace('\\', '/')
                 else:
                     png_path = None
 

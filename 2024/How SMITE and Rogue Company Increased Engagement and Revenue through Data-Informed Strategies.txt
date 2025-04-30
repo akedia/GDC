@@ -1,0 +1,11 @@
+音频内容讨论了 Smite 和 Rogue Company 如何通过数据驱动策略和 LiveOps 平台提升玩家参与度和收入。
+
+Rally Here 是为实时服务游戏提供后端支持的平台，支持内容排期、游戏更新和数据分析。
+
+游戏中的虚拟物品和限时活动（持续 2-3 个月）能增强玩家联系和怀旧感，玩家愿意为此付费。
+
+基于玩家数据、社区反馈和流行文化热点（如 Magic: The Gathering, Bob Ross, Avatar: The Last Airbender, Teenage Mutant Ninja Turtles, Slipknot）的跨界合作显著增加了玩家游戏时长、新玩家获取和收入。
+
+LiveOps 平台支持这些运营策略，例如无需重新认证即可更新游戏内容。
+
+核心经验是社区优先、活动时长适度、持续分析数据、利用流行文化、有效管理 IP，同时强调核心游戏玩法的趣味性是所有额外内容成功的基础。
