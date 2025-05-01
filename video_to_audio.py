@@ -15,7 +15,7 @@ def get_audio_summary(audio_path):
     """
     try:
         # 初始化Gemini客户端
-        client = genai.Client(api_key="AIzaSyAxx5A2Lhyn3q9m_PsVHlgxO3_SbzHwTZ8")
+        client = genai.Client(api_key="AIzaSyAxx5A2Lhyn3q9m_PsVHlgxOSbzHwTZ8")
         
         # 上传音频文件
         myfile = client.files.upload(file=audio_path)
