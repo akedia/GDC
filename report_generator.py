@@ -75,7 +75,7 @@ def main():
 
     # 生成报告
     with open(REPORT_FILE, 'w', encoding='utf-8') as f:
-        f.write('# GDC 2025 合并报告\n\n')
+        f.write('# GDC 2024 合并报告\n\n')
         f.write('## 目录\n\n')
         for idx, e in enumerate(entries, 1):
             slug = slugify(e['title'])

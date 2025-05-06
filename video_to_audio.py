@@ -2,6 +2,27 @@ import os
 import subprocess
 import sys
 from google import genai
+import json
+
+def load_api_key():
+    """
+    从配置文件中加载Gemini API密钥
+    
+    Returns:
+        str: API密钥，如果未找到则返回None
+    """
+    try:
+        # 从config.json文件加载API密钥
+        config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.json")
+        if os.path.exists(config_path):
+            with open(config_path, 'r', encoding='utf-8') as f:
+                config = json.load(f)
+                return config.get("gemini_api_key")
+        
+        return None
+    except Exception as e:
+        print(f"加载API密钥时出错: {str(e)}")
+        return None
 
 def get_audio_summary(audio_path):
     """
@@ -14,8 +35,13 @@ def get_audio_summary(audio_path):
         str: 音频内容的中文摘要，如果出错则返回错误信息
     """
     try:
+        # 从配置文件加载API密钥
+        api_key = load_api_key()
+        if not api_key:
+            return "错误: 未找到API密钥。请在config.json中配置gemini_api_key。"
+        
         # 初始化Gemini客户端
-        client = genai.Client(api_key="AIzaSyAxx5A2Lhyn3q9m_PsVHlgxO3_SbzHwTZ8")
+        client = genai.Client(api_key=api_key)
         
         # 上传音频文件
         myfile = client.files.upload(file=audio_path)
@@ -317,12 +343,12 @@ if __name__ == "__main__":
 
     print(f"开始在目录 '{os.path.abspath(target_directory)}' 中查找视频文件...")
     
-    # 检查是否设置环境变量
-    generate_summary = True
+    # 检查API密钥是否可用
+    generate_summary = load_api_key() is not None
     if generate_summary:
-        print("检测到 GOOGLE_API_KEY 环境变量，将为音频生成摘要。")
+        print("检测到API密钥配置，将为音频生成摘要。")
     else:
-        print("未检测到 GOOGLE_API_KEY 环境变量，将跳过摘要生成。如需生成摘要，请设置此环境变量。")
+        print("未检测到API密钥配置，将跳过摘要生成。请在config.json中配置gemini_api_key。")
 
     process_videos(target_directory, generate_summary)
     print("处理完成。") 
