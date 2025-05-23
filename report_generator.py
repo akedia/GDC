@@ -65,17 +65,33 @@ def main():
                 else:
                     png_path = None
 
+                # 查找同名 wav 文件
+                wav_file = os.path.join(root, f'{base_name}.wav')
+                if os.path.exists(wav_file):
+                    # 使用相同的路径计算逻辑
+                    source_abs_path = os.path.abspath(SOURCE_FOLDER_PATH)
+                    report_dir_abs_path = os.path.dirname(os.path.abspath(REPORT_FILE))
+                    source_rel_to_report = os.path.relpath(source_abs_path, report_dir_abs_path)
+                    
+                    if relative_folder == '.':
+                        wav_path = os.path.join(source_rel_to_report, f'{base_name}.wav').replace('\\', '/')
+                    else:
+                        wav_path = os.path.join(source_rel_to_report, relative_folder, f'{base_name}.wav').replace('\\', '/')
+                else:
+                    wav_path = None
+
                 entries.append({
                     'title': base_name,
                     'relative_folder': relative_folder,
                     'video_link': link,
                     'summary': summary,
-                    'png_path': png_path
+                    'png_path': png_path,
+                    'wav_path': wav_path
                 })
 
     # 生成报告
     with open(REPORT_FILE, 'w', encoding='utf-8') as f:
-        f.write('# GDC 2024 合并报告\n\n')
+        f.write('# GDC 2025 合并报告\n\n')
         f.write('## 目录\n\n')
         for idx, e in enumerate(entries, 1):
             slug = slugify(e['title'])
@@ -92,6 +108,13 @@ def main():
             if e.get('png_path'):
                 png_url = quote(e['png_path'], safe='/')
                 f.write(f"![{e['title']} 截图]({png_url})\n\n")
+            if e.get('wav_path'):
+                wav_url = quote(e['wav_path'], safe='/')
+                f.write(f"**评论音频**:\n\n")
+                f.write(f'<audio controls>\n')
+                f.write(f'  <source src="{wav_url}" type="audio/wav">\n')
+                f.write(f'  您的浏览器不支持音频元素。[点击下载音频]({wav_url})\n')
+                f.write(f'</audio>\n\n')
 
     print(f"报告已生成: {REPORT_FILE}")
 

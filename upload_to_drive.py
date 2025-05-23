@@ -11,8 +11,8 @@ from googleapiclient.http import MediaFileUpload, MediaIoBaseDownload
 SCOPES = ['https://www.googleapis.com/auth/drive'] # 权限范围，允许完全控制 Drive 文件
 CLIENT_SECRETS_FILE = 'client_secrets.json' # OAuth 凭证文件路径
 TOKEN_PICKLE_FILE = 'token.pickle'          # 存储授权令牌的文件路径
-SOURCE_FOLDER_PATH = './2024'       # 本地源文件夹路径 (请修改为你的实际路径)
-TARGET_DRIVE_FOLDER_NAME = 'GDC 2024' # Google Drive 目标文件夹名称 (请修改)
+SOURCE_FOLDER_PATH = './2025'       # 本地源文件夹路径 (请修改为你的实际路径)
+TARGET_DRIVE_FOLDER_NAME = 'GDC 2025' # Google Drive 目标文件夹名称 (请修改)
 # --- 配置结束 ---
 
 def authenticate_google_drive():
